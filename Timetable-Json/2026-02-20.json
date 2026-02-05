@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-02-05T09:13:55+08:00",
+  "UpdateTime": "2026-02-06T06:03:50+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-02-03T15:11:03+08:00",
+  "SrcUpdateTime": "2026-02-05T11:13:02+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-02-20",
   "TrainTimetables": [
@@ -211277,7 +211277,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。"
+        "Note": "每日行駛。※配合春節拜年活動需要，本次車於2月18-22日(共5天)增停【大里站】。"
       },
       "StopTimes": [
         {
@@ -211315,6 +211315,17 @@
         },
         {
           "StopSequence": 4,
+          "StationID": "7270",
+          "StationName": {
+            "Zh_tw": "大里",
+            "En": "Dali"
+          },
+          "ArrivalTime": "11:54",
+          "DepartureTime": "11:55",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
           "StationID": "7290",
           "StationName": {
             "Zh_tw": "福隆",
@@ -211325,7 +211336,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 5,
+          "StopSequence": 6,
           "StationID": "7310",
           "StationName": {
             "Zh_tw": "雙溪",
@@ -211336,7 +211347,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 6,
+          "StopSequence": 7,
           "StationID": "7350",
           "StationName": {
             "Zh_tw": "猴硐",
@@ -211347,7 +211358,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 7,
+          "StopSequence": 8,
           "StationID": "7360",
           "StationName": {
             "Zh_tw": "瑞芳",
@@ -211358,7 +211369,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 8,
+          "StopSequence": 9,
           "StationID": "0930",
           "StationName": {
             "Zh_tw": "七堵",
