@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-02-03T09:44:14+08:00",
+  "UpdateTime": "2026-02-05T09:13:55+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-02-02T17:27:23+08:00",
+  "SrcUpdateTime": "2026-02-03T15:11:03+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-03-04",
   "TrainTimetables": [
@@ -50658,21 +50658,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0930",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "3300",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1210",
               "EndStationID": "3300"
             },
             "EndSection": {
               "StartStationID": "4220",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
               "EndStationID": "5050"
             }
           }
@@ -140510,21 +140510,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "6250"
             },
             "EndSection": {
               "StartStationID": "6130",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -235740,21 +235740,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "0920"
-            },
-            "EndSection": {
-              "StartStationID": "7190",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0920"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
               "EndStationID": "4340"
             }
           }
