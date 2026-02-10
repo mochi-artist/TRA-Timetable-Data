@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-02-08T08:03:58+08:00",
+  "UpdateTime": "2026-02-10T05:53:27+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-02-07T09:17:40+08:00",
+  "SrcUpdateTime": "2026-02-09T16:10:54+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-03-24",
   "TrainTimetables": [
@@ -20581,21 +20581,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1080",
-              "EndStationID": "3360"
-            },
-            "EndSection": {
-              "StartStationID": "4340",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0900",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "1210",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1080",
+              "EndStationID": "3360"
+            },
+            "EndSection": {
+              "StartStationID": "4340",
               "EndStationID": "5050"
             }
           }
@@ -50658,21 +50658,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0930",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "3300",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1210",
               "EndStationID": "3300"
             },
             "EndSection": {
               "StartStationID": "4220",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
               "EndStationID": "5050"
             }
           }
@@ -73051,7 +73051,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。本班次第6節為騰雲座艙、9-11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -140817,21 +140817,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "6250"
-            },
-            "EndSection": {
-              "StartStationID": "6130",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "6250"
+            },
+            "EndSection": {
+              "StartStationID": "6130",
               "EndStationID": "4340"
             }
           }
@@ -261521,6 +261521,77 @@
           },
           "ArrivalTime": "09:47",
           "DepartureTime": "09:47",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6338",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1134",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往臺東",
+        "StartingStationID": "6220",
+        "StartingStationName": {
+          "Zh_tw": "壽豐",
+          "En": "Shoufeng"
+        },
+        "EndingStationID": "6000",
+        "EndingStationName": {
+          "Zh_tw": "臺東",
+          "En": "Taitung"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年3月24日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "6220",
+          "StationName": {
+            "Zh_tw": "壽豐",
+            "En": "Shoufeng"
+          },
+          "ArrivalTime": "14:00",
+          "DepartureTime": "14:00",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "6110",
+          "StationName": {
+            "Zh_tw": "玉里",
+            "En": "Yuli"
+          },
+          "ArrivalTime": "15:13",
+          "DepartureTime": "16:43",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "6000",
+          "StationName": {
+            "Zh_tw": "臺東",
+            "En": "Taitung"
+          },
+          "ArrivalTime": "17:38",
+          "DepartureTime": "17:38",
           "SuspendedFlag": 0
         }
       ]

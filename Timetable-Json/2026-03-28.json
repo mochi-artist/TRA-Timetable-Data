@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-02-08T08:03:58+08:00",
+  "UpdateTime": "2026-02-10T05:53:27+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-02-07T09:17:40+08:00",
+  "SrcUpdateTime": "2026-02-09T16:11:22+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-03-28",
   "TrainTimetables": [
@@ -20889,21 +20889,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1080",
-              "EndStationID": "3360"
-            },
-            "EndSection": {
-              "StartStationID": "4340",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0900",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "1210",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1080",
+              "EndStationID": "3360"
+            },
+            "EndSection": {
+              "StartStationID": "4340",
               "EndStationID": "5050"
             }
           }
@@ -72920,7 +72920,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。本班次第6節為騰雲座艙、9-11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -141009,21 +141009,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "6250"
             },
             "EndSection": {
               "StartStationID": "6130",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -261665,6 +261665,279 @@
           },
           "ArrivalTime": "09:47",
           "DepartureTime": "09:47",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6308",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1134",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往新竹",
+        "StartingStationID": "3300",
+        "StartingStationName": {
+          "Zh_tw": "臺中",
+          "En": "Taichung"
+        },
+        "EndingStationID": "1210",
+        "EndingStationName": {
+          "Zh_tw": "新竹",
+          "En": "Hsinchu"
+        },
+        "OverNightStationID": "",
+        "TripLine": 1,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年3月28日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "3300",
+          "StationName": {
+            "Zh_tw": "臺中",
+            "En": "Taichung"
+          },
+          "ArrivalTime": "08:40",
+          "DepartureTime": "09:05",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1210",
+          "StationName": {
+            "Zh_tw": "新竹",
+            "En": "Hsinchu"
+          },
+          "ArrivalTime": "10:05",
+          "DepartureTime": "10:05",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6310",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1134",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往鶯歌",
+        "StartingStationID": "1220",
+        "StartingStationName": {
+          "Zh_tw": "三姓橋",
+          "En": "Sanxingqiao"
+        },
+        "EndingStationID": "1070",
+        "EndingStationName": {
+          "Zh_tw": "鶯歌",
+          "En": "Yingge"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年3月28日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "1220",
+          "StationName": {
+            "Zh_tw": "三姓橋",
+            "En": "Sanxingqiao"
+          },
+          "ArrivalTime": "14:27",
+          "DepartureTime": "14:30",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1070",
+          "StationName": {
+            "Zh_tw": "鶯歌",
+            "En": "Yingge"
+          },
+          "ArrivalTime": "15:25",
+          "DepartureTime": "15:25",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6442",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1112",
+        "TrainTypeCode": "4",
+        "TrainTypeName": {
+          "Zh_tw": "莒光(專開列車)",
+          "En": "Chu-Kuang Express"
+        },
+        "TripHeadSign": "往臺南",
+        "StartingStationID": "6000",
+        "StartingStationName": {
+          "Zh_tw": "臺東",
+          "En": "Taitung"
+        },
+        "EndingStationID": "4220",
+        "EndingStationName": {
+          "Zh_tw": "臺南",
+          "En": "Tainan"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年3月28日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "6000",
+          "StationName": {
+            "Zh_tw": "臺東",
+            "En": "Taitung"
+          },
+          "ArrivalTime": "18:08",
+          "DepartureTime": "18:08",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "4400",
+          "StationName": {
+            "Zh_tw": "高雄",
+            "En": "Kaohsiung"
+          },
+          "ArrivalTime": "20:56",
+          "DepartureTime": "20:58",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "4220",
+          "StationName": {
+            "Zh_tw": "臺南",
+            "En": "Tainan"
+          },
+          "ArrivalTime": "21:42",
+          "DepartureTime": "21:45",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6443",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1112",
+        "TrainTypeCode": "4",
+        "TrainTypeName": {
+          "Zh_tw": "莒光(專開列車)",
+          "En": "Chu-Kuang Express"
+        },
+        "TripHeadSign": "往臺東",
+        "StartingStationID": "4220",
+        "StartingStationName": {
+          "Zh_tw": "臺南",
+          "En": "Tainan"
+        },
+        "EndingStationID": "6000",
+        "EndingStationName": {
+          "Zh_tw": "臺東",
+          "En": "Taitung"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年3月28日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "4220",
+          "StationName": {
+            "Zh_tw": "臺南",
+            "En": "Tainan"
+          },
+          "ArrivalTime": "07:20",
+          "DepartureTime": "07:27",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "4400",
+          "StationName": {
+            "Zh_tw": "高雄",
+            "En": "Kaohsiung"
+          },
+          "ArrivalTime": "08:07",
+          "DepartureTime": "08:08",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "5090",
+          "StationName": {
+            "Zh_tw": "林邊",
+            "En": "Linbian"
+          },
+          "ArrivalTime": "09:10",
+          "DepartureTime": "10:10",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "6000",
+          "StationName": {
+            "Zh_tw": "臺東",
+            "En": "Taitung"
+          },
+          "ArrivalTime": "12:27",
+          "DepartureTime": "12:27",
           "SuspendedFlag": 0
         }
       ]
