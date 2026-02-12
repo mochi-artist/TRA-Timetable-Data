@@ -140148,21 +140148,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "6250"
             },
             "EndSection": {
               "StartStationID": "6130",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
