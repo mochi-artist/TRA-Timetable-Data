@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-02-13T08:53:24+08:00",
+  "UpdateTime": "2026-02-14T09:53:25+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-02-12T19:14:21+08:00",
+  "SrcUpdateTime": "2026-02-13T19:09:34+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-03-08",
   "TrainTimetables": [
@@ -97585,16 +97585,16 @@
           "Zh_tw": "區間",
           "En": "Local Train"
         },
-        "TripHeadSign": "往嘉義",
+        "TripHeadSign": "往臺南",
         "StartingStationID": "1150",
         "StartingStationName": {
           "Zh_tw": "北湖",
           "En": "Beihu"
         },
-        "EndingStationID": "4080",
+        "EndingStationID": "4220",
         "EndingStationName": {
-          "Zh_tw": "嘉義",
-          "En": "Chiayi"
+          "Zh_tw": "臺南",
+          "En": "Tainan"
         },
         "OverNightStationID": "",
         "TripLine": 1,
@@ -97604,10 +97604,10 @@
         "BreastFeedFlag": 0,
         "BikeFlag": 1,
         "CarFlag": 0,
-        "DailyFlag": 1,
+        "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。"
+        "Note": "民國115年3月3、6-8、13-15日行駛。※配合「2026台灣燈會」活動，本次車於3月3、6-8、13-15日(共7天)延長行駛至【台南站】。"
       },
       "StopTimes": [
         {
@@ -98135,7 +98135,161 @@
             "En": "Chiayi"
           },
           "ArrivalTime": "20:38",
-          "DepartureTime": "20:38",
+          "DepartureTime": "20:39",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 49,
+          "StationID": "4090",
+          "StationName": {
+            "Zh_tw": "水上",
+            "En": "Shuishang"
+          },
+          "ArrivalTime": "20:44",
+          "DepartureTime": "20:44",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 50,
+          "StationID": "4100",
+          "StationName": {
+            "Zh_tw": "南靖",
+            "En": "Nanjing"
+          },
+          "ArrivalTime": "20:47",
+          "DepartureTime": "20:47",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 51,
+          "StationID": "4110",
+          "StationName": {
+            "Zh_tw": "後壁",
+            "En": "Houbi"
+          },
+          "ArrivalTime": "20:52",
+          "DepartureTime": "20:53",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 52,
+          "StationID": "4120",
+          "StationName": {
+            "Zh_tw": "新營",
+            "En": "Xinying"
+          },
+          "ArrivalTime": "20:59",
+          "DepartureTime": "21:00",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 53,
+          "StationID": "4130",
+          "StationName": {
+            "Zh_tw": "柳營",
+            "En": "Liuying"
+          },
+          "ArrivalTime": "21:03",
+          "DepartureTime": "21:03",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 54,
+          "StationID": "4140",
+          "StationName": {
+            "Zh_tw": "林鳳營",
+            "En": "Linfengying"
+          },
+          "ArrivalTime": "21:08",
+          "DepartureTime": "21:13",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 55,
+          "StationID": "4150",
+          "StationName": {
+            "Zh_tw": "隆田",
+            "En": "Longtian"
+          },
+          "ArrivalTime": "21:18",
+          "DepartureTime": "21:19",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 56,
+          "StationID": "4160",
+          "StationName": {
+            "Zh_tw": "拔林",
+            "En": "Balin"
+          },
+          "ArrivalTime": "21:22",
+          "DepartureTime": "21:22",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 57,
+          "StationID": "4170",
+          "StationName": {
+            "Zh_tw": "善化",
+            "En": "Shanhua"
+          },
+          "ArrivalTime": "21:26",
+          "DepartureTime": "21:27",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 58,
+          "StationID": "4180",
+          "StationName": {
+            "Zh_tw": "南科",
+            "En": "Nanke"
+          },
+          "ArrivalTime": "21:30",
+          "DepartureTime": "21:31",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 59,
+          "StationID": "4190",
+          "StationName": {
+            "Zh_tw": "新市",
+            "En": "Xinshi"
+          },
+          "ArrivalTime": "21:35",
+          "DepartureTime": "21:35",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 60,
+          "StationID": "4200",
+          "StationName": {
+            "Zh_tw": "永康",
+            "En": "Yongkang"
+          },
+          "ArrivalTime": "21:40",
+          "DepartureTime": "21:41",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 61,
+          "StationID": "4210",
+          "StationName": {
+            "Zh_tw": "大橋",
+            "En": "Daqiao"
+          },
+          "ArrivalTime": "21:44",
+          "DepartureTime": "21:45",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 62,
+          "StationID": "4220",
+          "StationName": {
+            "Zh_tw": "臺南",
+            "En": "Tainan"
+          },
+          "ArrivalTime": "21:49",
+          "DepartureTime": "21:49",
           "SuspendedFlag": 0
         }
       ]
@@ -141920,21 +142074,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "6250"
-            },
-            "EndSection": {
-              "StartStationID": "6130",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "6250"
+            },
+            "EndSection": {
+              "StartStationID": "6130",
               "EndStationID": "4340"
             }
           }
@@ -180083,16 +180237,16 @@
           "Zh_tw": "區間",
           "En": "Local Train"
         },
-        "TripHeadSign": "往民雄",
+        "TripHeadSign": "往斗六",
         "StartingStationID": "5050",
         "StartingStationName": {
           "Zh_tw": "潮州",
           "En": "Chaozhou"
         },
-        "EndingStationID": "4060",
+        "EndingStationID": "3470",
         "EndingStationName": {
-          "Zh_tw": "民雄",
-          "En": "Minxiong"
+          "Zh_tw": "斗六",
+          "En": "Douliu"
         },
         "OverNightStationID": "",
         "TripLine": 0,
@@ -180102,10 +180256,10 @@
         "BreastFeedFlag": 0,
         "BikeFlag": 0,
         "CarFlag": 0,
-        "DailyFlag": 1,
+        "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。"
+        "Note": "民國115年3月3、6-8、13-15日行駛。※配合「2026台灣燈會」活動，本次車於3月3、6-8、13-15日(共7天)延長行駛至【斗六站】。"
       },
       "StopTimes": [
         {
@@ -180600,7 +180754,51 @@
             "En": "Minxiong"
           },
           "ArrivalTime": "19:56",
-          "DepartureTime": "19:56",
+          "DepartureTime": "20:01",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 46,
+          "StationID": "4050",
+          "StationName": {
+            "Zh_tw": "大林",
+            "En": "Dalin"
+          },
+          "ArrivalTime": "20:06",
+          "DepartureTime": "20:06",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 47,
+          "StationID": "3490",
+          "StationName": {
+            "Zh_tw": "石龜",
+            "En": "Shigui"
+          },
+          "ArrivalTime": "20:10",
+          "DepartureTime": "20:11",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 48,
+          "StationID": "3480",
+          "StationName": {
+            "Zh_tw": "斗南",
+            "En": "Dounan"
+          },
+          "ArrivalTime": "20:14",
+          "DepartureTime": "20:15",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 49,
+          "StationID": "3470",
+          "StationName": {
+            "Zh_tw": "斗六",
+            "En": "Douliu"
+          },
+          "ArrivalTime": "20:22",
+          "DepartureTime": "20:22",
           "SuspendedFlag": 0
         }
       ]
@@ -188976,10 +189174,10 @@
           "En": "Local Train"
         },
         "TripHeadSign": "往潮州",
-        "StartingStationID": "4060",
+        "StartingStationID": "3470",
         "StartingStationName": {
-          "Zh_tw": "民雄",
-          "En": "Minxiong"
+          "Zh_tw": "斗六",
+          "En": "Douliu"
         },
         "EndingStationID": "5050",
         "EndingStationName": {
@@ -188994,25 +189192,69 @@
         "BreastFeedFlag": 0,
         "BikeFlag": 0,
         "CarFlag": 0,
-        "DailyFlag": 1,
+        "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。在屏東跨日。"
+        "Note": "民國115年3月3、6-8、13-15日行駛。在屏東跨日。※配合「2026台灣燈會」活動，本次車於3月3、6-8、13-15日(共7天)調整為【斗六站】始發。"
       },
       "StopTimes": [
         {
           "StopSequence": 1,
+          "StationID": "3470",
+          "StationName": {
+            "Zh_tw": "斗六",
+            "En": "Douliu"
+          },
+          "ArrivalTime": "20:40",
+          "DepartureTime": "20:40",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "3480",
+          "StationName": {
+            "Zh_tw": "斗南",
+            "En": "Dounan"
+          },
+          "ArrivalTime": "20:47",
+          "DepartureTime": "20:48",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "3490",
+          "StationName": {
+            "Zh_tw": "石龜",
+            "En": "Shigui"
+          },
+          "ArrivalTime": "20:51",
+          "DepartureTime": "20:52",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "4050",
+          "StationName": {
+            "Zh_tw": "大林",
+            "En": "Dalin"
+          },
+          "ArrivalTime": "20:57",
+          "DepartureTime": "21:03",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
           "StationID": "4060",
           "StationName": {
             "Zh_tw": "民雄",
             "En": "Minxiong"
           },
-          "ArrivalTime": "21:10",
+          "ArrivalTime": "21:08",
           "DepartureTime": "21:10",
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 2,
+          "StopSequence": 6,
           "StationID": "4070",
           "StationName": {
             "Zh_tw": "嘉北",
@@ -189023,7 +189265,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 3,
+          "StopSequence": 7,
           "StationID": "4080",
           "StationName": {
             "Zh_tw": "嘉義",
@@ -189034,7 +189276,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 4,
+          "StopSequence": 8,
           "StationID": "4090",
           "StationName": {
             "Zh_tw": "水上",
@@ -189045,7 +189287,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 5,
+          "StopSequence": 9,
           "StationID": "4100",
           "StationName": {
             "Zh_tw": "南靖",
@@ -189056,7 +189298,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 6,
+          "StopSequence": 10,
           "StationID": "4110",
           "StationName": {
             "Zh_tw": "後壁",
@@ -189067,7 +189309,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 7,
+          "StopSequence": 11,
           "StationID": "4120",
           "StationName": {
             "Zh_tw": "新營",
@@ -189078,7 +189320,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 8,
+          "StopSequence": 12,
           "StationID": "4130",
           "StationName": {
             "Zh_tw": "柳營",
@@ -189089,7 +189331,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 9,
+          "StopSequence": 13,
           "StationID": "4140",
           "StationName": {
             "Zh_tw": "林鳳營",
@@ -189100,7 +189342,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 10,
+          "StopSequence": 14,
           "StationID": "4150",
           "StationName": {
             "Zh_tw": "隆田",
@@ -189111,7 +189353,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 11,
+          "StopSequence": 15,
           "StationID": "4160",
           "StationName": {
             "Zh_tw": "拔林",
@@ -189122,7 +189364,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 12,
+          "StopSequence": 16,
           "StationID": "4170",
           "StationName": {
             "Zh_tw": "善化",
@@ -189133,7 +189375,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 13,
+          "StopSequence": 17,
           "StationID": "4180",
           "StationName": {
             "Zh_tw": "南科",
@@ -189144,7 +189386,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 14,
+          "StopSequence": 18,
           "StationID": "4190",
           "StationName": {
             "Zh_tw": "新市",
@@ -189155,7 +189397,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 15,
+          "StopSequence": 19,
           "StationID": "4200",
           "StationName": {
             "Zh_tw": "永康",
@@ -189166,7 +189408,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 16,
+          "StopSequence": 20,
           "StationID": "4210",
           "StationName": {
             "Zh_tw": "大橋",
@@ -189177,7 +189419,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 17,
+          "StopSequence": 21,
           "StationID": "4220",
           "StationName": {
             "Zh_tw": "臺南",
@@ -189188,7 +189430,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 18,
+          "StopSequence": 22,
           "StationID": "4250",
           "StationName": {
             "Zh_tw": "保安",
@@ -189199,7 +189441,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 19,
+          "StopSequence": 23,
           "StationID": "4260",
           "StationName": {
             "Zh_tw": "仁德",
@@ -189210,7 +189452,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 20,
+          "StopSequence": 24,
           "StationID": "4270",
           "StationName": {
             "Zh_tw": "中洲",
@@ -189221,7 +189463,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 21,
+          "StopSequence": 25,
           "StationID": "4290",
           "StationName": {
             "Zh_tw": "大湖",
@@ -189232,7 +189474,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 22,
+          "StopSequence": 26,
           "StationID": "4300",
           "StationName": {
             "Zh_tw": "路竹",
@@ -189243,7 +189485,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 23,
+          "StopSequence": 27,
           "StationID": "4310",
           "StationName": {
             "Zh_tw": "岡山",
@@ -189254,7 +189496,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 24,
+          "StopSequence": 28,
           "StationID": "4320",
           "StationName": {
             "Zh_tw": "橋頭",
@@ -189265,7 +189507,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 25,
+          "StopSequence": 29,
           "StationID": "4330",
           "StationName": {
             "Zh_tw": "楠梓",
@@ -189276,7 +189518,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 26,
+          "StopSequence": 30,
           "StationID": "4340",
           "StationName": {
             "Zh_tw": "新左營",
@@ -189287,7 +189529,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 27,
+          "StopSequence": 31,
           "StationID": "4350",
           "StationName": {
             "Zh_tw": "左營",
@@ -189298,7 +189540,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 28,
+          "StopSequence": 32,
           "StationID": "4360",
           "StationName": {
             "Zh_tw": "內惟",
@@ -189309,7 +189551,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 29,
+          "StopSequence": 33,
           "StationID": "4370",
           "StationName": {
             "Zh_tw": "美術館",
@@ -189320,7 +189562,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 30,
+          "StopSequence": 34,
           "StationID": "4380",
           "StationName": {
             "Zh_tw": "鼓山",
@@ -189331,7 +189573,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 31,
+          "StopSequence": 35,
           "StationID": "4390",
           "StationName": {
             "Zh_tw": "三塊厝",
@@ -189342,7 +189584,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 32,
+          "StopSequence": 36,
           "StationID": "4400",
           "StationName": {
             "Zh_tw": "高雄",
@@ -189353,7 +189595,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 33,
+          "StopSequence": 37,
           "StationID": "4410",
           "StationName": {
             "Zh_tw": "民族",
@@ -189364,7 +189606,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 34,
+          "StopSequence": 38,
           "StationID": "4420",
           "StationName": {
             "Zh_tw": "科工館",
@@ -189375,7 +189617,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 35,
+          "StopSequence": 39,
           "StationID": "4430",
           "StationName": {
             "Zh_tw": "正義",
@@ -189386,7 +189628,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 36,
+          "StopSequence": 40,
           "StationID": "4440",
           "StationName": {
             "Zh_tw": "鳳山",
@@ -189397,7 +189639,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 37,
+          "StopSequence": 41,
           "StationID": "4450",
           "StationName": {
             "Zh_tw": "後庄",
@@ -189408,7 +189650,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 38,
+          "StopSequence": 42,
           "StationID": "4460",
           "StationName": {
             "Zh_tw": "九曲堂",
@@ -189419,7 +189661,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 39,
+          "StopSequence": 43,
           "StationID": "4470",
           "StationName": {
             "Zh_tw": "六塊厝",
@@ -189430,7 +189672,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 40,
+          "StopSequence": 44,
           "StationID": "5000",
           "StationName": {
             "Zh_tw": "屏東",
@@ -189441,7 +189683,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 41,
+          "StopSequence": 45,
           "StationID": "5010",
           "StationName": {
             "Zh_tw": "歸來",
@@ -189452,7 +189694,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 42,
+          "StopSequence": 46,
           "StationID": "5020",
           "StationName": {
             "Zh_tw": "麟洛",
@@ -189463,7 +189705,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 43,
+          "StopSequence": 47,
           "StationID": "5030",
           "StationName": {
             "Zh_tw": "西勢",
@@ -189474,7 +189716,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 44,
+          "StopSequence": 48,
           "StationID": "5040",
           "StationName": {
             "Zh_tw": "竹田",
@@ -189485,7 +189727,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 45,
+          "StopSequence": 49,
           "StationID": "5050",
           "StationName": {
             "Zh_tw": "潮州",
@@ -198994,6 +199236,554 @@
           },
           "ArrivalTime": "23:59",
           "DepartureTime": "23:59",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "3661",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1131",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往臺南",
+        "StartingStationID": "4080",
+        "StartingStationName": {
+          "Zh_tw": "嘉義",
+          "En": "Chiayi"
+        },
+        "EndingStationID": "4220",
+        "EndingStationName": {
+          "Zh_tw": "臺南",
+          "En": "Tainan"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 1,
+        "SuspendedFlag": 0,
+        "Note": "民國115年3月3、6-8、13-15日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "4080",
+          "StationName": {
+            "Zh_tw": "嘉義",
+            "En": "Chiayi"
+          },
+          "ArrivalTime": "20:02",
+          "DepartureTime": "20:02",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "4090",
+          "StationName": {
+            "Zh_tw": "水上",
+            "En": "Shuishang"
+          },
+          "ArrivalTime": "20:08",
+          "DepartureTime": "20:08",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "4100",
+          "StationName": {
+            "Zh_tw": "南靖",
+            "En": "Nanjing"
+          },
+          "ArrivalTime": "20:11",
+          "DepartureTime": "20:11",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "4110",
+          "StationName": {
+            "Zh_tw": "後壁",
+            "En": "Houbi"
+          },
+          "ArrivalTime": "20:16",
+          "DepartureTime": "20:17",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "4120",
+          "StationName": {
+            "Zh_tw": "新營",
+            "En": "Xinying"
+          },
+          "ArrivalTime": "20:23",
+          "DepartureTime": "20:24",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "4130",
+          "StationName": {
+            "Zh_tw": "柳營",
+            "En": "Liuying"
+          },
+          "ArrivalTime": "20:27",
+          "DepartureTime": "20:27",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "4140",
+          "StationName": {
+            "Zh_tw": "林鳳營",
+            "En": "Linfengying"
+          },
+          "ArrivalTime": "20:31",
+          "DepartureTime": "20:31",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 8,
+          "StationID": "4150",
+          "StationName": {
+            "Zh_tw": "隆田",
+            "En": "Longtian"
+          },
+          "ArrivalTime": "20:36",
+          "DepartureTime": "20:37",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 9,
+          "StationID": "4160",
+          "StationName": {
+            "Zh_tw": "拔林",
+            "En": "Balin"
+          },
+          "ArrivalTime": "20:39",
+          "DepartureTime": "20:40",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 10,
+          "StationID": "4170",
+          "StationName": {
+            "Zh_tw": "善化",
+            "En": "Shanhua"
+          },
+          "ArrivalTime": "20:44",
+          "DepartureTime": "20:45",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 11,
+          "StationID": "4180",
+          "StationName": {
+            "Zh_tw": "南科",
+            "En": "Nanke"
+          },
+          "ArrivalTime": "20:48",
+          "DepartureTime": "20:48",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 12,
+          "StationID": "4190",
+          "StationName": {
+            "Zh_tw": "新市",
+            "En": "Xinshi"
+          },
+          "ArrivalTime": "20:52",
+          "DepartureTime": "20:53",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 13,
+          "StationID": "4200",
+          "StationName": {
+            "Zh_tw": "永康",
+            "En": "Yongkang"
+          },
+          "ArrivalTime": "20:58",
+          "DepartureTime": "20:59",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 14,
+          "StationID": "4210",
+          "StationName": {
+            "Zh_tw": "大橋",
+            "En": "Daqiao"
+          },
+          "ArrivalTime": "21:02",
+          "DepartureTime": "21:03",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 15,
+          "StationID": "4220",
+          "StationName": {
+            "Zh_tw": "臺南",
+            "En": "Tainan"
+          },
+          "ArrivalTime": "21:07",
+          "DepartureTime": "21:07",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "3664",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1131",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往斗六",
+        "StartingStationID": "4080",
+        "StartingStationName": {
+          "Zh_tw": "嘉義",
+          "En": "Chiayi"
+        },
+        "EndingStationID": "3470",
+        "EndingStationName": {
+          "Zh_tw": "斗六",
+          "En": "Douliu"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 1,
+        "SuspendedFlag": 0,
+        "Note": "民國115年3月3、6-8、13-15日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "4080",
+          "StationName": {
+            "Zh_tw": "嘉義",
+            "En": "Chiayi"
+          },
+          "ArrivalTime": "20:35",
+          "DepartureTime": "20:35",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "4070",
+          "StationName": {
+            "Zh_tw": "嘉北",
+            "En": "Jiabei"
+          },
+          "ArrivalTime": "20:39",
+          "DepartureTime": "20:39",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "4060",
+          "StationName": {
+            "Zh_tw": "民雄",
+            "En": "Minxiong"
+          },
+          "ArrivalTime": "20:44",
+          "DepartureTime": "20:45",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "4050",
+          "StationName": {
+            "Zh_tw": "大林",
+            "En": "Dalin"
+          },
+          "ArrivalTime": "20:50",
+          "DepartureTime": "20:51",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "3490",
+          "StationName": {
+            "Zh_tw": "石龜",
+            "En": "Shigui"
+          },
+          "ArrivalTime": "20:55",
+          "DepartureTime": "20:55",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "3480",
+          "StationName": {
+            "Zh_tw": "斗南",
+            "En": "Dounan"
+          },
+          "ArrivalTime": "20:59",
+          "DepartureTime": "21:00",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "3470",
+          "StationName": {
+            "Zh_tw": "斗六",
+            "En": "Douliu"
+          },
+          "ArrivalTime": "21:07",
+          "DepartureTime": "21:07",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "3666",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1131",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往斗六",
+        "StartingStationID": "4080",
+        "StartingStationName": {
+          "Zh_tw": "嘉義",
+          "En": "Chiayi"
+        },
+        "EndingStationID": "3470",
+        "EndingStationName": {
+          "Zh_tw": "斗六",
+          "En": "Douliu"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 1,
+        "SuspendedFlag": 0,
+        "Note": "民國115年3月3、6-8、13-15日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "4080",
+          "StationName": {
+            "Zh_tw": "嘉義",
+            "En": "Chiayi"
+          },
+          "ArrivalTime": "21:28",
+          "DepartureTime": "21:28",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "4070",
+          "StationName": {
+            "Zh_tw": "嘉北",
+            "En": "Jiabei"
+          },
+          "ArrivalTime": "21:32",
+          "DepartureTime": "21:32",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "4060",
+          "StationName": {
+            "Zh_tw": "民雄",
+            "En": "Minxiong"
+          },
+          "ArrivalTime": "21:37",
+          "DepartureTime": "21:38",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "4050",
+          "StationName": {
+            "Zh_tw": "大林",
+            "En": "Dalin"
+          },
+          "ArrivalTime": "21:44",
+          "DepartureTime": "21:48",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "3490",
+          "StationName": {
+            "Zh_tw": "石龜",
+            "En": "Shigui"
+          },
+          "ArrivalTime": "21:53",
+          "DepartureTime": "21:53",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "3480",
+          "StationName": {
+            "Zh_tw": "斗南",
+            "En": "Dounan"
+          },
+          "ArrivalTime": "21:57",
+          "DepartureTime": "21:58",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "3470",
+          "StationName": {
+            "Zh_tw": "斗六",
+            "En": "Douliu"
+          },
+          "ArrivalTime": "22:05",
+          "DepartureTime": "22:05",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "3668",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1131",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往斗六",
+        "StartingStationID": "4080",
+        "StartingStationName": {
+          "Zh_tw": "嘉義",
+          "En": "Chiayi"
+        },
+        "EndingStationID": "3470",
+        "EndingStationName": {
+          "Zh_tw": "斗六",
+          "En": "Douliu"
+        },
+        "OverNightStationID": "3480",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 1,
+        "SuspendedFlag": 0,
+        "Note": "民國115年3月3、6-8、13-15日行駛。在斗南跨日。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "4080",
+          "StationName": {
+            "Zh_tw": "嘉義",
+            "En": "Chiayi"
+          },
+          "ArrivalTime": "23:39",
+          "DepartureTime": "23:39",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "4070",
+          "StationName": {
+            "Zh_tw": "嘉北",
+            "En": "Jiabei"
+          },
+          "ArrivalTime": "23:43",
+          "DepartureTime": "23:43",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "4060",
+          "StationName": {
+            "Zh_tw": "民雄",
+            "En": "Minxiong"
+          },
+          "ArrivalTime": "23:48",
+          "DepartureTime": "23:49",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "4050",
+          "StationName": {
+            "Zh_tw": "大林",
+            "En": "Dalin"
+          },
+          "ArrivalTime": "23:54",
+          "DepartureTime": "23:55",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "3490",
+          "StationName": {
+            "Zh_tw": "石龜",
+            "En": "Shigui"
+          },
+          "ArrivalTime": "23:59",
+          "DepartureTime": "23:59",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "3480",
+          "StationName": {
+            "Zh_tw": "斗南",
+            "En": "Dounan"
+          },
+          "ArrivalTime": "00:03",
+          "DepartureTime": "00:04",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "3470",
+          "StationName": {
+            "Zh_tw": "斗六",
+            "En": "Douliu"
+          },
+          "ArrivalTime": "00:11",
+          "DepartureTime": "00:11",
           "SuspendedFlag": 0
         }
       ]
@@ -260258,6 +261048,121 @@
           },
           "ArrivalTime": "07:13",
           "DepartureTime": "07:16",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "5099",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1132",
+        "TrainTypeCode": "10",
+        "TrainTypeName": {
+          "Zh_tw": "區間快",
+          "En": "Fast Local Train"
+        },
+        "TripHeadSign": "往臺南",
+        "StartingStationID": "4080",
+        "StartingStationName": {
+          "Zh_tw": "嘉義",
+          "En": "Chiayi"
+        },
+        "EndingStationID": "4220",
+        "EndingStationName": {
+          "Zh_tw": "臺南",
+          "En": "Tainan"
+        },
+        "OverNightStationID": "4150",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 1,
+        "SuspendedFlag": 0,
+        "Note": "民國115年3月3、6-8、13-15日行駛。在隆田跨日。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "4080",
+          "StationName": {
+            "Zh_tw": "嘉義",
+            "En": "Chiayi"
+          },
+          "ArrivalTime": "23:40",
+          "DepartureTime": "23:40",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "4120",
+          "StationName": {
+            "Zh_tw": "新營",
+            "En": "Xinying"
+          },
+          "ArrivalTime": "23:56",
+          "DepartureTime": "23:57",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "4150",
+          "StationName": {
+            "Zh_tw": "隆田",
+            "En": "Longtian"
+          },
+          "ArrivalTime": "00:06",
+          "DepartureTime": "00:07",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "4170",
+          "StationName": {
+            "Zh_tw": "善化",
+            "En": "Shanhua"
+          },
+          "ArrivalTime": "00:12",
+          "DepartureTime": "00:13",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "4190",
+          "StationName": {
+            "Zh_tw": "新市",
+            "En": "Xinshi"
+          },
+          "ArrivalTime": "00:19",
+          "DepartureTime": "00:20",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "4200",
+          "StationName": {
+            "Zh_tw": "永康",
+            "En": "Yongkang"
+          },
+          "ArrivalTime": "00:25",
+          "DepartureTime": "00:26",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "4220",
+          "StationName": {
+            "Zh_tw": "臺南",
+            "En": "Tainan"
+          },
+          "ArrivalTime": "00:32",
+          "DepartureTime": "00:32",
           "SuspendedFlag": 0
         }
       ]
