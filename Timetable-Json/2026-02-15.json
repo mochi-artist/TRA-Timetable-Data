@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-02-14T09:53:25+08:00",
+  "UpdateTime": "2026-02-15T06:43:05+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-02-13T19:05:19+08:00",
+  "SrcUpdateTime": "2026-02-14T23:44:37+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-02-15",
   "TrainTimetables": [
@@ -1921,10 +1921,10 @@
         "TrainNo": "102",
         "RouteID": "",
         "Direction": 0,
-        "TrainTypeID": "110A",
+        "TrainTypeID": "1108",
         "TrainTypeCode": "3",
         "TrainTypeName": {
-          "Zh_tw": "自強(推拉式自強號且有自行車車廂)",
+          "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
           "En": "Tze-Chiang Limited Express"
         },
         "TripHeadSign": "往七堵",
@@ -1944,12 +1944,12 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。"
+        "Note": "本日第12車改PPP替駛"
       },
       "StopTimes": [
         {
