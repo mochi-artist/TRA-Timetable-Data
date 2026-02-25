@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-02-24T07:23:22+08:00",
+  "UpdateTime": "2026-02-25T08:23:20+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-02-23T11:22:23+08:00",
+  "SrcUpdateTime": "2026-02-24T14:34:07+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-03-11",
   "TrainTimetables": [
@@ -20581,21 +20581,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0900",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "1210",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1080",
               "EndStationID": "3360"
             },
             "EndSection": {
               "StartStationID": "4340",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0900",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "1210",
               "EndStationID": "5050"
             }
           }
@@ -140510,21 +140510,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "6250"
-            },
-            "EndSection": {
-              "StartStationID": "6130",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "6250"
+            },
+            "EndSection": {
+              "StartStationID": "6130",
               "EndStationID": "4340"
             }
           }
@@ -261868,6 +261868,110 @@
           },
           "ArrivalTime": "23:00",
           "DepartureTime": "23:00",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6831",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1112",
+        "TrainTypeCode": "4",
+        "TrainTypeName": {
+          "Zh_tw": "莒光(專開列車)",
+          "En": "Chu-Kuang Express"
+        },
+        "TripHeadSign": "往嘉義",
+        "StartingStationID": "0930",
+        "StartingStationName": {
+          "Zh_tw": "七堵",
+          "En": "Qidu"
+        },
+        "EndingStationID": "4080",
+        "EndingStationName": {
+          "Zh_tw": "嘉義",
+          "En": "Chiayi"
+        },
+        "OverNightStationID": "",
+        "TripLine": 1,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年3月11日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "0930",
+          "StationName": {
+            "Zh_tw": "七堵",
+            "En": "Qidu"
+          },
+          "ArrivalTime": "08:14",
+          "DepartureTime": "08:14",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1080",
+          "StationName": {
+            "Zh_tw": "桃園",
+            "En": "Taoyuan"
+          },
+          "ArrivalTime": "09:23",
+          "DepartureTime": "09:25",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1100",
+          "StationName": {
+            "Zh_tw": "中壢",
+            "En": "Zhongli_Taoyuan"
+          },
+          "ArrivalTime": "09:35",
+          "DepartureTime": "09:36",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "1110",
+          "StationName": {
+            "Zh_tw": "埔心",
+            "En": "Puxin"
+          },
+          "ArrivalTime": "09:43",
+          "DepartureTime": "09:44",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "1120",
+          "StationName": {
+            "Zh_tw": "楊梅",
+            "En": "Yangmei"
+          },
+          "ArrivalTime": "09:48",
+          "DepartureTime": "09:56",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "4080",
+          "StationName": {
+            "Zh_tw": "嘉義",
+            "En": "Chiayi"
+          },
+          "ArrivalTime": "13:10",
+          "DepartureTime": "13:15",
           "SuspendedFlag": 0
         }
       ]
