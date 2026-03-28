@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-03-26T09:35:38+08:00",
+  "UpdateTime": "2026-03-28T07:25:23+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-03-25T17:04:32+08:00",
+  "SrcUpdateTime": "2026-03-27T21:51:13+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-04-26",
   "TrainTimetables": [
@@ -19976,21 +19976,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0900",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "1210",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1080",
               "EndStationID": "3360"
             },
             "EndSection": {
               "StartStationID": "4340",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0900",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "1210",
               "EndStationID": "5050"
             }
           }
@@ -50201,21 +50201,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0930",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "3300",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1210",
               "EndStationID": "3300"
             },
             "EndSection": {
               "StartStationID": "4220",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
               "EndStationID": "5050"
             }
           }
@@ -140952,21 +140952,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "6250"
             },
             "EndSection": {
               "StartStationID": "6130",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -263698,6 +263698,181 @@
     },
     {
       "TrainInfo": {
+        "TrainNo": "6301",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往臺中",
+        "StartingStationID": "1250",
+        "StartingStationName": {
+          "Zh_tw": "竹南",
+          "En": "Zhunan"
+        },
+        "EndingStationID": "3300",
+        "EndingStationName": {
+          "Zh_tw": "臺中",
+          "En": "Taichung"
+        },
+        "OverNightStationID": "",
+        "TripLine": 3,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年4月26日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "1250",
+          "StationName": {
+            "Zh_tw": "竹南",
+            "En": "Zhunan"
+          },
+          "ArrivalTime": "09:19",
+          "DepartureTime": "09:19",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "2150",
+          "StationName": {
+            "Zh_tw": "白沙屯",
+            "En": "Baishatun"
+          },
+          "ArrivalTime": "09:45",
+          "DepartureTime": "11:47",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "2200",
+          "StationName": {
+            "Zh_tw": "大甲",
+            "En": "Dajia"
+          },
+          "ArrivalTime": "12:13",
+          "DepartureTime": "15:15",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "2260",
+          "StationName": {
+            "Zh_tw": "追分",
+            "En": "Zhuifen"
+          },
+          "ArrivalTime": "15:46",
+          "DepartureTime": "16:10",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "3300",
+          "StationName": {
+            "Zh_tw": "臺中",
+            "En": "Taichung"
+          },
+          "ArrivalTime": "16:22",
+          "DepartureTime": "16:22",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6316",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往竹南",
+        "StartingStationID": "3300",
+        "StartingStationName": {
+          "Zh_tw": "臺中",
+          "En": "Taichung"
+        },
+        "EndingStationID": "1250",
+        "EndingStationName": {
+          "Zh_tw": "竹南",
+          "En": "Zhunan"
+        },
+        "OverNightStationID": "",
+        "TripLine": 1,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年4月26日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "3300",
+          "StationName": {
+            "Zh_tw": "臺中",
+            "En": "Taichung"
+          },
+          "ArrivalTime": "08:00",
+          "DepartureTime": "08:07",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "3230",
+          "StationName": {
+            "Zh_tw": "豐原",
+            "En": "Fengyuan"
+          },
+          "ArrivalTime": "08:18",
+          "DepartureTime": "08:19",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "3220",
+          "StationName": {
+            "Zh_tw": "后里",
+            "En": "Houli"
+          },
+          "ArrivalTime": "08:24",
+          "DepartureTime": "08:25",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "1250",
+          "StationName": {
+            "Zh_tw": "竹南",
+            "En": "Zhunan"
+          },
+          "ArrivalTime": "08:56",
+          "DepartureTime": "08:56",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
         "TrainNo": "653",
         "RouteID": "",
         "Direction": 1,
@@ -264461,6 +264636,252 @@
           },
           "ArrivalTime": "20:50",
           "DepartureTime": "20:50",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6631",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往保安",
+        "StartingStationID": "4220",
+        "StartingStationName": {
+          "Zh_tw": "臺南",
+          "En": "Tainan"
+        },
+        "EndingStationID": "4250",
+        "EndingStationName": {
+          "Zh_tw": "保安",
+          "En": "Bao'an"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年4月3-5、10-12、17-19、24-26日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "4220",
+          "StationName": {
+            "Zh_tw": "臺南",
+            "En": "Tainan"
+          },
+          "ArrivalTime": "07:11",
+          "DepartureTime": "07:12",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "4250",
+          "StationName": {
+            "Zh_tw": "保安",
+            "En": "Bao'an"
+          },
+          "ArrivalTime": "07:20",
+          "DepartureTime": "07:20",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6632",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往彰化",
+        "StartingStationID": "4250",
+        "StartingStationName": {
+          "Zh_tw": "保安",
+          "En": "Bao'an"
+        },
+        "EndingStationID": "3360",
+        "EndingStationName": {
+          "Zh_tw": "彰化",
+          "En": "Changhua"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年4月3-5、10-12、17-19、24-26日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "4250",
+          "StationName": {
+            "Zh_tw": "保安",
+            "En": "Bao'an"
+          },
+          "ArrivalTime": "08:40",
+          "DepartureTime": "08:40",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "4220",
+          "StationName": {
+            "Zh_tw": "臺南",
+            "En": "Tainan"
+          },
+          "ArrivalTime": "08:48",
+          "DepartureTime": "09:12",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "4110",
+          "StationName": {
+            "Zh_tw": "後壁",
+            "En": "Houbi"
+          },
+          "ArrivalTime": "09:57",
+          "DepartureTime": "10:15",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "4050",
+          "StationName": {
+            "Zh_tw": "大林",
+            "En": "Dalin"
+          },
+          "ArrivalTime": "10:40",
+          "DepartureTime": "11:50",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "3360",
+          "StationName": {
+            "Zh_tw": "彰化",
+            "En": "Changhua"
+          },
+          "ArrivalTime": "12:52",
+          "DepartureTime": "12:52",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6633",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往保安",
+        "StartingStationID": "3360",
+        "StartingStationName": {
+          "Zh_tw": "彰化",
+          "En": "Changhua"
+        },
+        "EndingStationID": "4250",
+        "EndingStationName": {
+          "Zh_tw": "保安",
+          "En": "Bao'an"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年4月3-5、10-12、17-19、24-26日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "3360",
+          "StationName": {
+            "Zh_tw": "彰化",
+            "En": "Changhua"
+          },
+          "ArrivalTime": "14:25",
+          "DepartureTime": "14:25",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "3410",
+          "StationName": {
+            "Zh_tw": "社頭",
+            "En": "Shetou"
+          },
+          "ArrivalTime": "14:46",
+          "DepartureTime": "15:22",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "3430",
+          "StationName": {
+            "Zh_tw": "二水",
+            "En": "Ershui"
+          },
+          "ArrivalTime": "15:32",
+          "DepartureTime": "16:30",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "4220",
+          "StationName": {
+            "Zh_tw": "臺南",
+            "En": "Tainan"
+          },
+          "ArrivalTime": "18:05",
+          "DepartureTime": "18:15",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "4250",
+          "StationName": {
+            "Zh_tw": "保安",
+            "En": "Bao'an"
+          },
+          "ArrivalTime": "18:23",
+          "DepartureTime": "18:23",
           "SuspendedFlag": 0
         }
       ]
