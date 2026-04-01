@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-03-31T06:13:56+08:00",
+  "UpdateTime": "2026-04-01T09:44:49+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-03-30T18:15:15+08:00",
+  "SrcUpdateTime": "2026-03-31T18:20:50+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-04-12",
   "TrainTimetables": [
@@ -20889,21 +20889,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1080",
-              "EndStationID": "3360"
-            },
-            "EndSection": {
-              "StartStationID": "4340",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0900",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "1210",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1080",
+              "EndStationID": "3360"
+            },
+            "EndSection": {
+              "StartStationID": "4340",
               "EndStationID": "5050"
             }
           }
@@ -58866,7 +58866,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -141986,21 +141986,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "6250"
-            },
-            "EndSection": {
-              "StartStationID": "6130",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "6250"
+            },
+            "EndSection": {
+              "StartStationID": "6130",
               "EndStationID": "4340"
             }
           }
@@ -237167,21 +237167,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "0920"
-            },
-            "EndSection": {
-              "StartStationID": "7190",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0920"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
               "EndStationID": "4340"
             }
           }
@@ -268321,6 +268321,66 @@
     },
     {
       "TrainInfo": {
+        "TrainNo": "6114",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1104",
+        "TrainTypeCode": "3",
+        "TrainTypeName": {
+          "Zh_tw": "自強(專開列車)",
+          "En": "Tze-Chiang Limited Express"
+        },
+        "TripHeadSign": "往桃園",
+        "StartingStationID": "4440",
+        "StartingStationName": {
+          "Zh_tw": "鳳山",
+          "En": "Fongshan"
+        },
+        "EndingStationID": "1080",
+        "EndingStationName": {
+          "Zh_tw": "桃園",
+          "En": "Taoyuan"
+        },
+        "OverNightStationID": "",
+        "TripLine": 1,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "民國115年4月12日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "4440",
+          "StationName": {
+            "Zh_tw": "鳳山",
+            "En": "Fongshan"
+          },
+          "ArrivalTime": "06:05",
+          "DepartureTime": "06:17",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1080",
+          "StationName": {
+            "Zh_tw": "桃園",
+            "En": "Taoyuan"
+          },
+          "ArrivalTime": "10:00",
+          "DepartureTime": "10:04",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
         "TrainNo": "6159",
         "RouteID": "",
         "Direction": 1,
@@ -268375,66 +268435,6 @@
           },
           "ArrivalTime": "13:52",
           "DepartureTime": "13:52",
-          "SuspendedFlag": 0
-        }
-      ]
-    },
-    {
-      "TrainInfo": {
-        "TrainNo": "6208",
-        "RouteID": "",
-        "Direction": 0,
-        "TrainTypeID": "1112",
-        "TrainTypeCode": "4",
-        "TrainTypeName": {
-          "Zh_tw": "莒光(專開列車)",
-          "En": "Chu-Kuang Express"
-        },
-        "TripHeadSign": "往桃園",
-        "StartingStationID": "4440",
-        "StartingStationName": {
-          "Zh_tw": "鳳山",
-          "En": "Fongshan"
-        },
-        "EndingStationID": "1080",
-        "EndingStationName": {
-          "Zh_tw": "桃園",
-          "En": "Taoyuan"
-        },
-        "OverNightStationID": "",
-        "TripLine": 1,
-        "WheelChairFlag": 0,
-        "PackageServiceFlag": 0,
-        "DiningFlag": 0,
-        "BreastFeedFlag": 1,
-        "BikeFlag": 0,
-        "CarFlag": 0,
-        "DailyFlag": 0,
-        "ExtraTrainFlag": 0,
-        "SuspendedFlag": 0,
-        "Note": "民國115年4月12日行駛。"
-      },
-      "StopTimes": [
-        {
-          "StopSequence": 1,
-          "StationID": "4440",
-          "StationName": {
-            "Zh_tw": "鳳山",
-            "En": "Fongshan"
-          },
-          "ArrivalTime": "05:39",
-          "DepartureTime": "05:47",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 2,
-          "StationID": "1080",
-          "StationName": {
-            "Zh_tw": "桃園",
-            "En": "Taoyuan"
-          },
-          "ArrivalTime": "10:42",
-          "DepartureTime": "10:47",
           "SuspendedFlag": 0
         }
       ]
