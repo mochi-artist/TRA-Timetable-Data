@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-04-01T09:44:49+08:00",
+  "UpdateTime": "2026-04-03T07:34:46+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-03-31T18:43:39+08:00",
+  "SrcUpdateTime": "2026-04-02T15:30:48+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-05-16",
   "TrainTimetables": [
@@ -20889,21 +20889,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0900",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "1210",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1080",
               "EndStationID": "3360"
             },
             "EndSection": {
               "StartStationID": "4340",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0900",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "1210",
               "EndStationID": "5050"
             }
           }
@@ -51125,21 +51125,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
@@ -58844,7 +58844,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -59052,7 +59052,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -59260,7 +59260,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -59364,7 +59364,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -59468,7 +59468,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -59676,7 +59676,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -59884,7 +59884,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -60092,7 +60092,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -60734,7 +60734,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -60942,7 +60942,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -61150,7 +61150,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -61358,7 +61358,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -61566,7 +61566,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -61774,7 +61774,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -61982,7 +61982,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -62190,7 +62190,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -62398,7 +62398,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -62606,7 +62606,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -62814,7 +62814,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -63022,7 +63022,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -63664,7 +63664,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -63872,7 +63872,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -64080,7 +64080,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -64288,7 +64288,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -64798,7 +64798,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -65006,7 +65006,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -65214,7 +65214,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -65422,7 +65422,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -66053,7 +66053,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -66261,7 +66261,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -66469,7 +66469,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -66677,7 +66677,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -66885,7 +66885,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -67093,7 +67093,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -67301,7 +67301,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。在新竹跨日。※配合六家站通廊施工需要，本次車自115年3月3日至4月1日(共30天)微調時刻。"
+        "Note": "每日行駛。在新竹跨日。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
       },
       "StopTimes": [
         {
@@ -141009,21 +141009,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "6250"
-            },
-            "EndSection": {
-              "StartStationID": "6130",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "6250"
+            },
+            "EndSection": {
+              "StartStationID": "6130",
               "EndStationID": "4340"
             }
           }
