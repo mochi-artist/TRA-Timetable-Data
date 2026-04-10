@@ -3,8 +3,310 @@
   "UpdateInterval": 14400,
   "SrcUpdateTime": "2026-04-09T18:01:30+08:00",
   "SrcUpdateInterval": -1,
-  "TrainDate": "2026-05-27",
+  "TrainDate": "2026-06-08",
   "TrainTimetables": [
+    {
+      "TrainInfo": {
+        "TrainNo": "1",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1106",
+        "TrainTypeCode": "3",
+        "TrainTypeName": {
+          "Zh_tw": "自強(商務專開列車)",
+          "En": "Tze-Chiang Limited Express"
+        },
+        "TripHeadSign": "往臺北-環島",
+        "StartingStationID": "1000",
+        "StartingStationName": {
+          "Zh_tw": "臺北",
+          "En": "Taipei"
+        },
+        "EndingStationID": "1001",
+        "EndingStationName": {
+          "Zh_tw": "臺北-環島",
+          "En": "Taipei Surround Island"
+        },
+        "OverNightStationID": "",
+        "TripLine": 1,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "逢週一、五至日行駛。環島之星觀光列車由易遊網公司承包，需搭配套裝行程，不單售車票-聯絡專線：(02)412-8001"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "1000",
+          "StationName": {
+            "Zh_tw": "臺北",
+            "En": "Taipei"
+          },
+          "ArrivalTime": "06:22",
+          "DepartureTime": "06:22",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1020",
+          "StationName": {
+            "Zh_tw": "板橋",
+            "En": "Banqiao"
+          },
+          "ArrivalTime": "06:30",
+          "DepartureTime": "06:32",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1080",
+          "StationName": {
+            "Zh_tw": "桃園",
+            "En": "Taoyuan"
+          },
+          "ArrivalTime": "06:52",
+          "DepartureTime": "06:53",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "1210",
+          "StationName": {
+            "Zh_tw": "新竹",
+            "En": "Hsinchu"
+          },
+          "ArrivalTime": "07:31",
+          "DepartureTime": "07:32",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "3300",
+          "StationName": {
+            "Zh_tw": "臺中",
+            "En": "Taichung"
+          },
+          "ArrivalTime": "08:34",
+          "DepartureTime": "08:37",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "3360",
+          "StationName": {
+            "Zh_tw": "彰化",
+            "En": "Changhua"
+          },
+          "ArrivalTime": "08:52",
+          "DepartureTime": "08:54",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "3470",
+          "StationName": {
+            "Zh_tw": "斗六",
+            "En": "Douliu"
+          },
+          "ArrivalTime": "09:28",
+          "DepartureTime": "09:30",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 8,
+          "StationID": "4080",
+          "StationName": {
+            "Zh_tw": "嘉義",
+            "En": "Chiayi"
+          },
+          "ArrivalTime": "09:52",
+          "DepartureTime": "09:54",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 9,
+          "StationID": "4220",
+          "StationName": {
+            "Zh_tw": "臺南",
+            "En": "Tainan"
+          },
+          "ArrivalTime": "10:36",
+          "DepartureTime": "10:38",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 10,
+          "StationID": "4340",
+          "StationName": {
+            "Zh_tw": "新左營",
+            "En": "Xinzuoying"
+          },
+          "ArrivalTime": "11:05",
+          "DepartureTime": "11:08",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 11,
+          "StationID": "4400",
+          "StationName": {
+            "Zh_tw": "高雄",
+            "En": "Kaohsiung"
+          },
+          "ArrivalTime": "11:17",
+          "DepartureTime": "11:18",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 12,
+          "StationID": "5000",
+          "StationName": {
+            "Zh_tw": "屏東",
+            "En": "Pingtung"
+          },
+          "ArrivalTime": "11:35",
+          "DepartureTime": "11:36",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 13,
+          "StationID": "5120",
+          "StationName": {
+            "Zh_tw": "枋寮",
+            "En": "Fangliao"
+          },
+          "ArrivalTime": "12:11",
+          "DepartureTime": "12:14",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 14,
+          "StationID": "5230",
+          "StationName": {
+            "Zh_tw": "知本",
+            "En": "Zhiben"
+          },
+          "ArrivalTime": "13:23",
+          "DepartureTime": "13:28",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 15,
+          "StationID": "6000",
+          "StationName": {
+            "Zh_tw": "臺東",
+            "En": "Taitung"
+          },
+          "ArrivalTime": "13:40",
+          "DepartureTime": "14:00",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 16,
+          "StationID": "6020",
+          "StationName": {
+            "Zh_tw": "鹿野",
+            "En": "Luye"
+          },
+          "ArrivalTime": "14:12",
+          "DepartureTime": "14:13",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 17,
+          "StationID": "6070",
+          "StationName": {
+            "Zh_tw": "池上",
+            "En": "Chishang"
+          },
+          "ArrivalTime": "14:42",
+          "DepartureTime": "14:43",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 18,
+          "StationID": "6110",
+          "StationName": {
+            "Zh_tw": "玉里",
+            "En": "Yuli"
+          },
+          "ArrivalTime": "15:03",
+          "DepartureTime": "15:11",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 19,
+          "StationID": "6130",
+          "StationName": {
+            "Zh_tw": "瑞穗",
+            "En": "Ruisui"
+          },
+          "ArrivalTime": "15:28",
+          "DepartureTime": "15:41",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 20,
+          "StationID": "6220",
+          "StationName": {
+            "Zh_tw": "壽豐",
+            "En": "Shoufeng"
+          },
+          "ArrivalTime": "16:14",
+          "DepartureTime": "16:15",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 21,
+          "StationID": "7000",
+          "StationName": {
+            "Zh_tw": "花蓮",
+            "En": "Hualien"
+          },
+          "ArrivalTime": "16:39",
+          "DepartureTime": "16:49",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 22,
+          "StationID": "7210",
+          "StationName": {
+            "Zh_tw": "礁溪",
+            "En": "Jiaoxi"
+          },
+          "ArrivalTime": "18:11",
+          "DepartureTime": "18:12",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 23,
+          "StationID": "0980",
+          "StationName": {
+            "Zh_tw": "南港",
+            "En": "Nangang"
+          },
+          "ArrivalTime": "19:20",
+          "DepartureTime": "19:22",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 24,
+          "StationID": "1001",
+          "StationName": {
+            "Zh_tw": "臺北-環島",
+            "En": "Taipei Surround Island"
+          },
+          "ArrivalTime": "19:33",
+          "DepartureTime": "19:33",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
     {
       "TrainInfo": {
         "TrainNo": "1006",
@@ -20581,21 +20883,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0900",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "1210",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1080",
               "EndStationID": "3360"
             },
             "EndSection": {
               "StartStationID": "4340",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0900",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "1210",
               "EndStationID": "5050"
             }
           }
@@ -58163,7 +58465,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -58173,8 +58475,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "07:08",
-          "DepartureTime": "07:08",
+          "ArrivalTime": "07:07",
+          "DepartureTime": "07:07",
           "SuspendedFlag": 0
         },
         {
@@ -58184,7 +58486,7 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "07:12",
+          "ArrivalTime": "07:11",
           "DepartureTime": "07:12",
           "SuspendedFlag": 0
         },
@@ -58196,7 +58498,7 @@
             "En": "Xinzhuang"
           },
           "ArrivalTime": "07:14",
-          "DepartureTime": "07:15",
+          "DepartureTime": "07:14",
           "SuspendedFlag": 0
         },
         {
@@ -58206,7 +58508,7 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "07:18",
+          "ArrivalTime": "07:17",
           "DepartureTime": "07:18",
           "SuspendedFlag": 0
         },
@@ -58217,7 +58519,7 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "07:22",
+          "ArrivalTime": "07:21",
           "DepartureTime": "07:22",
           "SuspendedFlag": 0
         },
@@ -58371,7 +58673,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -58381,8 +58683,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "07:35",
-          "DepartureTime": "07:35",
+          "ArrivalTime": "07:32",
+          "DepartureTime": "07:32",
           "SuspendedFlag": 0
         },
         {
@@ -58392,8 +58694,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "07:39",
-          "DepartureTime": "07:39",
+          "ArrivalTime": "07:36",
+          "DepartureTime": "07:37",
           "SuspendedFlag": 0
         },
         {
@@ -58403,8 +58705,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "07:41",
-          "DepartureTime": "07:42",
+          "ArrivalTime": "07:39",
+          "DepartureTime": "07:39",
           "SuspendedFlag": 0
         },
         {
@@ -58414,8 +58716,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "07:45",
-          "DepartureTime": "07:45",
+          "ArrivalTime": "07:42",
+          "DepartureTime": "07:43",
           "SuspendedFlag": 0
         },
         {
@@ -58425,8 +58727,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "07:49",
-          "DepartureTime": "07:49",
+          "ArrivalTime": "07:46",
+          "DepartureTime": "07:47",
           "SuspendedFlag": 0
         },
         {
@@ -58436,8 +58738,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "07:53",
-          "DepartureTime": "07:53",
+          "ArrivalTime": "07:51",
+          "DepartureTime": "07:51",
           "SuspendedFlag": 0
         }
       ]
@@ -58579,7 +58881,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -58589,8 +58891,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "08:05",
-          "DepartureTime": "08:05",
+          "ArrivalTime": "08:02",
+          "DepartureTime": "08:02",
           "SuspendedFlag": 0
         },
         {
@@ -58600,8 +58902,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "08:09",
-          "DepartureTime": "08:09",
+          "ArrivalTime": "08:06",
+          "DepartureTime": "08:07",
           "SuspendedFlag": 0
         },
         {
@@ -58611,8 +58913,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "08:11",
-          "DepartureTime": "08:12",
+          "ArrivalTime": "08:09",
+          "DepartureTime": "08:09",
           "SuspendedFlag": 0
         },
         {
@@ -58622,8 +58924,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "08:15",
-          "DepartureTime": "08:15",
+          "ArrivalTime": "08:12",
+          "DepartureTime": "08:13",
           "SuspendedFlag": 0
         },
         {
@@ -58633,8 +58935,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "08:19",
-          "DepartureTime": "08:19",
+          "ArrivalTime": "08:16",
+          "DepartureTime": "08:17",
           "SuspendedFlag": 0
         },
         {
@@ -58644,8 +58946,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "08:23",
-          "DepartureTime": "08:23",
+          "ArrivalTime": "08:21",
+          "DepartureTime": "08:21",
           "SuspendedFlag": 0
         }
       ]
@@ -58683,7 +58985,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -58693,8 +58995,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "07:32",
-          "DepartureTime": "07:32",
+          "ArrivalTime": "07:34",
+          "DepartureTime": "07:34",
           "SuspendedFlag": 0
         },
         {
@@ -58704,8 +59006,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "07:35",
-          "DepartureTime": "07:36",
+          "ArrivalTime": "07:37",
+          "DepartureTime": "07:38",
           "SuspendedFlag": 0
         },
         {
@@ -58715,8 +59017,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "07:39",
-          "DepartureTime": "07:39",
+          "ArrivalTime": "07:41",
+          "DepartureTime": "07:41",
           "SuspendedFlag": 0
         },
         {
@@ -58726,8 +59028,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "07:43",
-          "DepartureTime": "07:43",
+          "ArrivalTime": "07:45",
+          "DepartureTime": "07:45",
           "SuspendedFlag": 0
         },
         {
@@ -58737,8 +59039,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "07:45",
-          "DepartureTime": "07:46",
+          "ArrivalTime": "07:47",
+          "DepartureTime": "07:48",
           "SuspendedFlag": 0
         },
         {
@@ -58748,8 +59050,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "07:51",
-          "DepartureTime": "07:51",
+          "ArrivalTime": "07:53",
+          "DepartureTime": "07:53",
           "SuspendedFlag": 0
         }
       ]
@@ -58787,7 +59089,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -58797,8 +59099,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "08:32",
-          "DepartureTime": "08:32",
+          "ArrivalTime": "08:29",
+          "DepartureTime": "08:29",
           "SuspendedFlag": 0
         },
         {
@@ -58808,8 +59110,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "08:36",
-          "DepartureTime": "08:36",
+          "ArrivalTime": "08:33",
+          "DepartureTime": "08:34",
           "SuspendedFlag": 0
         },
         {
@@ -58819,8 +59121,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "08:38",
-          "DepartureTime": "08:39",
+          "ArrivalTime": "08:36",
+          "DepartureTime": "08:36",
           "SuspendedFlag": 0
         },
         {
@@ -58830,8 +59132,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "08:42",
-          "DepartureTime": "08:42",
+          "ArrivalTime": "08:39",
+          "DepartureTime": "08:40",
           "SuspendedFlag": 0
         },
         {
@@ -58841,8 +59143,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "08:46",
-          "DepartureTime": "08:46",
+          "ArrivalTime": "08:43",
+          "DepartureTime": "08:44",
           "SuspendedFlag": 0
         },
         {
@@ -58852,8 +59154,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "08:50",
-          "DepartureTime": "08:50",
+          "ArrivalTime": "08:48",
+          "DepartureTime": "08:48",
           "SuspendedFlag": 0
         }
       ]
@@ -58995,7 +59297,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -59005,8 +59307,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "09:05",
-          "DepartureTime": "09:05",
+          "ArrivalTime": "09:02",
+          "DepartureTime": "09:02",
           "SuspendedFlag": 0
         },
         {
@@ -59016,8 +59318,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "09:09",
-          "DepartureTime": "09:09",
+          "ArrivalTime": "09:06",
+          "DepartureTime": "09:07",
           "SuspendedFlag": 0
         },
         {
@@ -59027,8 +59329,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "09:11",
-          "DepartureTime": "09:12",
+          "ArrivalTime": "09:09",
+          "DepartureTime": "09:09",
           "SuspendedFlag": 0
         },
         {
@@ -59038,8 +59340,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "09:15",
-          "DepartureTime": "09:15",
+          "ArrivalTime": "09:12",
+          "DepartureTime": "09:13",
           "SuspendedFlag": 0
         },
         {
@@ -59049,8 +59351,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "09:19",
-          "DepartureTime": "09:19",
+          "ArrivalTime": "09:16",
+          "DepartureTime": "09:17",
           "SuspendedFlag": 0
         },
         {
@@ -59060,8 +59362,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "09:23",
-          "DepartureTime": "09:23",
+          "ArrivalTime": "09:21",
+          "DepartureTime": "09:21",
           "SuspendedFlag": 0
         }
       ]
@@ -59203,7 +59505,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -59213,8 +59515,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "09:32",
-          "DepartureTime": "09:32",
+          "ArrivalTime": "09:29",
+          "DepartureTime": "09:29",
           "SuspendedFlag": 0
         },
         {
@@ -59224,8 +59526,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "09:36",
-          "DepartureTime": "09:36",
+          "ArrivalTime": "09:33",
+          "DepartureTime": "09:34",
           "SuspendedFlag": 0
         },
         {
@@ -59235,8 +59537,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "09:38",
-          "DepartureTime": "09:39",
+          "ArrivalTime": "09:36",
+          "DepartureTime": "09:36",
           "SuspendedFlag": 0
         },
         {
@@ -59246,8 +59548,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "09:42",
-          "DepartureTime": "09:42",
+          "ArrivalTime": "09:39",
+          "DepartureTime": "09:40",
           "SuspendedFlag": 0
         },
         {
@@ -59257,8 +59559,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "09:46",
-          "DepartureTime": "09:46",
+          "ArrivalTime": "09:43",
+          "DepartureTime": "09:44",
           "SuspendedFlag": 0
         },
         {
@@ -59268,8 +59570,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "09:50",
-          "DepartureTime": "09:50",
+          "ArrivalTime": "09:48",
+          "DepartureTime": "09:48",
           "SuspendedFlag": 0
         }
       ]
@@ -59411,7 +59713,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -59421,8 +59723,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "10:05",
-          "DepartureTime": "10:05",
+          "ArrivalTime": "10:02",
+          "DepartureTime": "10:02",
           "SuspendedFlag": 0
         },
         {
@@ -59432,8 +59734,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "10:09",
-          "DepartureTime": "10:09",
+          "ArrivalTime": "10:06",
+          "DepartureTime": "10:07",
           "SuspendedFlag": 0
         },
         {
@@ -59443,8 +59745,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "10:11",
-          "DepartureTime": "10:12",
+          "ArrivalTime": "10:09",
+          "DepartureTime": "10:09",
           "SuspendedFlag": 0
         },
         {
@@ -59454,8 +59756,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "10:15",
-          "DepartureTime": "10:15",
+          "ArrivalTime": "10:12",
+          "DepartureTime": "10:13",
           "SuspendedFlag": 0
         },
         {
@@ -59465,8 +59767,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "10:19",
-          "DepartureTime": "10:19",
+          "ArrivalTime": "10:16",
+          "DepartureTime": "10:17",
           "SuspendedFlag": 0
         },
         {
@@ -59476,8 +59778,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "10:23",
-          "DepartureTime": "10:23",
+          "ArrivalTime": "10:21",
+          "DepartureTime": "10:21",
           "SuspendedFlag": 0
         }
       ]
@@ -60053,7 +60355,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -60063,8 +60365,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "10:32",
-          "DepartureTime": "10:32",
+          "ArrivalTime": "10:29",
+          "DepartureTime": "10:29",
           "SuspendedFlag": 0
         },
         {
@@ -60074,8 +60376,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "10:36",
-          "DepartureTime": "10:36",
+          "ArrivalTime": "10:33",
+          "DepartureTime": "10:34",
           "SuspendedFlag": 0
         },
         {
@@ -60085,8 +60387,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "10:38",
-          "DepartureTime": "10:39",
+          "ArrivalTime": "10:36",
+          "DepartureTime": "10:36",
           "SuspendedFlag": 0
         },
         {
@@ -60096,8 +60398,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "10:42",
-          "DepartureTime": "10:42",
+          "ArrivalTime": "10:39",
+          "DepartureTime": "10:40",
           "SuspendedFlag": 0
         },
         {
@@ -60107,8 +60409,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "10:46",
-          "DepartureTime": "10:46",
+          "ArrivalTime": "10:43",
+          "DepartureTime": "10:44",
           "SuspendedFlag": 0
         },
         {
@@ -60118,8 +60420,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "10:50",
-          "DepartureTime": "10:50",
+          "ArrivalTime": "10:48",
+          "DepartureTime": "10:48",
           "SuspendedFlag": 0
         }
       ]
@@ -60261,7 +60563,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -60271,8 +60573,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "11:05",
-          "DepartureTime": "11:05",
+          "ArrivalTime": "11:02",
+          "DepartureTime": "11:02",
           "SuspendedFlag": 0
         },
         {
@@ -60282,8 +60584,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "11:09",
-          "DepartureTime": "11:09",
+          "ArrivalTime": "11:06",
+          "DepartureTime": "11:07",
           "SuspendedFlag": 0
         },
         {
@@ -60293,8 +60595,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "11:11",
-          "DepartureTime": "11:12",
+          "ArrivalTime": "11:09",
+          "DepartureTime": "11:09",
           "SuspendedFlag": 0
         },
         {
@@ -60304,8 +60606,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "11:15",
-          "DepartureTime": "11:15",
+          "ArrivalTime": "11:12",
+          "DepartureTime": "11:13",
           "SuspendedFlag": 0
         },
         {
@@ -60315,8 +60617,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "11:19",
-          "DepartureTime": "11:19",
+          "ArrivalTime": "11:16",
+          "DepartureTime": "11:17",
           "SuspendedFlag": 0
         },
         {
@@ -60326,8 +60628,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "11:23",
-          "DepartureTime": "11:23",
+          "ArrivalTime": "11:21",
+          "DepartureTime": "11:21",
           "SuspendedFlag": 0
         }
       ]
@@ -60469,7 +60771,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -60479,8 +60781,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "11:32",
-          "DepartureTime": "11:32",
+          "ArrivalTime": "11:29",
+          "DepartureTime": "11:29",
           "SuspendedFlag": 0
         },
         {
@@ -60490,8 +60792,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "11:36",
-          "DepartureTime": "11:36",
+          "ArrivalTime": "11:33",
+          "DepartureTime": "11:34",
           "SuspendedFlag": 0
         },
         {
@@ -60501,8 +60803,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "11:38",
-          "DepartureTime": "11:39",
+          "ArrivalTime": "11:36",
+          "DepartureTime": "11:36",
           "SuspendedFlag": 0
         },
         {
@@ -60512,8 +60814,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "11:42",
-          "DepartureTime": "11:42",
+          "ArrivalTime": "11:39",
+          "DepartureTime": "11:40",
           "SuspendedFlag": 0
         },
         {
@@ -60523,8 +60825,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "11:46",
-          "DepartureTime": "11:46",
+          "ArrivalTime": "11:43",
+          "DepartureTime": "11:44",
           "SuspendedFlag": 0
         },
         {
@@ -60534,8 +60836,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "11:50",
-          "DepartureTime": "11:50",
+          "ArrivalTime": "11:48",
+          "DepartureTime": "11:48",
           "SuspendedFlag": 0
         }
       ]
@@ -60677,7 +60979,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -60687,8 +60989,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "12:05",
-          "DepartureTime": "12:05",
+          "ArrivalTime": "12:02",
+          "DepartureTime": "12:02",
           "SuspendedFlag": 0
         },
         {
@@ -60698,8 +61000,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "12:09",
-          "DepartureTime": "12:09",
+          "ArrivalTime": "12:06",
+          "DepartureTime": "12:07",
           "SuspendedFlag": 0
         },
         {
@@ -60709,8 +61011,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "12:11",
-          "DepartureTime": "12:12",
+          "ArrivalTime": "12:09",
+          "DepartureTime": "12:09",
           "SuspendedFlag": 0
         },
         {
@@ -60720,8 +61022,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "12:15",
-          "DepartureTime": "12:15",
+          "ArrivalTime": "12:12",
+          "DepartureTime": "12:13",
           "SuspendedFlag": 0
         },
         {
@@ -60731,8 +61033,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "12:19",
-          "DepartureTime": "12:19",
+          "ArrivalTime": "12:16",
+          "DepartureTime": "12:17",
           "SuspendedFlag": 0
         },
         {
@@ -60742,8 +61044,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "12:23",
-          "DepartureTime": "12:23",
+          "ArrivalTime": "12:21",
+          "DepartureTime": "12:21",
           "SuspendedFlag": 0
         }
       ]
@@ -60885,7 +61187,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -60895,8 +61197,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "12:32",
-          "DepartureTime": "12:32",
+          "ArrivalTime": "12:29",
+          "DepartureTime": "12:29",
           "SuspendedFlag": 0
         },
         {
@@ -60906,8 +61208,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "12:36",
-          "DepartureTime": "12:36",
+          "ArrivalTime": "12:33",
+          "DepartureTime": "12:34",
           "SuspendedFlag": 0
         },
         {
@@ -60917,8 +61219,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "12:38",
-          "DepartureTime": "12:39",
+          "ArrivalTime": "12:36",
+          "DepartureTime": "12:36",
           "SuspendedFlag": 0
         },
         {
@@ -60928,8 +61230,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "12:42",
-          "DepartureTime": "12:42",
+          "ArrivalTime": "12:39",
+          "DepartureTime": "12:40",
           "SuspendedFlag": 0
         },
         {
@@ -60939,8 +61241,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "12:46",
-          "DepartureTime": "12:46",
+          "ArrivalTime": "12:43",
+          "DepartureTime": "12:44",
           "SuspendedFlag": 0
         },
         {
@@ -60950,8 +61252,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "12:50",
-          "DepartureTime": "12:50",
+          "ArrivalTime": "12:48",
+          "DepartureTime": "12:48",
           "SuspendedFlag": 0
         }
       ]
@@ -61093,7 +61395,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -61103,8 +61405,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "13:05",
-          "DepartureTime": "13:05",
+          "ArrivalTime": "13:02",
+          "DepartureTime": "13:02",
           "SuspendedFlag": 0
         },
         {
@@ -61114,8 +61416,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "13:09",
-          "DepartureTime": "13:09",
+          "ArrivalTime": "13:06",
+          "DepartureTime": "13:07",
           "SuspendedFlag": 0
         },
         {
@@ -61125,8 +61427,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "13:11",
-          "DepartureTime": "13:12",
+          "ArrivalTime": "13:09",
+          "DepartureTime": "13:09",
           "SuspendedFlag": 0
         },
         {
@@ -61136,8 +61438,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "13:15",
-          "DepartureTime": "13:15",
+          "ArrivalTime": "13:12",
+          "DepartureTime": "13:13",
           "SuspendedFlag": 0
         },
         {
@@ -61147,8 +61449,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "13:19",
-          "DepartureTime": "13:19",
+          "ArrivalTime": "13:16",
+          "DepartureTime": "13:17",
           "SuspendedFlag": 0
         },
         {
@@ -61158,8 +61460,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "13:23",
-          "DepartureTime": "13:23",
+          "ArrivalTime": "13:21",
+          "DepartureTime": "13:21",
           "SuspendedFlag": 0
         }
       ]
@@ -61301,7 +61603,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -61311,8 +61613,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "13:32",
-          "DepartureTime": "13:32",
+          "ArrivalTime": "13:29",
+          "DepartureTime": "13:29",
           "SuspendedFlag": 0
         },
         {
@@ -61322,8 +61624,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "13:36",
-          "DepartureTime": "13:36",
+          "ArrivalTime": "13:33",
+          "DepartureTime": "13:34",
           "SuspendedFlag": 0
         },
         {
@@ -61333,8 +61635,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "13:38",
-          "DepartureTime": "13:39",
+          "ArrivalTime": "13:36",
+          "DepartureTime": "13:36",
           "SuspendedFlag": 0
         },
         {
@@ -61344,8 +61646,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "13:42",
-          "DepartureTime": "13:42",
+          "ArrivalTime": "13:39",
+          "DepartureTime": "13:40",
           "SuspendedFlag": 0
         },
         {
@@ -61355,8 +61657,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "13:46",
-          "DepartureTime": "13:46",
+          "ArrivalTime": "13:43",
+          "DepartureTime": "13:44",
           "SuspendedFlag": 0
         },
         {
@@ -61366,8 +61668,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "13:50",
-          "DepartureTime": "13:50",
+          "ArrivalTime": "13:48",
+          "DepartureTime": "13:48",
           "SuspendedFlag": 0
         }
       ]
@@ -61509,7 +61811,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -61519,8 +61821,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "14:05",
-          "DepartureTime": "14:05",
+          "ArrivalTime": "14:02",
+          "DepartureTime": "14:02",
           "SuspendedFlag": 0
         },
         {
@@ -61530,8 +61832,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "14:09",
-          "DepartureTime": "14:09",
+          "ArrivalTime": "14:06",
+          "DepartureTime": "14:07",
           "SuspendedFlag": 0
         },
         {
@@ -61541,8 +61843,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "14:11",
-          "DepartureTime": "14:12",
+          "ArrivalTime": "14:09",
+          "DepartureTime": "14:09",
           "SuspendedFlag": 0
         },
         {
@@ -61552,8 +61854,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "14:15",
-          "DepartureTime": "14:15",
+          "ArrivalTime": "14:12",
+          "DepartureTime": "14:13",
           "SuspendedFlag": 0
         },
         {
@@ -61563,8 +61865,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "14:19",
-          "DepartureTime": "14:19",
+          "ArrivalTime": "14:16",
+          "DepartureTime": "14:17",
           "SuspendedFlag": 0
         },
         {
@@ -61574,8 +61876,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "14:23",
-          "DepartureTime": "14:23",
+          "ArrivalTime": "14:21",
+          "DepartureTime": "14:21",
           "SuspendedFlag": 0
         }
       ]
@@ -61717,7 +62019,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -61727,8 +62029,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "14:32",
-          "DepartureTime": "14:32",
+          "ArrivalTime": "14:29",
+          "DepartureTime": "14:29",
           "SuspendedFlag": 0
         },
         {
@@ -61738,8 +62040,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "14:36",
-          "DepartureTime": "14:36",
+          "ArrivalTime": "14:33",
+          "DepartureTime": "14:34",
           "SuspendedFlag": 0
         },
         {
@@ -61749,8 +62051,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "14:38",
-          "DepartureTime": "14:39",
+          "ArrivalTime": "14:36",
+          "DepartureTime": "14:36",
           "SuspendedFlag": 0
         },
         {
@@ -61760,8 +62062,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "14:42",
-          "DepartureTime": "14:42",
+          "ArrivalTime": "14:39",
+          "DepartureTime": "14:40",
           "SuspendedFlag": 0
         },
         {
@@ -61771,8 +62073,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "14:46",
-          "DepartureTime": "14:46",
+          "ArrivalTime": "14:43",
+          "DepartureTime": "14:44",
           "SuspendedFlag": 0
         },
         {
@@ -61782,8 +62084,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "14:50",
-          "DepartureTime": "14:50",
+          "ArrivalTime": "14:48",
+          "DepartureTime": "14:48",
           "SuspendedFlag": 0
         }
       ]
@@ -61925,7 +62227,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -61935,8 +62237,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "15:05",
-          "DepartureTime": "15:05",
+          "ArrivalTime": "15:02",
+          "DepartureTime": "15:02",
           "SuspendedFlag": 0
         },
         {
@@ -61946,8 +62248,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "15:09",
-          "DepartureTime": "15:09",
+          "ArrivalTime": "15:06",
+          "DepartureTime": "15:07",
           "SuspendedFlag": 0
         },
         {
@@ -61957,8 +62259,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "15:11",
-          "DepartureTime": "15:12",
+          "ArrivalTime": "15:09",
+          "DepartureTime": "15:09",
           "SuspendedFlag": 0
         },
         {
@@ -61968,8 +62270,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "15:15",
-          "DepartureTime": "15:15",
+          "ArrivalTime": "15:12",
+          "DepartureTime": "15:13",
           "SuspendedFlag": 0
         },
         {
@@ -61979,8 +62281,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "15:19",
-          "DepartureTime": "15:19",
+          "ArrivalTime": "15:16",
+          "DepartureTime": "15:17",
           "SuspendedFlag": 0
         },
         {
@@ -61990,8 +62292,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "15:23",
-          "DepartureTime": "15:23",
+          "ArrivalTime": "15:21",
+          "DepartureTime": "15:21",
           "SuspendedFlag": 0
         }
       ]
@@ -62133,7 +62435,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -62143,8 +62445,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "15:32",
-          "DepartureTime": "15:32",
+          "ArrivalTime": "15:29",
+          "DepartureTime": "15:29",
           "SuspendedFlag": 0
         },
         {
@@ -62154,8 +62456,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "15:36",
-          "DepartureTime": "15:36",
+          "ArrivalTime": "15:33",
+          "DepartureTime": "15:34",
           "SuspendedFlag": 0
         },
         {
@@ -62165,8 +62467,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "15:38",
-          "DepartureTime": "15:39",
+          "ArrivalTime": "15:36",
+          "DepartureTime": "15:36",
           "SuspendedFlag": 0
         },
         {
@@ -62176,8 +62478,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "15:42",
-          "DepartureTime": "15:42",
+          "ArrivalTime": "15:39",
+          "DepartureTime": "15:40",
           "SuspendedFlag": 0
         },
         {
@@ -62187,8 +62489,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "15:46",
-          "DepartureTime": "15:46",
+          "ArrivalTime": "15:43",
+          "DepartureTime": "15:44",
           "SuspendedFlag": 0
         },
         {
@@ -62198,8 +62500,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "15:50",
-          "DepartureTime": "15:50",
+          "ArrivalTime": "15:48",
+          "DepartureTime": "15:48",
           "SuspendedFlag": 0
         }
       ]
@@ -62341,7 +62643,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -62351,8 +62653,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "16:05",
-          "DepartureTime": "16:05",
+          "ArrivalTime": "16:02",
+          "DepartureTime": "16:02",
           "SuspendedFlag": 0
         },
         {
@@ -62362,8 +62664,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "16:09",
-          "DepartureTime": "16:09",
+          "ArrivalTime": "16:06",
+          "DepartureTime": "16:07",
           "SuspendedFlag": 0
         },
         {
@@ -62373,8 +62675,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "16:11",
-          "DepartureTime": "16:12",
+          "ArrivalTime": "16:09",
+          "DepartureTime": "16:09",
           "SuspendedFlag": 0
         },
         {
@@ -62384,8 +62686,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "16:15",
-          "DepartureTime": "16:15",
+          "ArrivalTime": "16:12",
+          "DepartureTime": "16:13",
           "SuspendedFlag": 0
         },
         {
@@ -62395,8 +62697,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "16:19",
-          "DepartureTime": "16:19",
+          "ArrivalTime": "16:16",
+          "DepartureTime": "16:17",
           "SuspendedFlag": 0
         },
         {
@@ -62406,8 +62708,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "16:23",
-          "DepartureTime": "16:23",
+          "ArrivalTime": "16:21",
+          "DepartureTime": "16:21",
           "SuspendedFlag": 0
         }
       ]
@@ -62983,7 +63285,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -62993,8 +63295,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "16:32",
-          "DepartureTime": "16:32",
+          "ArrivalTime": "16:29",
+          "DepartureTime": "16:29",
           "SuspendedFlag": 0
         },
         {
@@ -63004,8 +63306,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "16:36",
-          "DepartureTime": "16:36",
+          "ArrivalTime": "16:33",
+          "DepartureTime": "16:34",
           "SuspendedFlag": 0
         },
         {
@@ -63015,8 +63317,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "16:38",
-          "DepartureTime": "16:39",
+          "ArrivalTime": "16:36",
+          "DepartureTime": "16:36",
           "SuspendedFlag": 0
         },
         {
@@ -63026,8 +63328,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "16:42",
-          "DepartureTime": "16:42",
+          "ArrivalTime": "16:39",
+          "DepartureTime": "16:40",
           "SuspendedFlag": 0
         },
         {
@@ -63037,8 +63339,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "16:46",
-          "DepartureTime": "16:46",
+          "ArrivalTime": "16:43",
+          "DepartureTime": "16:44",
           "SuspendedFlag": 0
         },
         {
@@ -63048,8 +63350,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "16:50",
-          "DepartureTime": "16:50",
+          "ArrivalTime": "16:48",
+          "DepartureTime": "16:48",
           "SuspendedFlag": 0
         }
       ]
@@ -63191,7 +63493,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -63201,8 +63503,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "17:05",
-          "DepartureTime": "17:05",
+          "ArrivalTime": "17:01",
+          "DepartureTime": "17:01",
           "SuspendedFlag": 0
         },
         {
@@ -63212,8 +63514,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "17:09",
-          "DepartureTime": "17:09",
+          "ArrivalTime": "17:05",
+          "DepartureTime": "17:06",
           "SuspendedFlag": 0
         },
         {
@@ -63223,8 +63525,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "17:11",
-          "DepartureTime": "17:12",
+          "ArrivalTime": "17:08",
+          "DepartureTime": "17:08",
           "SuspendedFlag": 0
         },
         {
@@ -63234,8 +63536,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "17:15",
-          "DepartureTime": "17:15",
+          "ArrivalTime": "17:11",
+          "DepartureTime": "17:12",
           "SuspendedFlag": 0
         },
         {
@@ -63245,8 +63547,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "17:19",
-          "DepartureTime": "17:19",
+          "ArrivalTime": "17:15",
+          "DepartureTime": "17:16",
           "SuspendedFlag": 0
         },
         {
@@ -63256,8 +63558,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "17:23",
-          "DepartureTime": "17:23",
+          "ArrivalTime": "17:20",
+          "DepartureTime": "17:20",
           "SuspendedFlag": 0
         }
       ]
@@ -63399,7 +63701,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -63409,8 +63711,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "17:32",
-          "DepartureTime": "17:32",
+          "ArrivalTime": "17:29",
+          "DepartureTime": "17:29",
           "SuspendedFlag": 0
         },
         {
@@ -63420,8 +63722,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "17:36",
-          "DepartureTime": "17:36",
+          "ArrivalTime": "17:33",
+          "DepartureTime": "17:34",
           "SuspendedFlag": 0
         },
         {
@@ -63431,8 +63733,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "17:38",
-          "DepartureTime": "17:39",
+          "ArrivalTime": "17:36",
+          "DepartureTime": "17:36",
           "SuspendedFlag": 0
         },
         {
@@ -63442,8 +63744,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "17:42",
-          "DepartureTime": "17:42",
+          "ArrivalTime": "17:39",
+          "DepartureTime": "17:40",
           "SuspendedFlag": 0
         },
         {
@@ -63453,8 +63755,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "17:46",
-          "DepartureTime": "17:46",
+          "ArrivalTime": "17:43",
+          "DepartureTime": "17:44",
           "SuspendedFlag": 0
         },
         {
@@ -63464,8 +63766,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "17:50",
-          "DepartureTime": "17:50",
+          "ArrivalTime": "17:48",
+          "DepartureTime": "17:48",
           "SuspendedFlag": 0
         }
       ]
@@ -63607,7 +63909,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -63617,8 +63919,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "18:05",
-          "DepartureTime": "18:05",
+          "ArrivalTime": "18:02",
+          "DepartureTime": "18:02",
           "SuspendedFlag": 0
         },
         {
@@ -63628,8 +63930,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "18:09",
-          "DepartureTime": "18:09",
+          "ArrivalTime": "18:06",
+          "DepartureTime": "18:07",
           "SuspendedFlag": 0
         },
         {
@@ -63639,8 +63941,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "18:11",
-          "DepartureTime": "18:12",
+          "ArrivalTime": "18:09",
+          "DepartureTime": "18:09",
           "SuspendedFlag": 0
         },
         {
@@ -63650,8 +63952,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "18:15",
-          "DepartureTime": "18:15",
+          "ArrivalTime": "18:12",
+          "DepartureTime": "18:13",
           "SuspendedFlag": 0
         },
         {
@@ -63661,8 +63963,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "18:19",
-          "DepartureTime": "18:19",
+          "ArrivalTime": "18:16",
+          "DepartureTime": "18:17",
           "SuspendedFlag": 0
         },
         {
@@ -63672,8 +63974,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "18:23",
-          "DepartureTime": "18:23",
+          "ArrivalTime": "18:21",
+          "DepartureTime": "18:21",
           "SuspendedFlag": 0
         }
       ]
@@ -64117,7 +64419,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -64127,8 +64429,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "18:32",
-          "DepartureTime": "18:32",
+          "ArrivalTime": "18:29",
+          "DepartureTime": "18:29",
           "SuspendedFlag": 0
         },
         {
@@ -64138,8 +64440,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "18:36",
-          "DepartureTime": "18:36",
+          "ArrivalTime": "18:33",
+          "DepartureTime": "18:34",
           "SuspendedFlag": 0
         },
         {
@@ -64149,8 +64451,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "18:38",
-          "DepartureTime": "18:39",
+          "ArrivalTime": "18:36",
+          "DepartureTime": "18:36",
           "SuspendedFlag": 0
         },
         {
@@ -64160,8 +64462,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "18:42",
-          "DepartureTime": "18:42",
+          "ArrivalTime": "18:39",
+          "DepartureTime": "18:40",
           "SuspendedFlag": 0
         },
         {
@@ -64171,8 +64473,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "18:46",
-          "DepartureTime": "18:46",
+          "ArrivalTime": "18:43",
+          "DepartureTime": "18:44",
           "SuspendedFlag": 0
         },
         {
@@ -64182,8 +64484,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "18:50",
-          "DepartureTime": "18:50",
+          "ArrivalTime": "18:48",
+          "DepartureTime": "18:48",
           "SuspendedFlag": 0
         }
       ]
@@ -64325,7 +64627,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -64335,8 +64637,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "19:05",
-          "DepartureTime": "19:05",
+          "ArrivalTime": "19:02",
+          "DepartureTime": "19:02",
           "SuspendedFlag": 0
         },
         {
@@ -64346,8 +64648,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "19:09",
-          "DepartureTime": "19:09",
+          "ArrivalTime": "19:06",
+          "DepartureTime": "19:07",
           "SuspendedFlag": 0
         },
         {
@@ -64357,8 +64659,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "19:11",
-          "DepartureTime": "19:12",
+          "ArrivalTime": "19:09",
+          "DepartureTime": "19:09",
           "SuspendedFlag": 0
         },
         {
@@ -64368,8 +64670,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "19:15",
-          "DepartureTime": "19:15",
+          "ArrivalTime": "19:12",
+          "DepartureTime": "19:13",
           "SuspendedFlag": 0
         },
         {
@@ -64379,8 +64681,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "19:19",
-          "DepartureTime": "19:19",
+          "ArrivalTime": "19:16",
+          "DepartureTime": "19:17",
           "SuspendedFlag": 0
         },
         {
@@ -64390,8 +64692,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "19:23",
-          "DepartureTime": "19:23",
+          "ArrivalTime": "19:21",
+          "DepartureTime": "19:21",
           "SuspendedFlag": 0
         }
       ]
@@ -64533,7 +64835,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -64543,8 +64845,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "19:32",
-          "DepartureTime": "19:32",
+          "ArrivalTime": "19:29",
+          "DepartureTime": "19:29",
           "SuspendedFlag": 0
         },
         {
@@ -64554,8 +64856,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "19:36",
-          "DepartureTime": "19:36",
+          "ArrivalTime": "19:33",
+          "DepartureTime": "19:34",
           "SuspendedFlag": 0
         },
         {
@@ -64565,8 +64867,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "19:38",
-          "DepartureTime": "19:39",
+          "ArrivalTime": "19:36",
+          "DepartureTime": "19:36",
           "SuspendedFlag": 0
         },
         {
@@ -64576,8 +64878,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "19:42",
-          "DepartureTime": "19:42",
+          "ArrivalTime": "19:39",
+          "DepartureTime": "19:40",
           "SuspendedFlag": 0
         },
         {
@@ -64587,8 +64889,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "19:46",
-          "DepartureTime": "19:46",
+          "ArrivalTime": "19:43",
+          "DepartureTime": "19:44",
           "SuspendedFlag": 0
         },
         {
@@ -64598,8 +64900,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "19:50",
-          "DepartureTime": "19:50",
+          "ArrivalTime": "19:48",
+          "DepartureTime": "19:48",
           "SuspendedFlag": 0
         }
       ]
@@ -64741,7 +65043,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -64751,8 +65053,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "20:05",
-          "DepartureTime": "20:05",
+          "ArrivalTime": "20:02",
+          "DepartureTime": "20:02",
           "SuspendedFlag": 0
         },
         {
@@ -64762,8 +65064,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "20:09",
-          "DepartureTime": "20:09",
+          "ArrivalTime": "20:06",
+          "DepartureTime": "20:07",
           "SuspendedFlag": 0
         },
         {
@@ -64773,8 +65075,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "20:11",
-          "DepartureTime": "20:12",
+          "ArrivalTime": "20:09",
+          "DepartureTime": "20:09",
           "SuspendedFlag": 0
         },
         {
@@ -64784,8 +65086,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "20:15",
-          "DepartureTime": "20:15",
+          "ArrivalTime": "20:12",
+          "DepartureTime": "20:13",
           "SuspendedFlag": 0
         },
         {
@@ -64795,8 +65097,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "20:19",
-          "DepartureTime": "20:19",
+          "ArrivalTime": "20:16",
+          "DepartureTime": "20:17",
           "SuspendedFlag": 0
         },
         {
@@ -64806,8 +65108,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "20:23",
-          "DepartureTime": "20:23",
+          "ArrivalTime": "20:21",
+          "DepartureTime": "20:21",
           "SuspendedFlag": 0
         }
       ]
@@ -65372,7 +65674,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -65382,8 +65684,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "20:32",
-          "DepartureTime": "20:32",
+          "ArrivalTime": "20:29",
+          "DepartureTime": "20:29",
           "SuspendedFlag": 0
         },
         {
@@ -65393,8 +65695,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "20:36",
-          "DepartureTime": "20:36",
+          "ArrivalTime": "20:33",
+          "DepartureTime": "20:34",
           "SuspendedFlag": 0
         },
         {
@@ -65404,8 +65706,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "20:38",
-          "DepartureTime": "20:39",
+          "ArrivalTime": "20:36",
+          "DepartureTime": "20:36",
           "SuspendedFlag": 0
         },
         {
@@ -65415,8 +65717,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "20:42",
-          "DepartureTime": "20:42",
+          "ArrivalTime": "20:39",
+          "DepartureTime": "20:40",
           "SuspendedFlag": 0
         },
         {
@@ -65426,8 +65728,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "20:46",
-          "DepartureTime": "20:46",
+          "ArrivalTime": "20:43",
+          "DepartureTime": "20:44",
           "SuspendedFlag": 0
         },
         {
@@ -65437,8 +65739,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "20:50",
-          "DepartureTime": "20:50",
+          "ArrivalTime": "20:48",
+          "DepartureTime": "20:48",
           "SuspendedFlag": 0
         }
       ]
@@ -65580,7 +65882,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -65590,8 +65892,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "21:05",
-          "DepartureTime": "21:05",
+          "ArrivalTime": "21:02",
+          "DepartureTime": "21:02",
           "SuspendedFlag": 0
         },
         {
@@ -65601,8 +65903,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "21:09",
-          "DepartureTime": "21:09",
+          "ArrivalTime": "21:06",
+          "DepartureTime": "21:07",
           "SuspendedFlag": 0
         },
         {
@@ -65612,8 +65914,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "21:11",
-          "DepartureTime": "21:12",
+          "ArrivalTime": "21:09",
+          "DepartureTime": "21:09",
           "SuspendedFlag": 0
         },
         {
@@ -65623,8 +65925,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "21:15",
-          "DepartureTime": "21:15",
+          "ArrivalTime": "21:12",
+          "DepartureTime": "21:13",
           "SuspendedFlag": 0
         },
         {
@@ -65634,8 +65936,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "21:19",
-          "DepartureTime": "21:19",
+          "ArrivalTime": "21:16",
+          "DepartureTime": "21:17",
           "SuspendedFlag": 0
         },
         {
@@ -65645,8 +65947,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "21:23",
-          "DepartureTime": "21:23",
+          "ArrivalTime": "21:21",
+          "DepartureTime": "21:21",
           "SuspendedFlag": 0
         }
       ]
@@ -65788,7 +66090,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -65798,8 +66100,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "21:32",
-          "DepartureTime": "21:32",
+          "ArrivalTime": "21:29",
+          "DepartureTime": "21:29",
           "SuspendedFlag": 0
         },
         {
@@ -65809,8 +66111,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "21:36",
-          "DepartureTime": "21:36",
+          "ArrivalTime": "21:33",
+          "DepartureTime": "21:34",
           "SuspendedFlag": 0
         },
         {
@@ -65820,8 +66122,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "21:38",
-          "DepartureTime": "21:39",
+          "ArrivalTime": "21:36",
+          "DepartureTime": "21:36",
           "SuspendedFlag": 0
         },
         {
@@ -65831,8 +66133,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "21:42",
-          "DepartureTime": "21:42",
+          "ArrivalTime": "21:39",
+          "DepartureTime": "21:40",
           "SuspendedFlag": 0
         },
         {
@@ -65842,8 +66144,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "21:46",
-          "DepartureTime": "21:46",
+          "ArrivalTime": "21:43",
+          "DepartureTime": "21:44",
           "SuspendedFlag": 0
         },
         {
@@ -65853,8 +66155,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "21:50",
-          "DepartureTime": "21:50",
+          "ArrivalTime": "21:48",
+          "DepartureTime": "21:48",
           "SuspendedFlag": 0
         }
       ]
@@ -65996,7 +66298,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -66006,8 +66308,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "22:05",
-          "DepartureTime": "22:05",
+          "ArrivalTime": "22:02",
+          "DepartureTime": "22:02",
           "SuspendedFlag": 0
         },
         {
@@ -66017,8 +66319,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "22:09",
-          "DepartureTime": "22:09",
+          "ArrivalTime": "22:06",
+          "DepartureTime": "22:07",
           "SuspendedFlag": 0
         },
         {
@@ -66028,8 +66330,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "22:11",
-          "DepartureTime": "22:12",
+          "ArrivalTime": "22:09",
+          "DepartureTime": "22:09",
           "SuspendedFlag": 0
         },
         {
@@ -66039,8 +66341,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "22:15",
-          "DepartureTime": "22:15",
+          "ArrivalTime": "22:12",
+          "DepartureTime": "22:13",
           "SuspendedFlag": 0
         },
         {
@@ -66050,8 +66352,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "22:19",
-          "DepartureTime": "22:19",
+          "ArrivalTime": "22:16",
+          "DepartureTime": "22:17",
           "SuspendedFlag": 0
         },
         {
@@ -66061,8 +66363,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "22:23",
-          "DepartureTime": "22:23",
+          "ArrivalTime": "22:21",
+          "DepartureTime": "22:21",
           "SuspendedFlag": 0
         }
       ]
@@ -66204,7 +66506,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -66214,8 +66516,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "22:38",
-          "DepartureTime": "22:38",
+          "ArrivalTime": "22:35",
+          "DepartureTime": "22:35",
           "SuspendedFlag": 0
         },
         {
@@ -66225,8 +66527,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "22:42",
-          "DepartureTime": "22:42",
+          "ArrivalTime": "22:39",
+          "DepartureTime": "22:40",
           "SuspendedFlag": 0
         },
         {
@@ -66236,8 +66538,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "22:44",
-          "DepartureTime": "22:45",
+          "ArrivalTime": "22:42",
+          "DepartureTime": "22:42",
           "SuspendedFlag": 0
         },
         {
@@ -66247,8 +66549,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "22:48",
-          "DepartureTime": "22:48",
+          "ArrivalTime": "22:45",
+          "DepartureTime": "22:46",
           "SuspendedFlag": 0
         },
         {
@@ -66258,8 +66560,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "22:52",
-          "DepartureTime": "22:52",
+          "ArrivalTime": "22:49",
+          "DepartureTime": "22:50",
           "SuspendedFlag": 0
         },
         {
@@ -66269,8 +66571,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "22:56",
-          "DepartureTime": "22:56",
+          "ArrivalTime": "22:54",
+          "DepartureTime": "22:54",
           "SuspendedFlag": 0
         }
       ]
@@ -66412,7 +66714,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -66422,8 +66724,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "23:09",
-          "DepartureTime": "23:09",
+          "ArrivalTime": "23:06",
+          "DepartureTime": "23:06",
           "SuspendedFlag": 0
         },
         {
@@ -66433,8 +66735,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "23:13",
-          "DepartureTime": "23:14",
+          "ArrivalTime": "23:10",
+          "DepartureTime": "23:11",
           "SuspendedFlag": 0
         },
         {
@@ -66444,8 +66746,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "23:16",
-          "DepartureTime": "23:16",
+          "ArrivalTime": "23:13",
+          "DepartureTime": "23:13",
           "SuspendedFlag": 0
         },
         {
@@ -66455,8 +66757,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "23:19",
-          "DepartureTime": "23:20",
+          "ArrivalTime": "23:16",
+          "DepartureTime": "23:17",
           "SuspendedFlag": 0
         },
         {
@@ -66466,8 +66768,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "23:23",
-          "DepartureTime": "23:24",
+          "ArrivalTime": "23:20",
+          "DepartureTime": "23:21",
           "SuspendedFlag": 0
         },
         {
@@ -66477,8 +66779,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "23:28",
-          "DepartureTime": "23:28",
+          "ArrivalTime": "23:25",
+          "DepartureTime": "23:25",
           "SuspendedFlag": 0
         }
       ]
@@ -66609,7 +66911,7 @@
           "Zh_tw": "新竹",
           "En": "Hsinchu"
         },
-        "OverNightStationID": "1210",
+        "OverNightStationID": "",
         "TripLine": 0,
         "WheelChairFlag": 0,
         "PackageServiceFlag": 0,
@@ -66620,7 +66922,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。在新竹跨日。※配合六家站通廊施工需要，本次車自115年3月3日至5月31日(共90天)微調時刻。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -66630,8 +66932,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "23:43",
-          "DepartureTime": "23:43",
+          "ArrivalTime": "23:40",
+          "DepartureTime": "23:40",
           "SuspendedFlag": 0
         },
         {
@@ -66641,8 +66943,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "23:47",
-          "DepartureTime": "23:48",
+          "ArrivalTime": "23:44",
+          "DepartureTime": "23:45",
           "SuspendedFlag": 0
         },
         {
@@ -66652,8 +66954,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "23:50",
-          "DepartureTime": "23:50",
+          "ArrivalTime": "23:47",
+          "DepartureTime": "23:47",
           "SuspendedFlag": 0
         },
         {
@@ -66663,8 +66965,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "23:53",
-          "DepartureTime": "23:54",
+          "ArrivalTime": "23:50",
+          "DepartureTime": "23:51",
           "SuspendedFlag": 0
         },
         {
@@ -66674,8 +66976,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "23:57",
-          "DepartureTime": "23:58",
+          "ArrivalTime": "23:54",
+          "DepartureTime": "23:55",
           "SuspendedFlag": 0
         },
         {
@@ -66685,8 +66987,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "00:02",
-          "DepartureTime": "00:02",
+          "ArrivalTime": "23:59",
+          "DepartureTime": "23:59",
           "SuspendedFlag": 0
         }
       ]
@@ -73051,7 +73353,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -73585,6 +73887,308 @@
           },
           "ArrivalTime": "22:48",
           "DepartureTime": "22:48",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "2",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1106",
+        "TrainTypeCode": "3",
+        "TrainTypeName": {
+          "Zh_tw": "自強(商務專開列車)",
+          "En": "Tze-Chiang Limited Express"
+        },
+        "TripHeadSign": "往臺北-環島",
+        "StartingStationID": "1000",
+        "StartingStationName": {
+          "Zh_tw": "臺北",
+          "En": "Taipei"
+        },
+        "EndingStationID": "1001",
+        "EndingStationName": {
+          "Zh_tw": "臺北-環島",
+          "En": "Taipei Surround Island"
+        },
+        "OverNightStationID": "",
+        "TripLine": 1,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "逢週一、五至日行駛。環島之星觀光列車由易遊網公司承包，需搭配套裝行程，不單售車票-聯絡專線：(02)412-8001"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "1000",
+          "StationName": {
+            "Zh_tw": "臺北",
+            "En": "Taipei"
+          },
+          "ArrivalTime": "08:05",
+          "DepartureTime": "08:05",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "0980",
+          "StationName": {
+            "Zh_tw": "南港",
+            "En": "Nangang"
+          },
+          "ArrivalTime": "08:15",
+          "DepartureTime": "08:18",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "7210",
+          "StationName": {
+            "Zh_tw": "礁溪",
+            "En": "Jiaoxi"
+          },
+          "ArrivalTime": "09:25",
+          "DepartureTime": "09:30",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "7000",
+          "StationName": {
+            "Zh_tw": "花蓮",
+            "En": "Hualien"
+          },
+          "ArrivalTime": "10:54",
+          "DepartureTime": "11:00",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "6220",
+          "StationName": {
+            "Zh_tw": "壽豐",
+            "En": "Shoufeng"
+          },
+          "ArrivalTime": "11:16",
+          "DepartureTime": "11:17",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "6130",
+          "StationName": {
+            "Zh_tw": "瑞穗",
+            "En": "Ruisui"
+          },
+          "ArrivalTime": "11:50",
+          "DepartureTime": "11:52",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "6110",
+          "StationName": {
+            "Zh_tw": "玉里",
+            "En": "Yuli"
+          },
+          "ArrivalTime": "12:17",
+          "DepartureTime": "12:18",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 8,
+          "StationID": "6070",
+          "StationName": {
+            "Zh_tw": "池上",
+            "En": "Chishang"
+          },
+          "ArrivalTime": "12:37",
+          "DepartureTime": "12:39",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 9,
+          "StationID": "6020",
+          "StationName": {
+            "Zh_tw": "鹿野",
+            "En": "Luye"
+          },
+          "ArrivalTime": "13:03",
+          "DepartureTime": "13:10",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 10,
+          "StationID": "6000",
+          "StationName": {
+            "Zh_tw": "臺東",
+            "En": "Taitung"
+          },
+          "ArrivalTime": "13:25",
+          "DepartureTime": "13:45",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 11,
+          "StationID": "5230",
+          "StationName": {
+            "Zh_tw": "知本",
+            "En": "Zhiben"
+          },
+          "ArrivalTime": "13:56",
+          "DepartureTime": "13:57",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 12,
+          "StationID": "5120",
+          "StationName": {
+            "Zh_tw": "枋寮",
+            "En": "Fangliao"
+          },
+          "ArrivalTime": "15:17",
+          "DepartureTime": "15:18",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 13,
+          "StationID": "5000",
+          "StationName": {
+            "Zh_tw": "屏東",
+            "En": "Pingtung"
+          },
+          "ArrivalTime": "16:04",
+          "DepartureTime": "16:06",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 14,
+          "StationID": "4400",
+          "StationName": {
+            "Zh_tw": "高雄",
+            "En": "Kaohsiung"
+          },
+          "ArrivalTime": "16:24",
+          "DepartureTime": "16:28",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 15,
+          "StationID": "4340",
+          "StationName": {
+            "Zh_tw": "新左營",
+            "En": "Xinzuoying"
+          },
+          "ArrivalTime": "16:37",
+          "DepartureTime": "16:40",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 16,
+          "StationID": "4220",
+          "StationName": {
+            "Zh_tw": "臺南",
+            "En": "Tainan"
+          },
+          "ArrivalTime": "17:09",
+          "DepartureTime": "17:11",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 17,
+          "StationID": "4080",
+          "StationName": {
+            "Zh_tw": "嘉義",
+            "En": "Chiayi"
+          },
+          "ArrivalTime": "17:54",
+          "DepartureTime": "17:55",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 18,
+          "StationID": "3470",
+          "StationName": {
+            "Zh_tw": "斗六",
+            "En": "Douliu"
+          },
+          "ArrivalTime": "18:18",
+          "DepartureTime": "18:19",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 19,
+          "StationID": "3360",
+          "StationName": {
+            "Zh_tw": "彰化",
+            "En": "Changhua"
+          },
+          "ArrivalTime": "18:53",
+          "DepartureTime": "19:00",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 20,
+          "StationID": "3300",
+          "StationName": {
+            "Zh_tw": "臺中",
+            "En": "Taichung"
+          },
+          "ArrivalTime": "19:15",
+          "DepartureTime": "19:18",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 21,
+          "StationID": "1210",
+          "StationName": {
+            "Zh_tw": "新竹",
+            "En": "Hsinchu"
+          },
+          "ArrivalTime": "20:28",
+          "DepartureTime": "20:31",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 22,
+          "StationID": "1080",
+          "StationName": {
+            "Zh_tw": "桃園",
+            "En": "Taoyuan"
+          },
+          "ArrivalTime": "21:08",
+          "DepartureTime": "21:10",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 23,
+          "StationID": "1020",
+          "StationName": {
+            "Zh_tw": "板橋",
+            "En": "Banqiao"
+          },
+          "ArrivalTime": "21:31",
+          "DepartureTime": "21:33",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 24,
+          "StationID": "1001",
+          "StationName": {
+            "Zh_tw": "臺北-環島",
+            "En": "Taipei Surround Island"
+          },
+          "ArrivalTime": "21:42",
+          "DepartureTime": "21:42",
           "SuspendedFlag": 0
         }
       ]
@@ -75534,6 +76138,132 @@
           },
           "ArrivalTime": "12:20",
           "DepartureTime": "12:20",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "202",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1107",
+        "TrainTypeCode": "2",
+        "TrainTypeName": {
+          "Zh_tw": "普悠瑪(普悠瑪)",
+          "En": "Puyuma Express"
+        },
+        "TripHeadSign": "往花蓮",
+        "StartingStationID": "1040",
+        "StartingStationName": {
+          "Zh_tw": "樹林",
+          "En": "Shulin"
+        },
+        "EndingStationID": "7000",
+        "EndingStationName": {
+          "Zh_tw": "花蓮",
+          "En": "Hualien"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 1,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "逢週一、六行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "1040",
+          "StationName": {
+            "Zh_tw": "樹林",
+            "En": "Shulin"
+          },
+          "ArrivalTime": "05:49",
+          "DepartureTime": "05:55",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1020",
+          "StationName": {
+            "Zh_tw": "板橋",
+            "En": "Banqiao"
+          },
+          "ArrivalTime": "06:02",
+          "DepartureTime": "06:04",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1000",
+          "StationName": {
+            "Zh_tw": "臺北",
+            "En": "Taipei"
+          },
+          "ArrivalTime": "06:12",
+          "DepartureTime": "06:14",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "0990",
+          "StationName": {
+            "Zh_tw": "松山",
+            "En": "Songshan"
+          },
+          "ArrivalTime": "06:20",
+          "DepartureTime": "06:21",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "0930",
+          "StationName": {
+            "Zh_tw": "七堵",
+            "En": "Qidu"
+          },
+          "ArrivalTime": "06:33",
+          "DepartureTime": "06:35",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "7190",
+          "StationName": {
+            "Zh_tw": "宜蘭",
+            "En": "Yilan"
+          },
+          "ArrivalTime": "07:26",
+          "DepartureTime": "07:28",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "7160",
+          "StationName": {
+            "Zh_tw": "羅東",
+            "En": "Luodong"
+          },
+          "ArrivalTime": "07:34",
+          "DepartureTime": "07:36",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 8,
+          "StationID": "7000",
+          "StationName": {
+            "Zh_tw": "花蓮",
+            "En": "Hualien"
+          },
+          "ArrivalTime": "08:33",
+          "DepartureTime": "08:33",
           "SuspendedFlag": 0
         }
       ]
@@ -140817,21 +141547,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "6250"
             },
             "EndSection": {
               "StartStationID": "6130",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -228530,6 +229260,165 @@
           },
           "ArrivalTime": "14:19",
           "DepartureTime": "14:19",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "418",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "110H",
+        "TrainTypeCode": "11",
+        "TrainTypeName": {
+          "Zh_tw": "自強(3000)(EMU3000 型電車)",
+          "En": "Tze-Chiang Ltd. Express(3000)"
+        },
+        "TripHeadSign": "往臺東",
+        "StartingStationID": "1040",
+        "StartingStationName": {
+          "Zh_tw": "樹林",
+          "En": "Shulin"
+        },
+        "EndingStationID": "6000",
+        "EndingStationName": {
+          "Zh_tw": "臺東",
+          "En": "Taitung"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 1,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "逢週一、六、日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "1040",
+          "StationName": {
+            "Zh_tw": "樹林",
+            "En": "Shulin"
+          },
+          "ArrivalTime": "09:00",
+          "DepartureTime": "09:05",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1020",
+          "StationName": {
+            "Zh_tw": "板橋",
+            "En": "Banqiao"
+          },
+          "ArrivalTime": "09:12",
+          "DepartureTime": "09:13",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1000",
+          "StationName": {
+            "Zh_tw": "臺北",
+            "En": "Taipei"
+          },
+          "ArrivalTime": "09:22",
+          "DepartureTime": "09:26",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "0980",
+          "StationName": {
+            "Zh_tw": "南港",
+            "En": "Nangang"
+          },
+          "ArrivalTime": "09:34",
+          "DepartureTime": "09:35",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "7190",
+          "StationName": {
+            "Zh_tw": "宜蘭",
+            "En": "Yilan"
+          },
+          "ArrivalTime": "10:40",
+          "DepartureTime": "10:43",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "7000",
+          "StationName": {
+            "Zh_tw": "花蓮",
+            "En": "Hualien"
+          },
+          "ArrivalTime": "11:46",
+          "DepartureTime": "11:50",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "6130",
+          "StationName": {
+            "Zh_tw": "瑞穗",
+            "En": "Ruisui"
+          },
+          "ArrivalTime": "12:33",
+          "DepartureTime": "12:35",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 8,
+          "StationID": "6110",
+          "StationName": {
+            "Zh_tw": "玉里",
+            "En": "Yuli"
+          },
+          "ArrivalTime": "12:48",
+          "DepartureTime": "12:50",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 9,
+          "StationID": "6070",
+          "StationName": {
+            "Zh_tw": "池上",
+            "En": "Chishang"
+          },
+          "ArrivalTime": "13:05",
+          "DepartureTime": "13:06",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 10,
+          "StationID": "6050",
+          "StationName": {
+            "Zh_tw": "關山",
+            "En": "Guanshan"
+          },
+          "ArrivalTime": "13:16",
+          "DepartureTime": "13:20",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 11,
+          "StationID": "6000",
+          "StationName": {
+            "Zh_tw": "臺東",
+            "En": "Taitung"
+          },
+          "ArrivalTime": "13:52",
+          "DepartureTime": "13:52",
           "SuspendedFlag": 0
         }
       ]
