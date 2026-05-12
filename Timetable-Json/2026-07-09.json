@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-05-11T09:38:53+08:00",
+  "UpdateTime": "2026-05-12T06:28:52+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-05-08T10:57:15+08:00",
+  "SrcUpdateTime": "2026-05-11T20:37:54+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-07-09",
   "TrainTimetables": [
@@ -977,7 +977,7 @@
             "En": "Tianzhong"
           },
           "ArrivalTime": "06:13",
-          "DepartureTime": "06:14",
+          "DepartureTime": "06:15",
           "SuspendedFlag": 0
         },
         {
@@ -987,8 +987,8 @@
             "Zh_tw": "斗六",
             "En": "Douliu"
           },
-          "ArrivalTime": "06:29",
-          "DepartureTime": "06:31",
+          "ArrivalTime": "06:30",
+          "DepartureTime": "06:32",
           "SuspendedFlag": 0
         },
         {
@@ -2690,7 +2690,7 @@
             "En": "Beihu"
           },
           "ArrivalTime": "22:35",
-          "DepartureTime": "22:47",
+          "DepartureTime": "22:48",
           "SuspendedFlag": 0
         },
         {
@@ -2700,8 +2700,8 @@
             "Zh_tw": "楊梅",
             "En": "Yangmei"
           },
-          "ArrivalTime": "22:55",
-          "DepartureTime": "22:56",
+          "ArrivalTime": "22:56",
+          "DepartureTime": "22:57",
           "SuspendedFlag": 0
         },
         {
@@ -2711,8 +2711,8 @@
             "Zh_tw": "埔心",
             "En": "Puxin"
           },
-          "ArrivalTime": "22:59",
-          "DepartureTime": "23:00",
+          "ArrivalTime": "23:00",
+          "DepartureTime": "23:01",
           "SuspendedFlag": 0
         },
         {
@@ -2722,8 +2722,8 @@
             "Zh_tw": "中壢",
             "En": "Zhongli_Taoyuan"
           },
-          "ArrivalTime": "23:06",
-          "DepartureTime": "23:07",
+          "ArrivalTime": "23:07",
+          "DepartureTime": "23:08",
           "SuspendedFlag": 0
         },
         {
@@ -2733,8 +2733,8 @@
             "Zh_tw": "內壢",
             "En": "Neili"
           },
-          "ArrivalTime": "23:10",
-          "DepartureTime": "23:11",
+          "ArrivalTime": "23:11",
+          "DepartureTime": "23:12",
           "SuspendedFlag": 0
         },
         {
@@ -2744,8 +2744,8 @@
             "Zh_tw": "桃園",
             "En": "Taoyuan"
           },
-          "ArrivalTime": "23:16",
-          "DepartureTime": "23:18",
+          "ArrivalTime": "23:18",
+          "DepartureTime": "23:19",
           "SuspendedFlag": 0
         },
         {
@@ -2755,8 +2755,8 @@
             "Zh_tw": "鶯歌",
             "En": "Yingge"
           },
-          "ArrivalTime": "23:25",
-          "DepartureTime": "23:26",
+          "ArrivalTime": "23:26",
+          "DepartureTime": "23:27",
           "SuspendedFlag": 0
         },
         {
@@ -2766,8 +2766,8 @@
             "Zh_tw": "樹林",
             "En": "Shulin"
           },
-          "ArrivalTime": "23:34",
-          "DepartureTime": "23:35",
+          "ArrivalTime": "23:35",
+          "DepartureTime": "23:36",
           "SuspendedFlag": 0
         },
         {
@@ -2777,7 +2777,7 @@
             "Zh_tw": "板橋",
             "En": "Banqiao"
           },
-          "ArrivalTime": "23:40",
+          "ArrivalTime": "23:41",
           "DepartureTime": "23:42",
           "SuspendedFlag": 0
         },
@@ -3222,8 +3222,8 @@
             "Zh_tw": "潮州",
             "En": "Chaozhou"
           },
-          "ArrivalTime": "12:52",
-          "DepartureTime": "12:56",
+          "ArrivalTime": "12:51",
+          "DepartureTime": "12:55",
           "SuspendedFlag": 0
         }
       ]
@@ -3261,7 +3261,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 西線普悠瑪不發售團體票。"
+        "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
         {
@@ -12092,7 +12092,7 @@
             "En": "Beihu"
           },
           "ArrivalTime": "09:40",
-          "DepartureTime": "09:48",
+          "DepartureTime": "09:51",
           "SuspendedFlag": 0
         }
       ]
@@ -13519,8 +13519,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "08:41",
-          "DepartureTime": "08:44",
+          "ArrivalTime": "08:40",
+          "DepartureTime": "08:43",
           "SuspendedFlag": 0
         },
         {
@@ -13530,7 +13530,7 @@
             "Zh_tw": "新營",
             "En": "Xinying"
           },
-          "ArrivalTime": "09:07",
+          "ArrivalTime": "09:06",
           "DepartureTime": "09:08",
           "SuspendedFlag": 0
         },
@@ -15003,7 +15003,7 @@
             "En": "Beihu"
           },
           "ArrivalTime": "09:56",
-          "DepartureTime": "10:06",
+          "DepartureTime": "10:08",
           "SuspendedFlag": 0
         }
       ]
@@ -21223,21 +21223,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0900",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "1210",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1080",
               "EndStationID": "3360"
             },
             "EndSection": {
               "StartStationID": "4340",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0900",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "1210",
               "EndStationID": "5050"
             }
           }
@@ -25236,7 +25236,7 @@
             "En": "Beihu"
           },
           "ArrivalTime": "13:59",
-          "DepartureTime": "14:17",
+          "DepartureTime": "14:10",
           "SuspendedFlag": 0
         }
       ]
@@ -28834,7 +28834,7 @@
             "En": "Neili"
           },
           "ArrivalTime": "15:49",
-          "DepartureTime": "15:50",
+          "DepartureTime": "15:51",
           "SuspendedFlag": 0
         },
         {
@@ -28844,8 +28844,8 @@
             "Zh_tw": "中壢",
             "En": "Zhongli_Taoyuan"
           },
-          "ArrivalTime": "15:54",
-          "DepartureTime": "15:56",
+          "ArrivalTime": "15:55",
+          "DepartureTime": "15:57",
           "SuspendedFlag": 0
         },
         {
@@ -28855,8 +28855,8 @@
             "Zh_tw": "埔心",
             "En": "Puxin"
           },
-          "ArrivalTime": "16:03",
-          "DepartureTime": "16:04",
+          "ArrivalTime": "16:04",
+          "DepartureTime": "16:05",
           "SuspendedFlag": 0
         },
         {
@@ -28866,8 +28866,8 @@
             "Zh_tw": "楊梅",
             "En": "Yangmei"
           },
-          "ArrivalTime": "16:07",
-          "DepartureTime": "16:08",
+          "ArrivalTime": "16:08",
+          "DepartureTime": "16:09",
           "SuspendedFlag": 0
         },
         {
@@ -28877,8 +28877,8 @@
             "Zh_tw": "富岡",
             "En": "Fugang"
           },
-          "ArrivalTime": "16:14",
-          "DepartureTime": "16:14",
+          "ArrivalTime": "16:15",
+          "DepartureTime": "16:15",
           "SuspendedFlag": 0
         },
         {
@@ -28888,8 +28888,8 @@
             "Zh_tw": "新富",
             "En": "Xinfu"
           },
-          "ArrivalTime": "16:16",
-          "DepartureTime": "16:17",
+          "ArrivalTime": "16:17",
+          "DepartureTime": "16:18",
           "SuspendedFlag": 0
         },
         {
@@ -28899,8 +28899,8 @@
             "Zh_tw": "北湖",
             "En": "Beihu"
           },
-          "ArrivalTime": "16:19",
-          "DepartureTime": "16:20",
+          "ArrivalTime": "16:20",
+          "DepartureTime": "16:21",
           "SuspendedFlag": 0
         },
         {
@@ -28910,8 +28910,8 @@
             "Zh_tw": "湖口",
             "En": "Hukou"
           },
-          "ArrivalTime": "16:22",
-          "DepartureTime": "16:23",
+          "ArrivalTime": "16:23",
+          "DepartureTime": "16:24",
           "SuspendedFlag": 0
         },
         {
@@ -28921,8 +28921,8 @@
             "Zh_tw": "新豐",
             "En": "Xinfeng"
           },
-          "ArrivalTime": "16:28",
-          "DepartureTime": "16:29",
+          "ArrivalTime": "16:29",
+          "DepartureTime": "16:30",
           "SuspendedFlag": 0
         },
         {
@@ -28932,8 +28932,8 @@
             "Zh_tw": "竹北",
             "En": "Zhubei"
           },
-          "ArrivalTime": "16:35",
-          "DepartureTime": "16:36",
+          "ArrivalTime": "16:36",
+          "DepartureTime": "16:37",
           "SuspendedFlag": 0
         },
         {
@@ -28943,8 +28943,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "16:40",
-          "DepartureTime": "16:40",
+          "ArrivalTime": "16:41",
+          "DepartureTime": "16:41",
           "SuspendedFlag": 0
         },
         {
@@ -28954,8 +28954,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "16:44",
-          "DepartureTime": "16:44",
+          "ArrivalTime": "16:45",
+          "DepartureTime": "16:45",
           "SuspendedFlag": 0
         }
       ]
@@ -30806,7 +30806,7 @@
             "En": "Yuanlin"
           },
           "ArrivalTime": "13:33",
-          "DepartureTime": "13:34",
+          "DepartureTime": "13:35",
           "SuspendedFlag": 0
         },
         {
@@ -30816,8 +30816,8 @@
             "Zh_tw": "田中",
             "En": "Tianzhong"
           },
-          "ArrivalTime": "13:42",
-          "DepartureTime": "13:43",
+          "ArrivalTime": "13:43",
+          "DepartureTime": "13:44",
           "SuspendedFlag": 0
         },
         {
@@ -30827,8 +30827,8 @@
             "Zh_tw": "斗六",
             "En": "Douliu"
           },
-          "ArrivalTime": "13:57",
-          "DepartureTime": "13:59",
+          "ArrivalTime": "13:58",
+          "DepartureTime": "14:00",
           "SuspendedFlag": 0
         },
         {
@@ -30838,7 +30838,7 @@
             "Zh_tw": "斗南",
             "En": "Dounan"
           },
-          "ArrivalTime": "14:04",
+          "ArrivalTime": "14:05",
           "DepartureTime": "14:06",
           "SuspendedFlag": 0
         },
@@ -30849,7 +30849,7 @@
             "Zh_tw": "嘉義",
             "En": "Chiayi"
           },
-          "ArrivalTime": "14:20",
+          "ArrivalTime": "14:21",
           "DepartureTime": "14:23",
           "SuspendedFlag": 0
         },
@@ -38699,7 +38699,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 西線普悠瑪不發售團體票。"
+        "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
         {
@@ -44449,7 +44449,7 @@
             "Zh_tw": "北湖",
             "En": "Beihu"
           },
-          "ArrivalTime": "22:07",
+          "ArrivalTime": "22:09",
           "DepartureTime": "22:19",
           "SuspendedFlag": 0
         },
@@ -48766,8 +48766,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "21:34",
-          "DepartureTime": "21:34",
+          "ArrivalTime": "21:33",
+          "DepartureTime": "21:33",
           "SuspendedFlag": 0
         },
         {
@@ -48777,8 +48777,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "21:37",
-          "DepartureTime": "21:38",
+          "ArrivalTime": "21:36",
+          "DepartureTime": "21:37",
           "SuspendedFlag": 0
         },
         {
@@ -48788,8 +48788,8 @@
             "Zh_tw": "竹北",
             "En": "Zhubei"
           },
-          "ArrivalTime": "21:42",
-          "DepartureTime": "21:43",
+          "ArrivalTime": "21:41",
+          "DepartureTime": "21:42",
           "SuspendedFlag": 0
         },
         {
@@ -48799,8 +48799,8 @@
             "Zh_tw": "新豐",
             "En": "Xinfeng"
           },
-          "ArrivalTime": "21:48",
-          "DepartureTime": "21:55",
+          "ArrivalTime": "21:46",
+          "DepartureTime": "21:47",
           "SuspendedFlag": 0
         },
         {
@@ -48810,8 +48810,8 @@
             "Zh_tw": "湖口",
             "En": "Hukou"
           },
-          "ArrivalTime": "22:01",
-          "DepartureTime": "22:01",
+          "ArrivalTime": "21:53",
+          "DepartureTime": "21:59",
           "SuspendedFlag": 0
         },
         {
@@ -48821,8 +48821,8 @@
             "Zh_tw": "北湖",
             "En": "Beihu"
           },
-          "ArrivalTime": "22:04",
-          "DepartureTime": "22:04",
+          "ArrivalTime": "22:02",
+          "DepartureTime": "22:03",
           "SuspendedFlag": 0
         },
         {
@@ -48832,8 +48832,8 @@
             "Zh_tw": "新富",
             "En": "Xinfu"
           },
-          "ArrivalTime": "22:06",
-          "DepartureTime": "22:07",
+          "ArrivalTime": "22:05",
+          "DepartureTime": "22:06",
           "SuspendedFlag": 0
         },
         {
@@ -48843,8 +48843,8 @@
             "Zh_tw": "富岡",
             "En": "Fugang"
           },
-          "ArrivalTime": "22:10",
-          "DepartureTime": "22:16",
+          "ArrivalTime": "22:09",
+          "DepartureTime": "22:15",
           "SuspendedFlag": 0
         },
         {
@@ -48854,7 +48854,7 @@
             "Zh_tw": "楊梅",
             "En": "Yangmei"
           },
-          "ArrivalTime": "22:22",
+          "ArrivalTime": "22:21",
           "DepartureTime": "22:23",
           "SuspendedFlag": 0
         },
@@ -48877,7 +48877,7 @@
             "En": "Zhongli_Taoyuan"
           },
           "ArrivalTime": "22:42",
-          "DepartureTime": "22:44",
+          "DepartureTime": "22:43",
           "SuspendedFlag": 0
         },
         {
@@ -48887,8 +48887,8 @@
             "Zh_tw": "內壢",
             "En": "Neili"
           },
-          "ArrivalTime": "22:47",
-          "DepartureTime": "22:48",
+          "ArrivalTime": "22:46",
+          "DepartureTime": "22:47",
           "SuspendedFlag": 0
         },
         {
@@ -48898,8 +48898,8 @@
             "Zh_tw": "桃園",
             "En": "Taoyuan"
           },
-          "ArrivalTime": "22:54",
-          "DepartureTime": "22:55",
+          "ArrivalTime": "22:53",
+          "DepartureTime": "22:54",
           "SuspendedFlag": 0
         },
         {
@@ -48909,8 +48909,8 @@
             "Zh_tw": "鳳鳴",
             "En": "Fengming"
           },
-          "ArrivalTime": "22:59",
-          "DepartureTime": "23:00",
+          "ArrivalTime": "22:58",
+          "DepartureTime": "22:59",
           "SuspendedFlag": 0
         },
         {
@@ -48920,8 +48920,8 @@
             "Zh_tw": "鶯歌",
             "En": "Yingge"
           },
-          "ArrivalTime": "23:05",
-          "DepartureTime": "23:06",
+          "ArrivalTime": "23:04",
+          "DepartureTime": "23:05",
           "SuspendedFlag": 0
         },
         {
@@ -48931,8 +48931,8 @@
             "Zh_tw": "山佳",
             "En": "Shanjia"
           },
-          "ArrivalTime": "23:10",
-          "DepartureTime": "23:10",
+          "ArrivalTime": "23:09",
+          "DepartureTime": "23:09",
           "SuspendedFlag": 0
         },
         {
@@ -48942,8 +48942,8 @@
             "Zh_tw": "南樹林",
             "En": "South Shulin"
           },
-          "ArrivalTime": "23:13",
-          "DepartureTime": "23:13",
+          "ArrivalTime": "23:12",
+          "DepartureTime": "23:12",
           "SuspendedFlag": 0
         },
         {
@@ -48953,8 +48953,8 @@
             "Zh_tw": "樹林",
             "En": "Shulin"
           },
-          "ArrivalTime": "23:16",
-          "DepartureTime": "23:17",
+          "ArrivalTime": "23:15",
+          "DepartureTime": "23:16",
           "SuspendedFlag": 0
         },
         {
@@ -48964,8 +48964,8 @@
             "Zh_tw": "浮洲",
             "En": "Fuzhou"
           },
-          "ArrivalTime": "23:20",
-          "DepartureTime": "23:21",
+          "ArrivalTime": "23:19",
+          "DepartureTime": "23:20",
           "SuspendedFlag": 0
         },
         {
@@ -48975,8 +48975,8 @@
             "Zh_tw": "板橋",
             "En": "Banqiao"
           },
-          "ArrivalTime": "23:24",
-          "DepartureTime": "23:25",
+          "ArrivalTime": "23:23",
+          "DepartureTime": "23:24",
           "SuspendedFlag": 0
         },
         {
@@ -48986,8 +48986,8 @@
             "Zh_tw": "萬華",
             "En": "Wanhua"
           },
-          "ArrivalTime": "23:29",
-          "DepartureTime": "23:30",
+          "ArrivalTime": "23:28",
+          "DepartureTime": "23:29",
           "SuspendedFlag": 0
         },
         {
@@ -48997,8 +48997,8 @@
             "Zh_tw": "臺北",
             "En": "Taipei"
           },
-          "ArrivalTime": "23:35",
-          "DepartureTime": "23:36",
+          "ArrivalTime": "23:34",
+          "DepartureTime": "23:35",
           "SuspendedFlag": 0
         },
         {
@@ -49008,8 +49008,8 @@
             "Zh_tw": "松山",
             "En": "Songshan"
           },
-          "ArrivalTime": "23:42",
-          "DepartureTime": "23:43",
+          "ArrivalTime": "23:41",
+          "DepartureTime": "23:42",
           "SuspendedFlag": 0
         },
         {
@@ -49019,8 +49019,8 @@
             "Zh_tw": "南港",
             "En": "Nangang"
           },
-          "ArrivalTime": "23:47",
-          "DepartureTime": "23:47",
+          "ArrivalTime": "23:46",
+          "DepartureTime": "23:46",
           "SuspendedFlag": 0
         }
       ]
@@ -51606,7 +51606,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。本班次第6節為騰雲座艙、9-11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。  第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。本班次第6節為騰雲座艙、9-11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -54011,7 +54011,7 @@
             "En": "Dounan"
           },
           "ArrivalTime": "17:47",
-          "DepartureTime": "17:48",
+          "DepartureTime": "17:49",
           "SuspendedFlag": 0
         },
         {
@@ -54021,8 +54021,8 @@
             "Zh_tw": "斗六",
             "En": "Douliu"
           },
-          "ArrivalTime": "17:54",
-          "DepartureTime": "17:56",
+          "ArrivalTime": "17:55",
+          "DepartureTime": "17:57",
           "SuspendedFlag": 0
         },
         {
@@ -54032,7 +54032,7 @@
             "Zh_tw": "員林",
             "En": "Yuanlin"
           },
-          "ArrivalTime": "18:19",
+          "ArrivalTime": "18:20",
           "DepartureTime": "18:21",
           "SuspendedFlag": 0
         },
@@ -55913,7 +55913,7 @@
             "En": "Shanhua"
           },
           "ArrivalTime": "19:06",
-          "DepartureTime": "19:08",
+          "DepartureTime": "19:07",
           "SuspendedFlag": 0
         },
         {
@@ -55923,8 +55923,8 @@
             "Zh_tw": "新營",
             "En": "Xinying"
           },
-          "ArrivalTime": "19:21",
-          "DepartureTime": "19:22",
+          "ArrivalTime": "19:20",
+          "DepartureTime": "19:21",
           "SuspendedFlag": 0
         },
         {
@@ -55934,8 +55934,8 @@
             "Zh_tw": "嘉義",
             "En": "Chiayi"
           },
-          "ArrivalTime": "19:38",
-          "DepartureTime": "19:40",
+          "ArrivalTime": "19:37",
+          "DepartureTime": "19:39",
           "SuspendedFlag": 0
         },
         {
@@ -55945,8 +55945,8 @@
             "Zh_tw": "斗南",
             "En": "Dounan"
           },
-          "ArrivalTime": "19:55",
-          "DepartureTime": "19:56",
+          "ArrivalTime": "19:54",
+          "DepartureTime": "19:55",
           "SuspendedFlag": 0
         },
         {
@@ -55956,7 +55956,7 @@
             "Zh_tw": "斗六",
             "En": "Douliu"
           },
-          "ArrivalTime": "20:02",
+          "ArrivalTime": "20:01",
           "DepartureTime": "20:03",
           "SuspendedFlag": 0
         },
@@ -56160,7 +56160,7 @@
             "En": "Chaozhou"
           },
           "ArrivalTime": "18:15",
-          "DepartureTime": "18:26",
+          "DepartureTime": "18:27",
           "SuspendedFlag": 0
         },
         {
@@ -56170,8 +56170,8 @@
             "Zh_tw": "屏東",
             "En": "Pingtung"
           },
-          "ArrivalTime": "18:38",
-          "DepartureTime": "18:40",
+          "ArrivalTime": "18:39",
+          "DepartureTime": "18:41",
           "SuspendedFlag": 0
         },
         {
@@ -63894,8 +63894,8 @@
             "Zh_tw": "嘉義",
             "En": "Chiayi"
           },
-          "ArrivalTime": "19:37",
-          "DepartureTime": "19:39",
+          "ArrivalTime": "19:36",
+          "DepartureTime": "19:38",
           "SuspendedFlag": 0
         },
         {
@@ -63905,7 +63905,7 @@
             "Zh_tw": "新營",
             "En": "Xinying"
           },
-          "ArrivalTime": "19:53",
+          "ArrivalTime": "19:52",
           "DepartureTime": "19:54",
           "SuspendedFlag": 0
         },
@@ -67438,8 +67438,8 @@
             "Zh_tw": "六家",
             "En": "Liujia"
           },
-          "ArrivalTime": "23:09",
-          "DepartureTime": "23:09",
+          "ArrivalTime": "23:06",
+          "DepartureTime": "23:06",
           "SuspendedFlag": 0
         },
         {
@@ -67449,8 +67449,8 @@
             "Zh_tw": "竹中",
             "En": "Zhuzhong"
           },
-          "ArrivalTime": "23:13",
-          "DepartureTime": "23:14",
+          "ArrivalTime": "23:10",
+          "DepartureTime": "23:11",
           "SuspendedFlag": 0
         },
         {
@@ -67460,8 +67460,8 @@
             "Zh_tw": "新莊",
             "En": "Xinzhuang"
           },
-          "ArrivalTime": "23:16",
-          "DepartureTime": "23:16",
+          "ArrivalTime": "23:13",
+          "DepartureTime": "23:13",
           "SuspendedFlag": 0
         },
         {
@@ -67471,8 +67471,8 @@
             "Zh_tw": "千甲",
             "En": "Qianjia"
           },
-          "ArrivalTime": "23:19",
-          "DepartureTime": "23:20",
+          "ArrivalTime": "23:16",
+          "DepartureTime": "23:17",
           "SuspendedFlag": 0
         },
         {
@@ -67482,8 +67482,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "23:23",
-          "DepartureTime": "23:24",
+          "ArrivalTime": "23:20",
+          "DepartureTime": "23:21",
           "SuspendedFlag": 0
         },
         {
@@ -67493,8 +67493,8 @@
             "Zh_tw": "新竹",
             "En": "Hsinchu"
           },
-          "ArrivalTime": "23:28",
-          "DepartureTime": "23:28",
+          "ArrivalTime": "23:25",
+          "DepartureTime": "23:25",
           "SuspendedFlag": 0
         }
       ]
@@ -79954,7 +79954,7 @@
             "En": "Taiyuan"
           },
           "ArrivalTime": "21:19",
-          "DepartureTime": "21:21",
+          "DepartureTime": "21:20",
           "SuspendedFlag": 0
         },
         {
@@ -79964,8 +79964,8 @@
             "Zh_tw": "臺中",
             "En": "Taichung"
           },
-          "ArrivalTime": "21:26",
-          "DepartureTime": "21:26",
+          "ArrivalTime": "21:25",
+          "DepartureTime": "21:25",
           "SuspendedFlag": 0
         }
       ]
@@ -87012,7 +87012,7 @@
             "En": "Xinwuri"
           },
           "ArrivalTime": "07:09",
-          "DepartureTime": "07:17",
+          "DepartureTime": "07:18",
           "SuspendedFlag": 0
         },
         {
@@ -87022,8 +87022,8 @@
             "Zh_tw": "烏日",
             "En": "Wuri"
           },
-          "ArrivalTime": "07:19",
-          "DepartureTime": "07:19",
+          "ArrivalTime": "07:20",
+          "DepartureTime": "07:20",
           "SuspendedFlag": 0
         },
         {
@@ -87033,8 +87033,8 @@
             "Zh_tw": "大慶",
             "En": "Daqing"
           },
-          "ArrivalTime": "07:22",
-          "DepartureTime": "07:23",
+          "ArrivalTime": "07:23",
+          "DepartureTime": "07:24",
           "SuspendedFlag": 0
         },
         {
@@ -87044,8 +87044,8 @@
             "Zh_tw": "五權",
             "En": "Wuquan"
           },
-          "ArrivalTime": "07:26",
-          "DepartureTime": "07:26",
+          "ArrivalTime": "07:27",
+          "DepartureTime": "07:27",
           "SuspendedFlag": 0
         },
         {
@@ -87055,7 +87055,7 @@
             "Zh_tw": "臺中",
             "En": "Taichung"
           },
-          "ArrivalTime": "07:29",
+          "ArrivalTime": "07:30",
           "DepartureTime": "07:33",
           "SuspendedFlag": 0
         },
@@ -88039,7 +88039,7 @@
             "Zh_tw": "后里",
             "En": "Houli"
           },
-          "ArrivalTime": "08:27",
+          "ArrivalTime": "08:26",
           "DepartureTime": "08:29",
           "SuspendedFlag": 0
         },
@@ -94996,7 +94996,7 @@
             "En": "Hukou"
           },
           "ArrivalTime": "14:40",
-          "DepartureTime": "14:42",
+          "DepartureTime": "14:41",
           "SuspendedFlag": 0
         },
         {
@@ -95007,7 +95007,7 @@
             "En": "Beihu"
           },
           "ArrivalTime": "14:45",
-          "DepartureTime": "14:47",
+          "DepartureTime": "14:48",
           "SuspendedFlag": 0
         }
       ]
@@ -99122,7 +99122,7 @@
             "En": "Sanyi"
           },
           "ArrivalTime": "16:31",
-          "DepartureTime": "16:32",
+          "DepartureTime": "16:33",
           "SuspendedFlag": 0
         },
         {
@@ -99132,8 +99132,8 @@
             "Zh_tw": "泰安",
             "En": "Tai'an"
           },
-          "ArrivalTime": "16:39",
-          "DepartureTime": "16:39",
+          "ArrivalTime": "16:40",
+          "DepartureTime": "16:40",
           "SuspendedFlag": 0
         },
         {
@@ -99143,8 +99143,8 @@
             "Zh_tw": "后里",
             "En": "Houli"
           },
-          "ArrivalTime": "16:42",
-          "DepartureTime": "16:44",
+          "ArrivalTime": "16:43",
+          "DepartureTime": "16:45",
           "SuspendedFlag": 0
         },
         {
@@ -99154,8 +99154,8 @@
             "Zh_tw": "豐原",
             "En": "Fengyuan"
           },
-          "ArrivalTime": "16:49",
-          "DepartureTime": "16:51",
+          "ArrivalTime": "16:50",
+          "DepartureTime": "16:52",
           "SuspendedFlag": 0
         },
         {
@@ -99165,8 +99165,8 @@
             "Zh_tw": "栗林",
             "En": "Lilin"
           },
-          "ArrivalTime": "16:54",
-          "DepartureTime": "16:54",
+          "ArrivalTime": "16:55",
+          "DepartureTime": "16:55",
           "SuspendedFlag": 0
         },
         {
@@ -99176,8 +99176,8 @@
             "Zh_tw": "潭子",
             "En": "Tanzi"
           },
-          "ArrivalTime": "16:57",
-          "DepartureTime": "16:58",
+          "ArrivalTime": "16:58",
+          "DepartureTime": "16:59",
           "SuspendedFlag": 0
         },
         {
@@ -99187,8 +99187,8 @@
             "Zh_tw": "頭家厝",
             "En": "Toujiacuo"
           },
-          "ArrivalTime": "17:00",
-          "DepartureTime": "17:01",
+          "ArrivalTime": "17:01",
+          "DepartureTime": "17:02",
           "SuspendedFlag": 0
         },
         {
@@ -99198,8 +99198,8 @@
             "Zh_tw": "松竹",
             "En": "Songzhu"
           },
-          "ArrivalTime": "17:03",
-          "DepartureTime": "17:03",
+          "ArrivalTime": "17:04",
+          "DepartureTime": "17:04",
           "SuspendedFlag": 0
         },
         {
@@ -99209,8 +99209,8 @@
             "Zh_tw": "太原",
             "En": "Taiyuan"
           },
-          "ArrivalTime": "17:05",
-          "DepartureTime": "17:06",
+          "ArrivalTime": "17:06",
+          "DepartureTime": "17:07",
           "SuspendedFlag": 0
         },
         {
@@ -99220,8 +99220,8 @@
             "Zh_tw": "精武",
             "En": "Jingwu"
           },
-          "ArrivalTime": "17:09",
-          "DepartureTime": "17:09",
+          "ArrivalTime": "17:10",
+          "DepartureTime": "17:10",
           "SuspendedFlag": 0
         },
         {
@@ -99231,7 +99231,7 @@
             "Zh_tw": "臺中",
             "En": "Taichung"
           },
-          "ArrivalTime": "17:13",
+          "ArrivalTime": "17:14",
           "DepartureTime": "17:23",
           "SuspendedFlag": 0
         },
@@ -100374,8 +100374,8 @@
             "Zh_tw": "北湖",
             "En": "Beihu"
           },
-          "ArrivalTime": "16:29",
-          "DepartureTime": "16:32",
+          "ArrivalTime": "16:30",
+          "DepartureTime": "16:31",
           "SuspendedFlag": 0
         },
         {
@@ -100385,7 +100385,7 @@
             "Zh_tw": "湖口",
             "En": "Hukou"
           },
-          "ArrivalTime": "16:35",
+          "ArrivalTime": "16:34",
           "DepartureTime": "16:35",
           "SuspendedFlag": 0
         },
@@ -108392,7 +108392,7 @@
             "En": "Hsinchu"
           },
           "ArrivalTime": "22:24",
-          "DepartureTime": "22:26",
+          "DepartureTime": "22:25",
           "SuspendedFlag": 0
         },
         {
@@ -108402,8 +108402,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "22:28",
-          "DepartureTime": "22:29",
+          "ArrivalTime": "22:27",
+          "DepartureTime": "22:28",
           "SuspendedFlag": 0
         },
         {
@@ -108413,8 +108413,8 @@
             "Zh_tw": "竹北",
             "En": "Zhubei"
           },
-          "ArrivalTime": "22:33",
-          "DepartureTime": "22:33",
+          "ArrivalTime": "22:32",
+          "DepartureTime": "22:32",
           "SuspendedFlag": 0
         },
         {
@@ -108424,8 +108424,8 @@
             "Zh_tw": "新豐",
             "En": "Xinfeng"
           },
-          "ArrivalTime": "22:38",
-          "DepartureTime": "22:38",
+          "ArrivalTime": "22:37",
+          "DepartureTime": "22:37",
           "SuspendedFlag": 0
         },
         {
@@ -108435,8 +108435,8 @@
             "Zh_tw": "湖口",
             "En": "Hukou"
           },
-          "ArrivalTime": "22:43",
-          "DepartureTime": "22:44",
+          "ArrivalTime": "22:42",
+          "DepartureTime": "22:43",
           "SuspendedFlag": 0
         },
         {
@@ -108446,8 +108446,8 @@
             "Zh_tw": "北湖",
             "En": "Beihu"
           },
-          "ArrivalTime": "22:48",
-          "DepartureTime": "22:50",
+          "ArrivalTime": "22:46",
+          "DepartureTime": "22:49",
           "SuspendedFlag": 0
         }
       ]
@@ -117756,7 +117756,7 @@
             "Zh_tw": "北湖",
             "En": "Beihu"
           },
-          "ArrivalTime": "14:46",
+          "ArrivalTime": "14:48",
           "DepartureTime": "14:58",
           "SuspendedFlag": 0
         },
@@ -117789,7 +117789,7 @@
             "Zh_tw": "竹北",
             "En": "Zhubei"
           },
-          "ArrivalTime": "15:12",
+          "ArrivalTime": "15:13",
           "DepartureTime": "15:14",
           "SuspendedFlag": 0
         },
@@ -118323,7 +118323,7 @@
             "En": "Hsinchu"
           },
           "ArrivalTime": "15:58",
-          "DepartureTime": "16:02",
+          "DepartureTime": "16:03",
           "SuspendedFlag": 0
         },
         {
@@ -118333,8 +118333,8 @@
             "Zh_tw": "北新竹",
             "En": "North Hsinchu"
           },
-          "ArrivalTime": "16:04",
-          "DepartureTime": "16:05",
+          "ArrivalTime": "16:05",
+          "DepartureTime": "16:06",
           "SuspendedFlag": 0
         },
         {
@@ -118344,8 +118344,8 @@
             "Zh_tw": "竹北",
             "En": "Zhubei"
           },
-          "ArrivalTime": "16:09",
-          "DepartureTime": "16:11",
+          "ArrivalTime": "16:10",
+          "DepartureTime": "16:12",
           "SuspendedFlag": 0
         },
         {
@@ -118355,8 +118355,8 @@
             "Zh_tw": "新豐",
             "En": "Xinfeng"
           },
-          "ArrivalTime": "16:15",
-          "DepartureTime": "16:16",
+          "ArrivalTime": "16:16",
+          "DepartureTime": "16:17",
           "SuspendedFlag": 0
         },
         {
@@ -118366,8 +118366,8 @@
             "Zh_tw": "湖口",
             "En": "Hukou"
           },
-          "ArrivalTime": "16:21",
-          "DepartureTime": "16:22",
+          "ArrivalTime": "16:22",
+          "DepartureTime": "16:23",
           "SuspendedFlag": 0
         },
         {
@@ -118377,8 +118377,8 @@
             "Zh_tw": "北湖",
             "En": "Beihu"
           },
-          "ArrivalTime": "16:26",
-          "DepartureTime": "16:28",
+          "ArrivalTime": "16:27",
+          "DepartureTime": "16:29",
           "SuspendedFlag": 0
         }
       ]
@@ -123527,7 +123527,7 @@
             "En": "Taichung"
           },
           "ArrivalTime": "06:41",
-          "DepartureTime": "06:42",
+          "DepartureTime": "06:43",
           "SuspendedFlag": 0
         },
         {
@@ -123537,8 +123537,8 @@
             "Zh_tw": "精武",
             "En": "Jingwu"
           },
-          "ArrivalTime": "06:44",
-          "DepartureTime": "06:45",
+          "ArrivalTime": "06:45",
+          "DepartureTime": "06:46",
           "SuspendedFlag": 0
         },
         {
@@ -123548,8 +123548,8 @@
             "Zh_tw": "太原",
             "En": "Taiyuan"
           },
-          "ArrivalTime": "06:47",
-          "DepartureTime": "06:48",
+          "ArrivalTime": "06:48",
+          "DepartureTime": "06:49",
           "SuspendedFlag": 0
         },
         {
@@ -123559,8 +123559,8 @@
             "Zh_tw": "松竹",
             "En": "Songzhu"
           },
-          "ArrivalTime": "06:50",
-          "DepartureTime": "06:51",
+          "ArrivalTime": "06:51",
+          "DepartureTime": "06:52",
           "SuspendedFlag": 0
         },
         {
@@ -123570,8 +123570,8 @@
             "Zh_tw": "頭家厝",
             "En": "Toujiacuo"
           },
-          "ArrivalTime": "06:53",
-          "DepartureTime": "06:53",
+          "ArrivalTime": "06:54",
+          "DepartureTime": "06:54",
           "SuspendedFlag": 0
         },
         {
@@ -123581,8 +123581,8 @@
             "Zh_tw": "潭子",
             "En": "Tanzi"
           },
-          "ArrivalTime": "06:56",
-          "DepartureTime": "06:57",
+          "ArrivalTime": "06:57",
+          "DepartureTime": "06:58",
           "SuspendedFlag": 0
         },
         {
@@ -123592,8 +123592,8 @@
             "Zh_tw": "栗林",
             "En": "Lilin"
           },
-          "ArrivalTime": "06:59",
-          "DepartureTime": "07:00",
+          "ArrivalTime": "07:00",
+          "DepartureTime": "07:01",
           "SuspendedFlag": 0
         },
         {
@@ -123603,8 +123603,8 @@
             "Zh_tw": "豐原",
             "En": "Fengyuan"
           },
-          "ArrivalTime": "07:04",
-          "DepartureTime": "07:04",
+          "ArrivalTime": "07:05",
+          "DepartureTime": "07:05",
           "SuspendedFlag": 0
         }
       ]
@@ -127874,8 +127874,8 @@
             "Zh_tw": "銅鑼",
             "En": "Tongluo"
           },
-          "ArrivalTime": "16:39",
-          "DepartureTime": "16:40",
+          "ArrivalTime": "16:38",
+          "DepartureTime": "16:39",
           "SuspendedFlag": 0
         },
         {
@@ -127885,8 +127885,8 @@
             "Zh_tw": "南勢",
             "En": "Nanshi"
           },
-          "ArrivalTime": "16:43",
-          "DepartureTime": "16:44",
+          "ArrivalTime": "16:42",
+          "DepartureTime": "16:43",
           "SuspendedFlag": 0
         },
         {
@@ -127896,8 +127896,8 @@
             "Zh_tw": "苗栗",
             "En": "Miaoli"
           },
-          "ArrivalTime": "16:50",
-          "DepartureTime": "16:50",
+          "ArrivalTime": "16:49",
+          "DepartureTime": "16:49",
           "SuspendedFlag": 0
         }
       ]
@@ -130602,8 +130602,8 @@
             "Zh_tw": "嘉義",
             "En": "Chiayi"
           },
-          "ArrivalTime": "05:50",
-          "DepartureTime": "05:50",
+          "ArrivalTime": "05:52",
+          "DepartureTime": "05:52",
           "SuspendedFlag": 0
         },
         {
@@ -130613,8 +130613,8 @@
             "Zh_tw": "大林",
             "En": "Dalin"
           },
-          "ArrivalTime": "06:01",
-          "DepartureTime": "06:02",
+          "ArrivalTime": "06:03",
+          "DepartureTime": "06:04",
           "SuspendedFlag": 0
         },
         {
@@ -130624,8 +130624,8 @@
             "Zh_tw": "斗南",
             "En": "Dounan"
           },
-          "ArrivalTime": "06:08",
-          "DepartureTime": "06:09",
+          "ArrivalTime": "06:10",
+          "DepartureTime": "06:11",
           "SuspendedFlag": 0
         },
         {
@@ -130635,8 +130635,8 @@
             "Zh_tw": "斗六",
             "En": "Douliu"
           },
-          "ArrivalTime": "06:15",
-          "DepartureTime": "06:17",
+          "ArrivalTime": "06:17",
+          "DepartureTime": "06:19",
           "SuspendedFlag": 0
         },
         {
@@ -130646,8 +130646,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "06:29",
-          "DepartureTime": "06:30",
+          "ArrivalTime": "06:31",
+          "DepartureTime": "06:33",
           "SuspendedFlag": 0
         },
         {
@@ -130657,8 +130657,8 @@
             "Zh_tw": "田中",
             "En": "Tianzhong"
           },
-          "ArrivalTime": "06:35",
-          "DepartureTime": "06:37",
+          "ArrivalTime": "06:38",
+          "DepartureTime": "06:39",
           "SuspendedFlag": 0
         },
         {
@@ -130668,8 +130668,8 @@
             "Zh_tw": "員林",
             "En": "Yuanlin"
           },
-          "ArrivalTime": "06:46",
-          "DepartureTime": "06:48",
+          "ArrivalTime": "06:48",
+          "DepartureTime": "06:49",
           "SuspendedFlag": 0
         },
         {
@@ -130679,8 +130679,8 @@
             "Zh_tw": "彰化",
             "En": "Changhua"
           },
-          "ArrivalTime": "07:02",
-          "DepartureTime": "07:04",
+          "ArrivalTime": "07:03",
+          "DepartureTime": "07:05",
           "SuspendedFlag": 0
         },
         {
@@ -130690,8 +130690,8 @@
             "Zh_tw": "新烏日",
             "En": "Xinwuri"
           },
-          "ArrivalTime": "07:13",
-          "DepartureTime": "07:14",
+          "ArrivalTime": "07:14",
+          "DepartureTime": "07:15",
           "SuspendedFlag": 0
         },
         {
@@ -130701,7 +130701,7 @@
             "Zh_tw": "臺中",
             "En": "Taichung"
           },
-          "ArrivalTime": "07:21",
+          "ArrivalTime": "07:22",
           "DepartureTime": "07:24",
           "SuspendedFlag": 0
         },
@@ -130889,7 +130889,7 @@
             "En": "Luodong"
           },
           "ArrivalTime": "11:41",
-          "DepartureTime": "11:43",
+          "DepartureTime": "11:42",
           "SuspendedFlag": 0
         },
         {
@@ -130900,18 +130900,29 @@
             "En": "Nan'ao"
           },
           "ArrivalTime": "12:03",
-          "DepartureTime": "12:05",
+          "DepartureTime": "12:04",
           "SuspendedFlag": 0
         },
         {
           "StopSequence": 29,
+          "StationID": "7030",
+          "StationName": {
+            "Zh_tw": "新城",
+            "En": "Xincheng"
+          },
+          "ArrivalTime": "12:38",
+          "DepartureTime": "12:40",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 30,
           "StationID": "7000",
           "StationName": {
             "Zh_tw": "花蓮",
             "En": "Hualien"
           },
-          "ArrivalTime": "12:50",
-          "DepartureTime": "12:50",
+          "ArrivalTime": "12:53",
+          "DepartureTime": "12:53",
           "SuspendedFlag": 0
         }
       ]
@@ -131015,7 +131026,7 @@
             "En": "Ershui"
           },
           "ArrivalTime": "06:30",
-          "DepartureTime": "06:35",
+          "DepartureTime": "06:36",
           "SuspendedFlag": 0
         },
         {
@@ -131025,8 +131036,8 @@
             "Zh_tw": "田中",
             "En": "Tianzhong"
           },
-          "ArrivalTime": "06:42",
-          "DepartureTime": "06:43",
+          "ArrivalTime": "06:43",
+          "DepartureTime": "06:44",
           "SuspendedFlag": 0
         },
         {
@@ -131036,7 +131047,7 @@
             "Zh_tw": "員林",
             "En": "Yuanlin"
           },
-          "ArrivalTime": "06:54",
+          "ArrivalTime": "06:55",
           "DepartureTime": "06:56",
           "SuspendedFlag": 0
         },
@@ -132215,7 +132226,7 @@
             "En": "Zhuoshui"
           },
           "ArrivalTime": "12:13",
-          "DepartureTime": "12:16",
+          "DepartureTime": "12:14",
           "SuspendedFlag": 0
         },
         {
@@ -132225,8 +132236,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "12:25",
-          "DepartureTime": "12:26",
+          "ArrivalTime": "12:23",
+          "DepartureTime": "12:24",
           "SuspendedFlag": 0
         },
         {
@@ -132236,8 +132247,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "12:31",
-          "DepartureTime": "12:31",
+          "ArrivalTime": "12:29",
+          "DepartureTime": "12:29",
           "SuspendedFlag": 0
         }
       ]
@@ -132285,8 +132296,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "12:00",
-          "DepartureTime": "12:00",
+          "ArrivalTime": "11:57",
+          "DepartureTime": "11:57",
           "SuspendedFlag": 0
         },
         {
@@ -132296,8 +132307,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "12:04",
-          "DepartureTime": "12:05",
+          "ArrivalTime": "12:01",
+          "DepartureTime": "12:02",
           "SuspendedFlag": 0
         },
         {
@@ -132307,7 +132318,7 @@
             "Zh_tw": "濁水",
             "En": "Zhuoshui"
           },
-          "ArrivalTime": "12:14",
+          "ArrivalTime": "12:11",
           "DepartureTime": "12:15",
           "SuspendedFlag": 0
         },
@@ -133459,7 +133470,7 @@
             "En": "Zhuoshui"
           },
           "ArrivalTime": "17:43",
-          "DepartureTime": "17:46",
+          "DepartureTime": "17:45",
           "SuspendedFlag": 0
         },
         {
@@ -133469,8 +133480,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "17:55",
-          "DepartureTime": "17:56",
+          "ArrivalTime": "17:54",
+          "DepartureTime": "17:55",
           "SuspendedFlag": 0
         },
         {
@@ -133480,8 +133491,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "18:01",
-          "DepartureTime": "18:01",
+          "ArrivalTime": "18:00",
+          "DepartureTime": "18:00",
           "SuspendedFlag": 0
         }
       ]
@@ -133529,8 +133540,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "17:30",
-          "DepartureTime": "17:30",
+          "ArrivalTime": "17:28",
+          "DepartureTime": "17:28",
           "SuspendedFlag": 0
         },
         {
@@ -133540,8 +133551,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "17:34",
-          "DepartureTime": "17:35",
+          "ArrivalTime": "17:32",
+          "DepartureTime": "17:33",
           "SuspendedFlag": 0
         },
         {
@@ -133551,8 +133562,8 @@
             "Zh_tw": "濁水",
             "En": "Zhuoshui"
           },
-          "ArrivalTime": "17:44",
-          "DepartureTime": "17:45",
+          "ArrivalTime": "17:42",
+          "DepartureTime": "17:44",
           "SuspendedFlag": 0
         },
         {
@@ -133562,8 +133573,8 @@
             "Zh_tw": "龍泉",
             "En": "Longquan"
           },
-          "ArrivalTime": "17:52",
-          "DepartureTime": "17:53",
+          "ArrivalTime": "17:51",
+          "DepartureTime": "17:52",
           "SuspendedFlag": 0
         },
         {
@@ -133573,8 +133584,8 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "18:00",
-          "DepartureTime": "18:03",
+          "ArrivalTime": "17:59",
+          "DepartureTime": "18:02",
           "SuspendedFlag": 0
         },
         {
@@ -133584,8 +133595,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "18:18",
-          "DepartureTime": "18:19",
+          "ArrivalTime": "18:17",
+          "DepartureTime": "18:18",
           "SuspendedFlag": 0
         },
         {
@@ -133595,8 +133606,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "18:24",
-          "DepartureTime": "18:24",
+          "ArrivalTime": "18:23",
+          "DepartureTime": "18:23",
           "SuspendedFlag": 0
         }
       ]
@@ -133689,7 +133700,7 @@
             "En": "Zhuoshui"
           },
           "ArrivalTime": "19:03",
-          "DepartureTime": "19:06",
+          "DepartureTime": "19:08",
           "SuspendedFlag": 0
         },
         {
@@ -133699,8 +133710,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "19:15",
-          "DepartureTime": "19:16",
+          "ArrivalTime": "19:17",
+          "DepartureTime": "19:18",
           "SuspendedFlag": 0
         },
         {
@@ -133710,8 +133721,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "19:21",
-          "DepartureTime": "19:21",
+          "ArrivalTime": "19:23",
+          "DepartureTime": "19:23",
           "SuspendedFlag": 0
         }
       ]
@@ -133759,8 +133770,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "18:50",
-          "DepartureTime": "18:50",
+          "ArrivalTime": "18:52",
+          "DepartureTime": "18:52",
           "SuspendedFlag": 0
         },
         {
@@ -133770,8 +133781,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "18:54",
-          "DepartureTime": "18:55",
+          "ArrivalTime": "18:56",
+          "DepartureTime": "18:57",
           "SuspendedFlag": 0
         },
         {
@@ -133781,8 +133792,8 @@
             "Zh_tw": "濁水",
             "En": "Zhuoshui"
           },
-          "ArrivalTime": "19:04",
-          "DepartureTime": "19:05",
+          "ArrivalTime": "19:06",
+          "DepartureTime": "19:07",
           "SuspendedFlag": 0
         },
         {
@@ -133792,8 +133803,8 @@
             "Zh_tw": "龍泉",
             "En": "Longquan"
           },
-          "ArrivalTime": "19:12",
-          "DepartureTime": "19:13",
+          "ArrivalTime": "19:14",
+          "DepartureTime": "19:15",
           "SuspendedFlag": 0
         },
         {
@@ -133803,8 +133814,8 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "19:20",
-          "DepartureTime": "19:23",
+          "ArrivalTime": "19:22",
+          "DepartureTime": "19:25",
           "SuspendedFlag": 0
         },
         {
@@ -133814,8 +133825,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "19:38",
-          "DepartureTime": "19:39",
+          "ArrivalTime": "19:40",
+          "DepartureTime": "19:41",
           "SuspendedFlag": 0
         },
         {
@@ -133825,8 +133836,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "19:44",
-          "DepartureTime": "19:44",
+          "ArrivalTime": "19:46",
+          "DepartureTime": "19:46",
           "SuspendedFlag": 0
         }
       ]
@@ -137919,7 +137930,7 @@
             "Zh_tw": "大林",
             "En": "Dalin"
           },
-          "ArrivalTime": "14:06",
+          "ArrivalTime": "14:05",
           "DepartureTime": "14:07",
           "SuspendedFlag": 0
         },
@@ -137930,8 +137941,8 @@
             "Zh_tw": "斗南",
             "En": "Dounan"
           },
-          "ArrivalTime": "14:15",
-          "DepartureTime": "14:16",
+          "ArrivalTime": "14:13",
+          "DepartureTime": "14:15",
           "SuspendedFlag": 0
         },
         {
@@ -137941,7 +137952,7 @@
             "Zh_tw": "斗六",
             "En": "Douliu"
           },
-          "ArrivalTime": "14:23",
+          "ArrivalTime": "14:22",
           "DepartureTime": "14:34",
           "SuspendedFlag": 0
         },
@@ -137986,7 +137997,7 @@
             "En": "Changhua"
           },
           "ArrivalTime": "15:20",
-          "DepartureTime": "15:26",
+          "DepartureTime": "15:24",
           "SuspendedFlag": 0
         },
         {
@@ -137996,8 +138007,8 @@
             "Zh_tw": "新烏日",
             "En": "Xinwuri"
           },
-          "ArrivalTime": "15:33",
-          "DepartureTime": "15:36",
+          "ArrivalTime": "15:31",
+          "DepartureTime": "15:34",
           "SuspendedFlag": 0
         },
         {
@@ -138007,8 +138018,8 @@
             "Zh_tw": "大慶",
             "En": "Daqing"
           },
-          "ArrivalTime": "15:40",
-          "DepartureTime": "15:41",
+          "ArrivalTime": "15:38",
+          "DepartureTime": "15:39",
           "SuspendedFlag": 0
         },
         {
@@ -138018,8 +138029,8 @@
             "Zh_tw": "臺中",
             "En": "Taichung"
           },
-          "ArrivalTime": "15:45",
-          "DepartureTime": "15:50",
+          "ArrivalTime": "15:43",
+          "DepartureTime": "15:46",
           "SuspendedFlag": 0
         },
         {
@@ -138029,8 +138040,8 @@
             "Zh_tw": "太原",
             "En": "Taiyuan"
           },
-          "ArrivalTime": "15:55",
-          "DepartureTime": "16:00",
+          "ArrivalTime": "15:50",
+          "DepartureTime": "15:51",
           "SuspendedFlag": 0
         },
         {
@@ -138040,8 +138051,8 @@
             "Zh_tw": "松竹",
             "En": "Songzhu"
           },
-          "ArrivalTime": "16:03",
-          "DepartureTime": "16:04",
+          "ArrivalTime": "15:53",
+          "DepartureTime": "15:54",
           "SuspendedFlag": 0
         },
         {
@@ -138051,8 +138062,8 @@
             "Zh_tw": "潭子",
             "En": "Tanzi"
           },
-          "ArrivalTime": "16:08",
-          "DepartureTime": "16:13",
+          "ArrivalTime": "15:58",
+          "DepartureTime": "16:03",
           "SuspendedFlag": 0
         },
         {
@@ -138062,8 +138073,8 @@
             "Zh_tw": "豐原",
             "En": "Fengyuan"
           },
-          "ArrivalTime": "16:20",
-          "DepartureTime": "16:20",
+          "ArrivalTime": "16:10",
+          "DepartureTime": "16:10",
           "SuspendedFlag": 0
         }
       ]
@@ -138738,7 +138749,7 @@
             "En": "Xinzuoying"
           },
           "ArrivalTime": "18:01",
-          "DepartureTime": "18:03",
+          "DepartureTime": "18:02",
           "SuspendedFlag": 0
         },
         {
@@ -139238,7 +139249,7 @@
             "En": "Minxiong"
           },
           "ArrivalTime": "18:43",
-          "DepartureTime": "18:49",
+          "DepartureTime": "18:50",
           "SuspendedFlag": 0
         },
         {
@@ -139248,8 +139259,8 @@
             "Zh_tw": "斗南",
             "En": "Dounan"
           },
-          "ArrivalTime": "19:00",
-          "DepartureTime": "19:02",
+          "ArrivalTime": "19:01",
+          "DepartureTime": "19:03",
           "SuspendedFlag": 0
         },
         {
@@ -139259,8 +139270,8 @@
             "Zh_tw": "斗六",
             "En": "Douliu"
           },
-          "ArrivalTime": "19:08",
-          "DepartureTime": "19:10",
+          "ArrivalTime": "19:09",
+          "DepartureTime": "19:11",
           "SuspendedFlag": 0
         },
         {
@@ -139270,8 +139281,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "19:22",
-          "DepartureTime": "19:23",
+          "ArrivalTime": "19:23",
+          "DepartureTime": "19:26",
           "SuspendedFlag": 0
         },
         {
@@ -139281,8 +139292,8 @@
             "Zh_tw": "田中",
             "En": "Tianzhong"
           },
-          "ArrivalTime": "19:28",
-          "DepartureTime": "19:29",
+          "ArrivalTime": "19:31",
+          "DepartureTime": "19:32",
           "SuspendedFlag": 0
         },
         {
@@ -139292,8 +139303,8 @@
             "Zh_tw": "員林",
             "En": "Yuanlin"
           },
-          "ArrivalTime": "19:38",
-          "DepartureTime": "19:39",
+          "ArrivalTime": "19:41",
+          "DepartureTime": "19:42",
           "SuspendedFlag": 0
         },
         {
@@ -139303,8 +139314,8 @@
             "Zh_tw": "彰化",
             "En": "Changhua"
           },
-          "ArrivalTime": "19:52",
-          "DepartureTime": "19:52",
+          "ArrivalTime": "19:55",
+          "DepartureTime": "19:55",
           "SuspendedFlag": 0
         }
       ]
@@ -140022,7 +140033,7 @@
             "Zh_tw": "西勢",
             "En": "Xishi"
           },
-          "ArrivalTime": "17:31",
+          "ArrivalTime": "17:30",
           "DepartureTime": "17:31",
           "SuspendedFlag": 0
         },
@@ -140457,7 +140468,7 @@
             "En": "Xinzuoying"
           },
           "ArrivalTime": "20:20",
-          "DepartureTime": "20:22",
+          "DepartureTime": "20:21",
           "SuspendedFlag": 0
         },
         {
@@ -140467,8 +140478,8 @@
             "Zh_tw": "高雄",
             "En": "Kaohsiung"
           },
-          "ArrivalTime": "20:30",
-          "DepartureTime": "20:32",
+          "ArrivalTime": "20:29",
+          "DepartureTime": "20:31",
           "SuspendedFlag": 0
         },
         {
@@ -140478,8 +140489,8 @@
             "Zh_tw": "鳳山",
             "En": "Fongshan"
           },
-          "ArrivalTime": "20:37",
-          "DepartureTime": "20:38",
+          "ArrivalTime": "20:36",
+          "DepartureTime": "20:37",
           "SuspendedFlag": 0
         },
         {
@@ -140489,8 +140500,8 @@
             "Zh_tw": "九曲堂",
             "En": "Jiuqutang"
           },
-          "ArrivalTime": "20:44",
-          "DepartureTime": "20:45",
+          "ArrivalTime": "20:43",
+          "DepartureTime": "20:44",
           "SuspendedFlag": 0
         },
         {
@@ -140500,8 +140511,8 @@
             "Zh_tw": "屏東",
             "En": "Pingtung"
           },
-          "ArrivalTime": "20:51",
-          "DepartureTime": "20:53",
+          "ArrivalTime": "20:50",
+          "DepartureTime": "20:51",
           "SuspendedFlag": 0
         },
         {
@@ -140511,8 +140522,8 @@
             "Zh_tw": "西勢",
             "En": "Xishi"
           },
-          "ArrivalTime": "20:59",
-          "DepartureTime": "21:00",
+          "ArrivalTime": "20:57",
+          "DepartureTime": "20:57",
           "SuspendedFlag": 0
         },
         {
@@ -140522,8 +140533,8 @@
             "Zh_tw": "潮州",
             "En": "Chaozhou"
           },
-          "ArrivalTime": "21:08",
-          "DepartureTime": "21:10",
+          "ArrivalTime": "21:05",
+          "DepartureTime": "21:07",
           "SuspendedFlag": 0
         }
       ]
@@ -140736,7 +140747,7 @@
             "Zh_tw": "西勢",
             "En": "Xishi"
           },
-          "ArrivalTime": "19:37",
+          "ArrivalTime": "19:36",
           "DepartureTime": "19:37",
           "SuspendedFlag": 0
         },
@@ -144073,7 +144084,7 @@
             "En": "Kaohsiung"
           },
           "ArrivalTime": "16:13",
-          "DepartureTime": "16:17",
+          "DepartureTime": "16:16",
           "SuspendedFlag": 0
         },
         {
@@ -144083,8 +144094,8 @@
             "Zh_tw": "科工館",
             "En": "Science And Technology Museum"
           },
-          "ArrivalTime": "16:20",
-          "DepartureTime": "16:21",
+          "ArrivalTime": "16:19",
+          "DepartureTime": "16:20",
           "SuspendedFlag": 0
         },
         {
@@ -148131,8 +148142,8 @@
             "Zh_tw": "嘉義",
             "En": "Chiayi"
           },
-          "ArrivalTime": "07:37",
-          "DepartureTime": "07:37",
+          "ArrivalTime": "07:38",
+          "DepartureTime": "07:38",
           "SuspendedFlag": 0
         }
       ]
@@ -149153,8 +149164,8 @@
             "Zh_tw": "嘉義",
             "En": "Chiayi"
           },
-          "ArrivalTime": "08:17",
-          "DepartureTime": "08:19",
+          "ArrivalTime": "08:18",
+          "DepartureTime": "08:20",
           "SuspendedFlag": 0
         },
         {
@@ -149164,8 +149175,8 @@
             "Zh_tw": "嘉北",
             "En": "Jiabei"
           },
-          "ArrivalTime": "08:23",
-          "DepartureTime": "08:23",
+          "ArrivalTime": "08:24",
+          "DepartureTime": "08:24",
           "SuspendedFlag": 0
         },
         {
@@ -149175,8 +149186,8 @@
             "Zh_tw": "民雄",
             "En": "Minxiong"
           },
-          "ArrivalTime": "08:28",
-          "DepartureTime": "08:29",
+          "ArrivalTime": "08:29",
+          "DepartureTime": "08:30",
           "SuspendedFlag": 0
         },
         {
@@ -149186,8 +149197,8 @@
             "Zh_tw": "大林",
             "En": "Dalin"
           },
-          "ArrivalTime": "08:34",
-          "DepartureTime": "08:35",
+          "ArrivalTime": "08:35",
+          "DepartureTime": "08:36",
           "SuspendedFlag": 0
         },
         {
@@ -149197,8 +149208,8 @@
             "Zh_tw": "石龜",
             "En": "Shigui"
           },
-          "ArrivalTime": "08:39",
-          "DepartureTime": "08:39",
+          "ArrivalTime": "08:40",
+          "DepartureTime": "08:40",
           "SuspendedFlag": 0
         },
         {
@@ -149208,8 +149219,8 @@
             "Zh_tw": "斗南",
             "En": "Dounan"
           },
-          "ArrivalTime": "08:43",
-          "DepartureTime": "08:44",
+          "ArrivalTime": "08:44",
+          "DepartureTime": "08:45",
           "SuspendedFlag": 0
         },
         {
@@ -149219,7 +149230,7 @@
             "Zh_tw": "斗六",
             "En": "Douliu"
           },
-          "ArrivalTime": "08:50",
+          "ArrivalTime": "08:51",
           "DepartureTime": "08:52",
           "SuspendedFlag": 0
         },
@@ -152946,7 +152957,7 @@
             "En": "Zhengyi"
           },
           "ArrivalTime": "07:00",
-          "DepartureTime": "07:00",
+          "DepartureTime": "07:01",
           "SuspendedFlag": 0
         },
         {
@@ -152967,8 +152978,8 @@
             "Zh_tw": "民族",
             "En": "Minzu"
           },
-          "ArrivalTime": "07:05",
-          "DepartureTime": "07:06",
+          "ArrivalTime": "07:06",
+          "DepartureTime": "07:07",
           "SuspendedFlag": 0
         },
         {
@@ -152978,8 +152989,8 @@
             "Zh_tw": "高雄",
             "En": "Kaohsiung"
           },
-          "ArrivalTime": "07:08",
-          "DepartureTime": "07:09",
+          "ArrivalTime": "07:09",
+          "DepartureTime": "07:10",
           "SuspendedFlag": 0
         },
         {
@@ -152989,8 +153000,8 @@
             "Zh_tw": "三塊厝",
             "En": "Sankuaicuo"
           },
-          "ArrivalTime": "07:10",
-          "DepartureTime": "07:11",
+          "ArrivalTime": "07:11",
+          "DepartureTime": "07:12",
           "SuspendedFlag": 0
         },
         {
@@ -153000,8 +153011,8 @@
             "Zh_tw": "鼓山",
             "En": "Gushan"
           },
-          "ArrivalTime": "07:13",
-          "DepartureTime": "07:14",
+          "ArrivalTime": "07:14",
+          "DepartureTime": "07:15",
           "SuspendedFlag": 0
         },
         {
@@ -153011,8 +153022,8 @@
             "Zh_tw": "美術館",
             "En": "Museum of Fine Arts"
           },
-          "ArrivalTime": "07:16",
-          "DepartureTime": "07:17",
+          "ArrivalTime": "07:17",
+          "DepartureTime": "07:18",
           "SuspendedFlag": 0
         },
         {
@@ -153022,8 +153033,8 @@
             "Zh_tw": "內惟",
             "En": "Neiwei"
           },
-          "ArrivalTime": "07:19",
-          "DepartureTime": "07:19",
+          "ArrivalTime": "07:20",
+          "DepartureTime": "07:20",
           "SuspendedFlag": 0
         },
         {
@@ -153033,8 +153044,8 @@
             "Zh_tw": "左營",
             "En": "Zuoying"
           },
-          "ArrivalTime": "07:21",
-          "DepartureTime": "07:21",
+          "ArrivalTime": "07:22",
+          "DepartureTime": "07:22",
           "SuspendedFlag": 0
         },
         {
@@ -153044,8 +153055,8 @@
             "Zh_tw": "新左營",
             "En": "Xinzuoying"
           },
-          "ArrivalTime": "07:25",
-          "DepartureTime": "07:25",
+          "ArrivalTime": "07:26",
+          "DepartureTime": "07:26",
           "SuspendedFlag": 0
         }
       ]
@@ -153637,8 +153648,8 @@
             "Zh_tw": "潮州",
             "En": "Chaozhou"
           },
-          "ArrivalTime": "06:26",
-          "DepartureTime": "06:32",
+          "ArrivalTime": "06:25",
+          "DepartureTime": "06:31",
           "SuspendedFlag": 0
         },
         {
@@ -153648,8 +153659,8 @@
             "Zh_tw": "竹田",
             "En": "Zhutian"
           },
-          "ArrivalTime": "06:36",
-          "DepartureTime": "06:36",
+          "ArrivalTime": "06:35",
+          "DepartureTime": "06:35",
           "SuspendedFlag": 0
         },
         {
@@ -153659,8 +153670,8 @@
             "Zh_tw": "西勢",
             "En": "Xishi"
           },
-          "ArrivalTime": "06:40",
-          "DepartureTime": "06:41",
+          "ArrivalTime": "06:39",
+          "DepartureTime": "06:40",
           "SuspendedFlag": 0
         },
         {
@@ -153670,8 +153681,8 @@
             "Zh_tw": "麟洛",
             "En": "Linluo"
           },
-          "ArrivalTime": "06:43",
-          "DepartureTime": "06:44",
+          "ArrivalTime": "06:42",
+          "DepartureTime": "06:43",
           "SuspendedFlag": 0
         },
         {
@@ -153681,8 +153692,8 @@
             "Zh_tw": "歸來",
             "En": "Guilai"
           },
-          "ArrivalTime": "06:46",
-          "DepartureTime": "06:47",
+          "ArrivalTime": "06:45",
+          "DepartureTime": "06:46",
           "SuspendedFlag": 0
         },
         {
@@ -153692,8 +153703,8 @@
             "Zh_tw": "屏東",
             "En": "Pingtung"
           },
-          "ArrivalTime": "06:50",
-          "DepartureTime": "06:51",
+          "ArrivalTime": "06:49",
+          "DepartureTime": "06:50",
           "SuspendedFlag": 0
         },
         {
@@ -153703,8 +153714,8 @@
             "Zh_tw": "六塊厝",
             "En": "Liukuaicuo"
           },
-          "ArrivalTime": "06:53",
-          "DepartureTime": "06:54",
+          "ArrivalTime": "06:52",
+          "DepartureTime": "06:53",
           "SuspendedFlag": 0
         },
         {
@@ -153714,8 +153725,8 @@
             "Zh_tw": "九曲堂",
             "En": "Jiuqutang"
           },
-          "ArrivalTime": "06:58",
-          "DepartureTime": "06:59",
+          "ArrivalTime": "06:57",
+          "DepartureTime": "06:58",
           "SuspendedFlag": 0
         },
         {
@@ -153725,8 +153736,8 @@
             "Zh_tw": "後庄",
             "En": "Houzhuang"
           },
-          "ArrivalTime": "07:02",
-          "DepartureTime": "07:03",
+          "ArrivalTime": "07:01",
+          "DepartureTime": "07:02",
           "SuspendedFlag": 0
         },
         {
@@ -153736,8 +153747,8 @@
             "Zh_tw": "鳳山",
             "En": "Fongshan"
           },
-          "ArrivalTime": "07:07",
-          "DepartureTime": "07:08",
+          "ArrivalTime": "07:06",
+          "DepartureTime": "07:07",
           "SuspendedFlag": 0
         },
         {
@@ -153747,7 +153758,7 @@
             "Zh_tw": "正義",
             "En": "Zhengyi"
           },
-          "ArrivalTime": "07:10",
+          "ArrivalTime": "07:09",
           "DepartureTime": "07:10",
           "SuspendedFlag": 0
         },
@@ -153758,7 +153769,7 @@
             "Zh_tw": "科工館",
             "En": "Science And Technology Museum"
           },
-          "ArrivalTime": "07:13",
+          "ArrivalTime": "07:12",
           "DepartureTime": "07:13",
           "SuspendedFlag": 0
         },
@@ -153979,7 +153990,7 @@
             "En": "Xinshi"
           },
           "ArrivalTime": "08:46",
-          "DepartureTime": "08:53",
+          "DepartureTime": "08:52",
           "SuspendedFlag": 0
         },
         {
@@ -153989,8 +154000,8 @@
             "Zh_tw": "南科",
             "En": "Nanke"
           },
-          "ArrivalTime": "08:57",
-          "DepartureTime": "08:58",
+          "ArrivalTime": "08:56",
+          "DepartureTime": "08:57",
           "SuspendedFlag": 0
         },
         {
@@ -154000,7 +154011,7 @@
             "Zh_tw": "善化",
             "En": "Shanhua"
           },
-          "ArrivalTime": "09:01",
+          "ArrivalTime": "09:00",
           "DepartureTime": "09:02",
           "SuspendedFlag": 0
         },
@@ -154148,8 +154159,8 @@
             "Zh_tw": "彰化",
             "En": "Changhua"
           },
-          "ArrivalTime": "05:41",
-          "DepartureTime": "05:41",
+          "ArrivalTime": "05:42",
+          "DepartureTime": "05:42",
           "SuspendedFlag": 0
         },
         {
@@ -159227,7 +159238,7 @@
             "En": "Yongkang"
           },
           "ArrivalTime": "10:16",
-          "DepartureTime": "10:17",
+          "DepartureTime": "10:18",
           "SuspendedFlag": 0
         },
         {
@@ -159237,8 +159248,8 @@
             "Zh_tw": "大橋",
             "En": "Daqiao"
           },
-          "ArrivalTime": "10:20",
-          "DepartureTime": "10:21",
+          "ArrivalTime": "10:21",
+          "DepartureTime": "10:22",
           "SuspendedFlag": 0
         },
         {
@@ -159248,8 +159259,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "10:24",
-          "DepartureTime": "10:27",
+          "ArrivalTime": "10:26",
+          "DepartureTime": "10:36",
           "SuspendedFlag": 0
         },
         {
@@ -159259,8 +159270,8 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "10:34",
-          "DepartureTime": "10:40",
+          "ArrivalTime": "10:44",
+          "DepartureTime": "10:49",
           "SuspendedFlag": 0
         },
         {
@@ -159270,8 +159281,8 @@
             "Zh_tw": "仁德",
             "En": "Rende"
           },
-          "ArrivalTime": "10:42",
-          "DepartureTime": "10:42",
+          "ArrivalTime": "10:52",
+          "DepartureTime": "10:52",
           "SuspendedFlag": 0
         },
         {
@@ -159281,8 +159292,8 @@
             "Zh_tw": "中洲",
             "En": "Zhongzhou"
           },
-          "ArrivalTime": "10:46",
-          "DepartureTime": "10:52",
+          "ArrivalTime": "10:55",
+          "DepartureTime": "10:56",
           "SuspendedFlag": 0
         },
         {
@@ -159292,8 +159303,8 @@
             "Zh_tw": "大湖",
             "En": "Dahu"
           },
-          "ArrivalTime": "10:56",
-          "DepartureTime": "10:57",
+          "ArrivalTime": "10:59",
+          "DepartureTime": "10:59",
           "SuspendedFlag": 0
         },
         {
@@ -159303,8 +159314,8 @@
             "Zh_tw": "路竹",
             "En": "Luzhu"
           },
-          "ArrivalTime": "11:00",
-          "DepartureTime": "11:01",
+          "ArrivalTime": "11:03",
+          "DepartureTime": "11:03",
           "SuspendedFlag": 0
         },
         {
@@ -159314,8 +159325,8 @@
             "Zh_tw": "岡山",
             "En": "Gangshan"
           },
-          "ArrivalTime": "11:07",
-          "DepartureTime": "11:08",
+          "ArrivalTime": "11:11",
+          "DepartureTime": "11:16",
           "SuspendedFlag": 0
         },
         {
@@ -159325,8 +159336,8 @@
             "Zh_tw": "橋頭",
             "En": "Qiaotou"
           },
-          "ArrivalTime": "11:13",
-          "DepartureTime": "11:19",
+          "ArrivalTime": "11:20",
+          "DepartureTime": "11:21",
           "SuspendedFlag": 0
         },
         {
@@ -159336,8 +159347,8 @@
             "Zh_tw": "楠梓",
             "En": "Nanzi"
           },
-          "ArrivalTime": "11:23",
-          "DepartureTime": "11:24",
+          "ArrivalTime": "11:24",
+          "DepartureTime": "11:25",
           "SuspendedFlag": 0
         },
         {
@@ -159347,7 +159358,7 @@
             "Zh_tw": "新左營",
             "En": "Xinzuoying"
           },
-          "ArrivalTime": "11:29",
+          "ArrivalTime": "11:30",
           "DepartureTime": "11:34",
           "SuspendedFlag": 0
         },
@@ -165530,7 +165541,7 @@
             "En": "Houli"
           },
           "ArrivalTime": "09:16",
-          "DepartureTime": "09:16",
+          "DepartureTime": "09:17",
           "SuspendedFlag": 0
         },
         {
@@ -168310,7 +168321,7 @@
             "Zh_tw": "豐原",
             "En": "Fengyuan"
           },
-          "ArrivalTime": "10:24",
+          "ArrivalTime": "10:23",
           "DepartureTime": "10:25",
           "SuspendedFlag": 0
         },
@@ -170801,7 +170812,7 @@
             "En": "Tainan"
           },
           "ArrivalTime": "14:17",
-          "DepartureTime": "14:20",
+          "DepartureTime": "14:19",
           "SuspendedFlag": 0
         },
         {
@@ -170811,7 +170822,7 @@
             "Zh_tw": "大橋",
             "En": "Daqiao"
           },
-          "ArrivalTime": "14:23",
+          "ArrivalTime": "14:22",
           "DepartureTime": "14:23",
           "SuspendedFlag": 0
         },
@@ -171279,7 +171290,7 @@
             "En": "Dounan"
           },
           "ArrivalTime": "13:29",
-          "DepartureTime": "13:30",
+          "DepartureTime": "13:29",
           "SuspendedFlag": 0
         },
         {
@@ -171290,7 +171301,7 @@
             "En": "Shigui"
           },
           "ArrivalTime": "13:33",
-          "DepartureTime": "13:34",
+          "DepartureTime": "13:33",
           "SuspendedFlag": 0
         },
         {
@@ -171300,8 +171311,8 @@
             "Zh_tw": "大林",
             "En": "Dalin"
           },
-          "ArrivalTime": "13:38",
-          "DepartureTime": "13:39",
+          "ArrivalTime": "13:37",
+          "DepartureTime": "13:38",
           "SuspendedFlag": 0
         },
         {
@@ -171311,8 +171322,8 @@
             "Zh_tw": "民雄",
             "En": "Minxiong"
           },
-          "ArrivalTime": "13:43",
-          "DepartureTime": "13:44",
+          "ArrivalTime": "13:42",
+          "DepartureTime": "13:43",
           "SuspendedFlag": 0
         },
         {
@@ -171322,8 +171333,8 @@
             "Zh_tw": "嘉北",
             "En": "Jiabei"
           },
-          "ArrivalTime": "13:49",
-          "DepartureTime": "13:50",
+          "ArrivalTime": "13:48",
+          "DepartureTime": "13:49",
           "SuspendedFlag": 0
         },
         {
@@ -171333,8 +171344,8 @@
             "Zh_tw": "嘉義",
             "En": "Chiayi"
           },
-          "ArrivalTime": "13:53",
-          "DepartureTime": "13:55",
+          "ArrivalTime": "13:52",
+          "DepartureTime": "13:54",
           "SuspendedFlag": 0
         },
         {
@@ -171344,8 +171355,8 @@
             "Zh_tw": "水上",
             "En": "Shuishang"
           },
-          "ArrivalTime": "14:00",
-          "DepartureTime": "14:00",
+          "ArrivalTime": "13:59",
+          "DepartureTime": "13:59",
           "SuspendedFlag": 0
         },
         {
@@ -171355,8 +171366,8 @@
             "Zh_tw": "南靖",
             "En": "Nanjing"
           },
-          "ArrivalTime": "14:03",
-          "DepartureTime": "14:03",
+          "ArrivalTime": "14:02",
+          "DepartureTime": "14:02",
           "SuspendedFlag": 0
         },
         {
@@ -171366,8 +171377,8 @@
             "Zh_tw": "後壁",
             "En": "Houbi"
           },
-          "ArrivalTime": "14:08",
-          "DepartureTime": "14:09",
+          "ArrivalTime": "14:07",
+          "DepartureTime": "14:08",
           "SuspendedFlag": 0
         },
         {
@@ -171377,8 +171388,8 @@
             "Zh_tw": "新營",
             "En": "Xinying"
           },
-          "ArrivalTime": "14:15",
-          "DepartureTime": "14:16",
+          "ArrivalTime": "14:14",
+          "DepartureTime": "14:15",
           "SuspendedFlag": 0
         },
         {
@@ -171388,8 +171399,8 @@
             "Zh_tw": "柳營",
             "En": "Liuying"
           },
-          "ArrivalTime": "14:19",
-          "DepartureTime": "14:19",
+          "ArrivalTime": "14:18",
+          "DepartureTime": "14:18",
           "SuspendedFlag": 0
         },
         {
@@ -171399,8 +171410,8 @@
             "Zh_tw": "林鳳營",
             "En": "Linfengying"
           },
-          "ArrivalTime": "14:23",
-          "DepartureTime": "14:23",
+          "ArrivalTime": "14:22",
+          "DepartureTime": "14:22",
           "SuspendedFlag": 0
         },
         {
@@ -171410,8 +171421,8 @@
             "Zh_tw": "隆田",
             "En": "Longtian"
           },
-          "ArrivalTime": "14:28",
-          "DepartureTime": "14:28",
+          "ArrivalTime": "14:27",
+          "DepartureTime": "14:27",
           "SuspendedFlag": 0
         },
         {
@@ -171421,8 +171432,8 @@
             "Zh_tw": "拔林",
             "En": "Balin"
           },
-          "ArrivalTime": "14:31",
-          "DepartureTime": "14:31",
+          "ArrivalTime": "14:30",
+          "DepartureTime": "14:30",
           "SuspendedFlag": 0
         },
         {
@@ -171432,8 +171443,8 @@
             "Zh_tw": "善化",
             "En": "Shanhua"
           },
-          "ArrivalTime": "14:35",
-          "DepartureTime": "14:36",
+          "ArrivalTime": "14:34",
+          "DepartureTime": "14:35",
           "SuspendedFlag": 0
         },
         {
@@ -171443,8 +171454,8 @@
             "Zh_tw": "南科",
             "En": "Nanke"
           },
-          "ArrivalTime": "14:39",
-          "DepartureTime": "14:40",
+          "ArrivalTime": "14:38",
+          "DepartureTime": "14:39",
           "SuspendedFlag": 0
         },
         {
@@ -171454,8 +171465,8 @@
             "Zh_tw": "新市",
             "En": "Xinshi"
           },
-          "ArrivalTime": "14:44",
-          "DepartureTime": "14:44",
+          "ArrivalTime": "14:43",
+          "DepartureTime": "14:43",
           "SuspendedFlag": 0
         },
         {
@@ -171465,8 +171476,8 @@
             "Zh_tw": "永康",
             "En": "Yongkang"
           },
-          "ArrivalTime": "14:49",
-          "DepartureTime": "14:50",
+          "ArrivalTime": "14:48",
+          "DepartureTime": "14:49",
           "SuspendedFlag": 0
         },
         {
@@ -171476,8 +171487,8 @@
             "Zh_tw": "大橋",
             "En": "Daqiao"
           },
-          "ArrivalTime": "14:53",
-          "DepartureTime": "14:54",
+          "ArrivalTime": "14:52",
+          "DepartureTime": "14:53",
           "SuspendedFlag": 0
         },
         {
@@ -171487,8 +171498,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "14:57",
-          "DepartureTime": "14:58",
+          "ArrivalTime": "14:56",
+          "DepartureTime": "14:57",
           "SuspendedFlag": 0
         },
         {
@@ -171498,7 +171509,7 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "15:05",
+          "ArrivalTime": "15:04",
           "DepartureTime": "15:10",
           "SuspendedFlag": 0
         },
@@ -172494,7 +172505,7 @@
             "En": "Taichung"
           },
           "ArrivalTime": "18:03",
-          "DepartureTime": "18:16",
+          "DepartureTime": "18:17",
           "SuspendedFlag": 0
         },
         {
@@ -172504,8 +172515,8 @@
             "Zh_tw": "精武",
             "En": "Jingwu"
           },
-          "ArrivalTime": "18:19",
-          "DepartureTime": "18:20",
+          "ArrivalTime": "18:20",
+          "DepartureTime": "18:21",
           "SuspendedFlag": 0
         },
         {
@@ -172515,8 +172526,8 @@
             "Zh_tw": "太原",
             "En": "Taiyuan"
           },
-          "ArrivalTime": "18:22",
-          "DepartureTime": "18:23",
+          "ArrivalTime": "18:23",
+          "DepartureTime": "18:24",
           "SuspendedFlag": 0
         },
         {
@@ -172526,8 +172537,8 @@
             "Zh_tw": "松竹",
             "En": "Songzhu"
           },
-          "ArrivalTime": "18:25",
-          "DepartureTime": "18:26",
+          "ArrivalTime": "18:26",
+          "DepartureTime": "18:27",
           "SuspendedFlag": 0
         },
         {
@@ -172537,8 +172548,8 @@
             "Zh_tw": "頭家厝",
             "En": "Toujiacuo"
           },
-          "ArrivalTime": "18:28",
-          "DepartureTime": "18:28",
+          "ArrivalTime": "18:29",
+          "DepartureTime": "18:29",
           "SuspendedFlag": 0
         },
         {
@@ -172548,8 +172559,8 @@
             "Zh_tw": "潭子",
             "En": "Tanzi"
           },
-          "ArrivalTime": "18:31",
-          "DepartureTime": "18:32",
+          "ArrivalTime": "18:32",
+          "DepartureTime": "18:33",
           "SuspendedFlag": 0
         },
         {
@@ -172559,8 +172570,8 @@
             "Zh_tw": "栗林",
             "En": "Lilin"
           },
-          "ArrivalTime": "18:34",
-          "DepartureTime": "18:35",
+          "ArrivalTime": "18:35",
+          "DepartureTime": "18:36",
           "SuspendedFlag": 0
         },
         {
@@ -172570,8 +172581,8 @@
             "Zh_tw": "豐原",
             "En": "Fengyuan"
           },
-          "ArrivalTime": "18:38",
-          "DepartureTime": "18:39",
+          "ArrivalTime": "18:39",
+          "DepartureTime": "18:40",
           "SuspendedFlag": 0
         },
         {
@@ -172581,8 +172592,8 @@
             "Zh_tw": "后里",
             "En": "Houli"
           },
-          "ArrivalTime": "18:45",
-          "DepartureTime": "18:45",
+          "ArrivalTime": "18:46",
+          "DepartureTime": "18:46",
           "SuspendedFlag": 0
         }
       ]
@@ -172927,8 +172938,8 @@
             "Zh_tw": "鼓山",
             "En": "Gushan"
           },
-          "ArrivalTime": "16:22",
-          "DepartureTime": "16:22",
+          "ArrivalTime": "16:23",
+          "DepartureTime": "16:23",
           "SuspendedFlag": 0
         },
         {
@@ -172938,8 +172949,8 @@
             "Zh_tw": "三塊厝",
             "En": "Sankuaicuo"
           },
-          "ArrivalTime": "16:25",
-          "DepartureTime": "16:25",
+          "ArrivalTime": "16:26",
+          "DepartureTime": "16:26",
           "SuspendedFlag": 0
         },
         {
@@ -172949,7 +172960,7 @@
             "Zh_tw": "高雄",
             "En": "Kaohsiung"
           },
-          "ArrivalTime": "16:27",
+          "ArrivalTime": "16:28",
           "DepartureTime": "16:30",
           "SuspendedFlag": 0
         },
@@ -173741,7 +173752,7 @@
             "En": "Taichung"
           },
           "ArrivalTime": "12:45",
-          "DepartureTime": "12:47",
+          "DepartureTime": "12:46",
           "SuspendedFlag": 0
         },
         {
@@ -173751,8 +173762,8 @@
             "Zh_tw": "五權",
             "En": "Wuquan"
           },
-          "ArrivalTime": "12:49",
-          "DepartureTime": "12:50",
+          "ArrivalTime": "12:48",
+          "DepartureTime": "12:49",
           "SuspendedFlag": 0
         },
         {
@@ -173762,8 +173773,8 @@
             "Zh_tw": "大慶",
             "En": "Daqing"
           },
-          "ArrivalTime": "12:52",
-          "DepartureTime": "12:53",
+          "ArrivalTime": "12:51",
+          "DepartureTime": "12:52",
           "SuspendedFlag": 0
         },
         {
@@ -173773,8 +173784,8 @@
             "Zh_tw": "烏日",
             "En": "Wuri"
           },
-          "ArrivalTime": "12:56",
-          "DepartureTime": "12:57",
+          "ArrivalTime": "12:55",
+          "DepartureTime": "12:56",
           "SuspendedFlag": 0
         },
         {
@@ -173784,8 +173795,8 @@
             "Zh_tw": "新烏日",
             "En": "Xinwuri"
           },
-          "ArrivalTime": "12:58",
-          "DepartureTime": "12:59",
+          "ArrivalTime": "12:57",
+          "DepartureTime": "12:58",
           "SuspendedFlag": 0
         },
         {
@@ -173795,8 +173806,8 @@
             "Zh_tw": "成功",
             "En": "Chenggong"
           },
-          "ArrivalTime": "13:02",
-          "DepartureTime": "13:03",
+          "ArrivalTime": "13:01",
+          "DepartureTime": "13:02",
           "SuspendedFlag": 0
         },
         {
@@ -173806,8 +173817,8 @@
             "Zh_tw": "彰化",
             "En": "Changhua"
           },
-          "ArrivalTime": "13:09",
-          "DepartureTime": "13:11",
+          "ArrivalTime": "13:08",
+          "DepartureTime": "13:10",
           "SuspendedFlag": 0
         },
         {
@@ -173817,8 +173828,8 @@
             "Zh_tw": "花壇",
             "En": "Huatan"
           },
-          "ArrivalTime": "13:19",
-          "DepartureTime": "13:20",
+          "ArrivalTime": "13:18",
+          "DepartureTime": "13:19",
           "SuspendedFlag": 0
         },
         {
@@ -173828,8 +173839,8 @@
             "Zh_tw": "大村",
             "En": "Dacun"
           },
-          "ArrivalTime": "13:24",
-          "DepartureTime": "13:24",
+          "ArrivalTime": "13:23",
+          "DepartureTime": "13:23",
           "SuspendedFlag": 0
         },
         {
@@ -173839,8 +173850,8 @@
             "Zh_tw": "員林",
             "En": "Yuanlin"
           },
-          "ArrivalTime": "13:29",
-          "DepartureTime": "13:36",
+          "ArrivalTime": "13:27",
+          "DepartureTime": "13:28",
           "SuspendedFlag": 0
         },
         {
@@ -173850,8 +173861,8 @@
             "Zh_tw": "永靖",
             "En": "Yongjing"
           },
-          "ArrivalTime": "13:40",
-          "DepartureTime": "13:41",
+          "ArrivalTime": "13:31",
+          "DepartureTime": "13:32",
           "SuspendedFlag": 0
         },
         {
@@ -173861,8 +173872,8 @@
             "Zh_tw": "社頭",
             "En": "Shetou"
           },
-          "ArrivalTime": "13:45",
-          "DepartureTime": "13:46",
+          "ArrivalTime": "13:36",
+          "DepartureTime": "13:42",
           "SuspendedFlag": 0
         },
         {
@@ -173872,8 +173883,8 @@
             "Zh_tw": "田中",
             "En": "Tianzhong"
           },
-          "ArrivalTime": "13:50",
-          "DepartureTime": "13:51",
+          "ArrivalTime": "13:47",
+          "DepartureTime": "13:48",
           "SuspendedFlag": 0
         },
         {
@@ -173883,8 +173894,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "13:56",
-          "DepartureTime": "13:57",
+          "ArrivalTime": "13:53",
+          "DepartureTime": "13:54",
           "SuspendedFlag": 0
         },
         {
@@ -173894,8 +173905,8 @@
             "Zh_tw": "林內",
             "En": "Linnei"
           },
-          "ArrivalTime": "14:03",
-          "DepartureTime": "14:04",
+          "ArrivalTime": "14:00",
+          "DepartureTime": "14:01",
           "SuspendedFlag": 0
         },
         {
@@ -173905,8 +173916,8 @@
             "Zh_tw": "石榴",
             "En": "Shiliu"
           },
-          "ArrivalTime": "14:08",
-          "DepartureTime": "14:09",
+          "ArrivalTime": "14:05",
+          "DepartureTime": "14:06",
           "SuspendedFlag": 0
         },
         {
@@ -173916,8 +173927,8 @@
             "Zh_tw": "斗六",
             "En": "Douliu"
           },
-          "ArrivalTime": "14:13",
-          "DepartureTime": "14:14",
+          "ArrivalTime": "14:10",
+          "DepartureTime": "14:11",
           "SuspendedFlag": 0
         },
         {
@@ -173927,8 +173938,8 @@
             "Zh_tw": "斗南",
             "En": "Dounan"
           },
-          "ArrivalTime": "14:20",
-          "DepartureTime": "14:21",
+          "ArrivalTime": "14:17",
+          "DepartureTime": "14:18",
           "SuspendedFlag": 0
         },
         {
@@ -173938,8 +173949,8 @@
             "Zh_tw": "石龜",
             "En": "Shigui"
           },
-          "ArrivalTime": "14:24",
-          "DepartureTime": "14:25",
+          "ArrivalTime": "14:21",
+          "DepartureTime": "14:22",
           "SuspendedFlag": 0
         },
         {
@@ -173949,8 +173960,8 @@
             "Zh_tw": "大林",
             "En": "Dalin"
           },
-          "ArrivalTime": "14:29",
-          "DepartureTime": "14:30",
+          "ArrivalTime": "14:26",
+          "DepartureTime": "14:27",
           "SuspendedFlag": 0
         },
         {
@@ -173960,8 +173971,8 @@
             "Zh_tw": "民雄",
             "En": "Minxiong"
           },
-          "ArrivalTime": "14:34",
-          "DepartureTime": "14:35",
+          "ArrivalTime": "14:31",
+          "DepartureTime": "14:32",
           "SuspendedFlag": 0
         },
         {
@@ -173971,8 +173982,8 @@
             "Zh_tw": "嘉北",
             "En": "Jiabei"
           },
-          "ArrivalTime": "14:40",
-          "DepartureTime": "14:41",
+          "ArrivalTime": "14:37",
+          "DepartureTime": "14:38",
           "SuspendedFlag": 0
         },
         {
@@ -173982,8 +173993,8 @@
             "Zh_tw": "嘉義",
             "En": "Chiayi"
           },
-          "ArrivalTime": "14:44",
-          "DepartureTime": "14:46",
+          "ArrivalTime": "14:41",
+          "DepartureTime": "14:43",
           "SuspendedFlag": 0
         },
         {
@@ -173993,8 +174004,8 @@
             "Zh_tw": "水上",
             "En": "Shuishang"
           },
-          "ArrivalTime": "14:51",
-          "DepartureTime": "14:51",
+          "ArrivalTime": "14:48",
+          "DepartureTime": "14:48",
           "SuspendedFlag": 0
         },
         {
@@ -174004,8 +174015,8 @@
             "Zh_tw": "南靖",
             "En": "Nanjing"
           },
-          "ArrivalTime": "14:54",
-          "DepartureTime": "14:54",
+          "ArrivalTime": "14:51",
+          "DepartureTime": "14:51",
           "SuspendedFlag": 0
         },
         {
@@ -174015,8 +174026,8 @@
             "Zh_tw": "後壁",
             "En": "Houbi"
           },
-          "ArrivalTime": "14:59",
-          "DepartureTime": "15:00",
+          "ArrivalTime": "14:56",
+          "DepartureTime": "14:57",
           "SuspendedFlag": 0
         },
         {
@@ -174026,8 +174037,8 @@
             "Zh_tw": "新營",
             "En": "Xinying"
           },
-          "ArrivalTime": "15:06",
-          "DepartureTime": "15:07",
+          "ArrivalTime": "15:03",
+          "DepartureTime": "15:04",
           "SuspendedFlag": 0
         },
         {
@@ -174037,8 +174048,8 @@
             "Zh_tw": "柳營",
             "En": "Liuying"
           },
-          "ArrivalTime": "15:10",
-          "DepartureTime": "15:10",
+          "ArrivalTime": "15:07",
+          "DepartureTime": "15:07",
           "SuspendedFlag": 0
         },
         {
@@ -174048,8 +174059,8 @@
             "Zh_tw": "林鳳營",
             "En": "Linfengying"
           },
-          "ArrivalTime": "15:14",
-          "DepartureTime": "15:14",
+          "ArrivalTime": "15:11",
+          "DepartureTime": "15:11",
           "SuspendedFlag": 0
         },
         {
@@ -174059,8 +174070,8 @@
             "Zh_tw": "隆田",
             "En": "Longtian"
           },
-          "ArrivalTime": "15:19",
-          "DepartureTime": "15:20",
+          "ArrivalTime": "15:16",
+          "DepartureTime": "15:17",
           "SuspendedFlag": 0
         },
         {
@@ -174070,8 +174081,8 @@
             "Zh_tw": "拔林",
             "En": "Balin"
           },
-          "ArrivalTime": "15:22",
-          "DepartureTime": "15:23",
+          "ArrivalTime": "15:19",
+          "DepartureTime": "15:20",
           "SuspendedFlag": 0
         },
         {
@@ -174081,8 +174092,8 @@
             "Zh_tw": "善化",
             "En": "Shanhua"
           },
-          "ArrivalTime": "15:27",
-          "DepartureTime": "15:28",
+          "ArrivalTime": "15:24",
+          "DepartureTime": "15:25",
           "SuspendedFlag": 0
         },
         {
@@ -174092,8 +174103,8 @@
             "Zh_tw": "南科",
             "En": "Nanke"
           },
-          "ArrivalTime": "15:31",
-          "DepartureTime": "15:31",
+          "ArrivalTime": "15:28",
+          "DepartureTime": "15:28",
           "SuspendedFlag": 0
         },
         {
@@ -174103,8 +174114,8 @@
             "Zh_tw": "新市",
             "En": "Xinshi"
           },
-          "ArrivalTime": "15:35",
-          "DepartureTime": "15:36",
+          "ArrivalTime": "15:32",
+          "DepartureTime": "15:33",
           "SuspendedFlag": 0
         },
         {
@@ -174114,8 +174125,8 @@
             "Zh_tw": "永康",
             "En": "Yongkang"
           },
-          "ArrivalTime": "15:42",
-          "DepartureTime": "15:48",
+          "ArrivalTime": "15:38",
+          "DepartureTime": "15:39",
           "SuspendedFlag": 0
         },
         {
@@ -174125,8 +174136,8 @@
             "Zh_tw": "大橋",
             "En": "Daqiao"
           },
-          "ArrivalTime": "15:52",
-          "DepartureTime": "15:53",
+          "ArrivalTime": "15:42",
+          "DepartureTime": "15:43",
           "SuspendedFlag": 0
         },
         {
@@ -174136,8 +174147,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "15:56",
-          "DepartureTime": "15:58",
+          "ArrivalTime": "15:47",
+          "DepartureTime": "15:56",
           "SuspendedFlag": 0
         },
         {
@@ -174147,8 +174158,8 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "16:04",
-          "DepartureTime": "16:04",
+          "ArrivalTime": "16:03",
+          "DepartureTime": "16:03",
           "SuspendedFlag": 0
         },
         {
@@ -174158,8 +174169,8 @@
             "Zh_tw": "仁德",
             "En": "Rende"
           },
-          "ArrivalTime": "16:06",
-          "DepartureTime": "16:07",
+          "ArrivalTime": "16:05",
+          "DepartureTime": "16:06",
           "SuspendedFlag": 0
         },
         {
@@ -174169,8 +174180,8 @@
             "Zh_tw": "中洲",
             "En": "Zhongzhou"
           },
-          "ArrivalTime": "16:10",
-          "DepartureTime": "16:10",
+          "ArrivalTime": "16:09",
+          "DepartureTime": "16:09",
           "SuspendedFlag": 0
         },
         {
@@ -174180,8 +174191,8 @@
             "Zh_tw": "大湖",
             "En": "Dahu"
           },
-          "ArrivalTime": "16:13",
-          "DepartureTime": "16:14",
+          "ArrivalTime": "16:12",
+          "DepartureTime": "16:13",
           "SuspendedFlag": 0
         },
         {
@@ -174191,8 +174202,8 @@
             "Zh_tw": "路竹",
             "En": "Luzhu"
           },
-          "ArrivalTime": "16:18",
-          "DepartureTime": "16:18",
+          "ArrivalTime": "16:17",
+          "DepartureTime": "16:17",
           "SuspendedFlag": 0
         },
         {
@@ -174202,7 +174213,7 @@
             "Zh_tw": "岡山",
             "En": "Gangshan"
           },
-          "ArrivalTime": "16:25",
+          "ArrivalTime": "16:24",
           "DepartureTime": "16:26",
           "SuspendedFlag": 0
         },
@@ -175055,7 +175066,7 @@
             "En": "Ershui"
           },
           "ArrivalTime": "18:01",
-          "DepartureTime": "18:02",
+          "DepartureTime": "18:03",
           "SuspendedFlag": 0
         },
         {
@@ -175065,8 +175076,8 @@
             "Zh_tw": "田中",
             "En": "Tianzhong"
           },
-          "ArrivalTime": "18:08",
-          "DepartureTime": "18:13",
+          "ArrivalTime": "18:09",
+          "DepartureTime": "18:14",
           "SuspendedFlag": 0
         },
         {
@@ -175076,8 +175087,8 @@
             "Zh_tw": "社頭",
             "En": "Shetou"
           },
-          "ArrivalTime": "18:18",
-          "DepartureTime": "18:18",
+          "ArrivalTime": "18:19",
+          "DepartureTime": "18:19",
           "SuspendedFlag": 0
         },
         {
@@ -175087,8 +175098,8 @@
             "Zh_tw": "永靖",
             "En": "Yongjing"
           },
-          "ArrivalTime": "18:22",
-          "DepartureTime": "18:22",
+          "ArrivalTime": "18:23",
+          "DepartureTime": "18:23",
           "SuspendedFlag": 0
         },
         {
@@ -175098,8 +175109,8 @@
             "Zh_tw": "員林",
             "En": "Yuanlin"
           },
-          "ArrivalTime": "18:26",
-          "DepartureTime": "18:27",
+          "ArrivalTime": "18:27",
+          "DepartureTime": "18:28",
           "SuspendedFlag": 0
         },
         {
@@ -175109,8 +175120,8 @@
             "Zh_tw": "大村",
             "En": "Dacun"
           },
-          "ArrivalTime": "18:30",
-          "DepartureTime": "18:31",
+          "ArrivalTime": "18:31",
+          "DepartureTime": "18:32",
           "SuspendedFlag": 0
         },
         {
@@ -175120,8 +175131,8 @@
             "Zh_tw": "花壇",
             "En": "Huatan"
           },
-          "ArrivalTime": "18:35",
-          "DepartureTime": "18:36",
+          "ArrivalTime": "18:36",
+          "DepartureTime": "18:37",
           "SuspendedFlag": 0
         },
         {
@@ -175131,7 +175142,7 @@
             "Zh_tw": "彰化",
             "En": "Changhua"
           },
-          "ArrivalTime": "18:44",
+          "ArrivalTime": "18:45",
           "DepartureTime": "18:47",
           "SuspendedFlag": 0
         },
@@ -176587,8 +176598,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "14:52",
-          "DepartureTime": "14:53",
+          "ArrivalTime": "14:53",
+          "DepartureTime": "14:54",
           "SuspendedFlag": 0
         },
         {
@@ -176598,8 +176609,8 @@
             "Zh_tw": "林內",
             "En": "Linnei"
           },
-          "ArrivalTime": "14:59",
-          "DepartureTime": "15:00",
+          "ArrivalTime": "15:00",
+          "DepartureTime": "15:01",
           "SuspendedFlag": 0
         },
         {
@@ -176609,8 +176620,8 @@
             "Zh_tw": "石榴",
             "En": "Shiliu"
           },
-          "ArrivalTime": "15:04",
-          "DepartureTime": "15:05",
+          "ArrivalTime": "15:05",
+          "DepartureTime": "15:06",
           "SuspendedFlag": 0
         },
         {
@@ -176620,7 +176631,7 @@
             "Zh_tw": "斗六",
             "En": "Douliu"
           },
-          "ArrivalTime": "15:09",
+          "ArrivalTime": "15:10",
           "DepartureTime": "15:11",
           "SuspendedFlag": 0
         },
@@ -180671,7 +180682,7 @@
             "En": "Xinzuoying"
           },
           "ArrivalTime": "17:05",
-          "DepartureTime": "17:08",
+          "DepartureTime": "17:07",
           "SuspendedFlag": 0
         },
         {
@@ -180681,8 +180692,8 @@
             "Zh_tw": "楠梓",
             "En": "Nanzi"
           },
-          "ArrivalTime": "17:12",
-          "DepartureTime": "17:13",
+          "ArrivalTime": "17:11",
+          "DepartureTime": "17:12",
           "SuspendedFlag": 0
         },
         {
@@ -180692,8 +180703,8 @@
             "Zh_tw": "橋頭",
             "En": "Qiaotou"
           },
-          "ArrivalTime": "17:17",
-          "DepartureTime": "17:17",
+          "ArrivalTime": "17:16",
+          "DepartureTime": "17:16",
           "SuspendedFlag": 0
         },
         {
@@ -180956,7 +180967,7 @@
             "Zh_tw": "大林",
             "En": "Dalin"
           },
-          "ArrivalTime": "19:29",
+          "ArrivalTime": "19:28",
           "DepartureTime": "19:30",
           "SuspendedFlag": 0
         },
@@ -181435,8 +181446,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "20:30",
-          "DepartureTime": "20:30",
+          "ArrivalTime": "20:29",
+          "DepartureTime": "20:29",
           "SuspendedFlag": 0
         }
       ]
@@ -183298,8 +183309,8 @@
             "Zh_tw": "西勢",
             "En": "Xishi"
           },
-          "ArrivalTime": "20:53",
-          "DepartureTime": "20:54",
+          "ArrivalTime": "20:54",
+          "DepartureTime": "21:00",
           "SuspendedFlag": 0
         },
         {
@@ -183309,8 +183320,8 @@
             "Zh_tw": "竹田",
             "En": "Zhutian"
           },
-          "ArrivalTime": "20:57",
-          "DepartureTime": "20:58",
+          "ArrivalTime": "21:04",
+          "DepartureTime": "21:05",
           "SuspendedFlag": 0
         },
         {
@@ -183320,8 +183331,8 @@
             "Zh_tw": "潮州",
             "En": "Chaozhou"
           },
-          "ArrivalTime": "21:03",
-          "DepartureTime": "21:05",
+          "ArrivalTime": "21:10",
+          "DepartureTime": "21:12",
           "SuspendedFlag": 0
         }
       ]
@@ -186514,7 +186525,7 @@
             "En": "Tainan"
           },
           "ArrivalTime": "20:08",
-          "DepartureTime": "20:10",
+          "DepartureTime": "20:12",
           "SuspendedFlag": 0
         },
         {
@@ -186524,8 +186535,8 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "20:16",
-          "DepartureTime": "20:16",
+          "ArrivalTime": "20:18",
+          "DepartureTime": "20:18",
           "SuspendedFlag": 0
         },
         {
@@ -186535,8 +186546,8 @@
             "Zh_tw": "仁德",
             "En": "Rende"
           },
-          "ArrivalTime": "20:18",
-          "DepartureTime": "20:19",
+          "ArrivalTime": "20:20",
+          "DepartureTime": "20:21",
           "SuspendedFlag": 0
         },
         {
@@ -186546,8 +186557,8 @@
             "Zh_tw": "中洲",
             "En": "Zhongzhou"
           },
-          "ArrivalTime": "20:22",
-          "DepartureTime": "20:22",
+          "ArrivalTime": "20:25",
+          "DepartureTime": "20:30",
           "SuspendedFlag": 0
         },
         {
@@ -186557,8 +186568,8 @@
             "Zh_tw": "大湖",
             "En": "Dahu"
           },
-          "ArrivalTime": "20:26",
-          "DepartureTime": "20:32",
+          "ArrivalTime": "20:34",
+          "DepartureTime": "20:34",
           "SuspendedFlag": 0
         },
         {
@@ -186568,8 +186579,8 @@
             "Zh_tw": "路竹",
             "En": "Luzhu"
           },
-          "ArrivalTime": "20:36",
-          "DepartureTime": "20:36",
+          "ArrivalTime": "20:38",
+          "DepartureTime": "20:38",
           "SuspendedFlag": 0
         },
         {
@@ -186579,8 +186590,8 @@
             "Zh_tw": "岡山",
             "En": "Gangshan"
           },
-          "ArrivalTime": "20:43",
-          "DepartureTime": "20:44",
+          "ArrivalTime": "20:45",
+          "DepartureTime": "20:46",
           "SuspendedFlag": 0
         },
         {
@@ -186590,8 +186601,8 @@
             "Zh_tw": "橋頭",
             "En": "Qiaotou"
           },
-          "ArrivalTime": "20:47",
-          "DepartureTime": "20:48",
+          "ArrivalTime": "20:49",
+          "DepartureTime": "20:50",
           "SuspendedFlag": 0
         },
         {
@@ -186601,8 +186612,8 @@
             "Zh_tw": "楠梓",
             "En": "Nanzi"
           },
-          "ArrivalTime": "20:51",
-          "DepartureTime": "20:52",
+          "ArrivalTime": "20:53",
+          "DepartureTime": "20:54",
           "SuspendedFlag": 0
         },
         {
@@ -186612,8 +186623,8 @@
             "Zh_tw": "新左營",
             "En": "Xinzuoying"
           },
-          "ArrivalTime": "20:57",
-          "DepartureTime": "20:59",
+          "ArrivalTime": "20:59",
+          "DepartureTime": "21:01",
           "SuspendedFlag": 0
         },
         {
@@ -186623,8 +186634,8 @@
             "Zh_tw": "左營",
             "En": "Zuoying"
           },
-          "ArrivalTime": "21:01",
-          "DepartureTime": "21:02",
+          "ArrivalTime": "21:03",
+          "DepartureTime": "21:04",
           "SuspendedFlag": 0
         },
         {
@@ -186634,8 +186645,8 @@
             "Zh_tw": "內惟",
             "En": "Neiwei"
           },
-          "ArrivalTime": "21:03",
-          "DepartureTime": "21:04",
+          "ArrivalTime": "21:05",
+          "DepartureTime": "21:06",
           "SuspendedFlag": 0
         },
         {
@@ -186645,8 +186656,8 @@
             "Zh_tw": "美術館",
             "En": "Museum of Fine Arts"
           },
-          "ArrivalTime": "21:06",
-          "DepartureTime": "21:07",
+          "ArrivalTime": "21:08",
+          "DepartureTime": "21:09",
           "SuspendedFlag": 0
         },
         {
@@ -186656,8 +186667,8 @@
             "Zh_tw": "鼓山",
             "En": "Gushan"
           },
-          "ArrivalTime": "21:09",
-          "DepartureTime": "21:09",
+          "ArrivalTime": "21:11",
+          "DepartureTime": "21:11",
           "SuspendedFlag": 0
         },
         {
@@ -186667,8 +186678,8 @@
             "Zh_tw": "三塊厝",
             "En": "Sankuaicuo"
           },
-          "ArrivalTime": "21:12",
-          "DepartureTime": "21:12",
+          "ArrivalTime": "21:14",
+          "DepartureTime": "21:14",
           "SuspendedFlag": 0
         },
         {
@@ -186678,8 +186689,8 @@
             "Zh_tw": "高雄",
             "En": "Kaohsiung"
           },
-          "ArrivalTime": "21:14",
-          "DepartureTime": "21:15",
+          "ArrivalTime": "21:16",
+          "DepartureTime": "21:18",
           "SuspendedFlag": 0
         },
         {
@@ -186689,8 +186700,8 @@
             "Zh_tw": "民族",
             "En": "Minzu"
           },
-          "ArrivalTime": "21:17",
-          "DepartureTime": "21:17",
+          "ArrivalTime": "21:20",
+          "DepartureTime": "21:20",
           "SuspendedFlag": 0
         },
         {
@@ -186700,8 +186711,8 @@
             "Zh_tw": "科工館",
             "En": "Science And Technology Museum"
           },
-          "ArrivalTime": "21:19",
-          "DepartureTime": "21:20",
+          "ArrivalTime": "21:22",
+          "DepartureTime": "21:23",
           "SuspendedFlag": 0
         },
         {
@@ -186711,8 +186722,8 @@
             "Zh_tw": "正義",
             "En": "Zhengyi"
           },
-          "ArrivalTime": "21:22",
-          "DepartureTime": "21:23",
+          "ArrivalTime": "21:25",
+          "DepartureTime": "21:26",
           "SuspendedFlag": 0
         },
         {
@@ -186722,8 +186733,8 @@
             "Zh_tw": "鳳山",
             "En": "Fongshan"
           },
-          "ArrivalTime": "21:25",
-          "DepartureTime": "21:26",
+          "ArrivalTime": "21:28",
+          "DepartureTime": "21:29",
           "SuspendedFlag": 0
         },
         {
@@ -186733,8 +186744,8 @@
             "Zh_tw": "後庄",
             "En": "Houzhuang"
           },
-          "ArrivalTime": "21:29",
-          "DepartureTime": "21:30",
+          "ArrivalTime": "21:32",
+          "DepartureTime": "21:33",
           "SuspendedFlag": 0
         },
         {
@@ -186744,8 +186755,8 @@
             "Zh_tw": "九曲堂",
             "En": "Jiuqutang"
           },
-          "ArrivalTime": "21:33",
-          "DepartureTime": "21:34",
+          "ArrivalTime": "21:36",
+          "DepartureTime": "21:37",
           "SuspendedFlag": 0
         },
         {
@@ -186755,8 +186766,8 @@
             "Zh_tw": "六塊厝",
             "En": "Liukuaicuo"
           },
-          "ArrivalTime": "21:38",
-          "DepartureTime": "21:39",
+          "ArrivalTime": "21:41",
+          "DepartureTime": "21:42",
           "SuspendedFlag": 0
         },
         {
@@ -186766,8 +186777,8 @@
             "Zh_tw": "屏東",
             "En": "Pingtung"
           },
-          "ArrivalTime": "21:42",
-          "DepartureTime": "21:43",
+          "ArrivalTime": "21:45",
+          "DepartureTime": "21:46",
           "SuspendedFlag": 0
         },
         {
@@ -186777,8 +186788,8 @@
             "Zh_tw": "歸來",
             "En": "Guilai"
           },
-          "ArrivalTime": "21:46",
-          "DepartureTime": "21:46",
+          "ArrivalTime": "21:49",
+          "DepartureTime": "21:49",
           "SuspendedFlag": 0
         },
         {
@@ -186788,8 +186799,8 @@
             "Zh_tw": "麟洛",
             "En": "Linluo"
           },
-          "ArrivalTime": "21:49",
-          "DepartureTime": "21:49",
+          "ArrivalTime": "21:52",
+          "DepartureTime": "21:52",
           "SuspendedFlag": 0
         },
         {
@@ -186799,8 +186810,8 @@
             "Zh_tw": "西勢",
             "En": "Xishi"
           },
-          "ArrivalTime": "21:52",
-          "DepartureTime": "21:53",
+          "ArrivalTime": "21:56",
+          "DepartureTime": "22:06",
           "SuspendedFlag": 0
         },
         {
@@ -186810,8 +186821,8 @@
             "Zh_tw": "竹田",
             "En": "Zhutian"
           },
-          "ArrivalTime": "21:56",
-          "DepartureTime": "21:57",
+          "ArrivalTime": "22:10",
+          "DepartureTime": "22:11",
           "SuspendedFlag": 0
         },
         {
@@ -186821,8 +186832,8 @@
             "Zh_tw": "潮州",
             "En": "Chaozhou"
           },
-          "ArrivalTime": "22:02",
-          "DepartureTime": "22:04",
+          "ArrivalTime": "22:16",
+          "DepartureTime": "22:18",
           "SuspendedFlag": 0
         }
       ]
@@ -189487,7 +189498,7 @@
             "En": "Dalin"
           },
           "ArrivalTime": "19:24",
-          "DepartureTime": "19:31",
+          "DepartureTime": "19:29",
           "SuspendedFlag": 0
         },
         {
@@ -189497,8 +189508,8 @@
             "Zh_tw": "民雄",
             "En": "Minxiong"
           },
-          "ArrivalTime": "19:36",
-          "DepartureTime": "19:37",
+          "ArrivalTime": "19:35",
+          "DepartureTime": "19:36",
           "SuspendedFlag": 0
         },
         {
@@ -189508,8 +189519,8 @@
             "Zh_tw": "嘉北",
             "En": "Jiabei"
           },
-          "ArrivalTime": "19:42",
-          "DepartureTime": "19:43",
+          "ArrivalTime": "19:41",
+          "DepartureTime": "19:42",
           "SuspendedFlag": 0
         },
         {
@@ -189519,8 +189530,8 @@
             "Zh_tw": "嘉義",
             "En": "Chiayi"
           },
-          "ArrivalTime": "19:46",
-          "DepartureTime": "19:48",
+          "ArrivalTime": "19:45",
+          "DepartureTime": "19:47",
           "SuspendedFlag": 0
         },
         {
@@ -189530,8 +189541,8 @@
             "Zh_tw": "水上",
             "En": "Shuishang"
           },
-          "ArrivalTime": "19:53",
-          "DepartureTime": "19:53",
+          "ArrivalTime": "19:52",
+          "DepartureTime": "19:52",
           "SuspendedFlag": 0
         },
         {
@@ -189541,8 +189552,8 @@
             "Zh_tw": "南靖",
             "En": "Nanjing"
           },
-          "ArrivalTime": "19:56",
-          "DepartureTime": "19:56",
+          "ArrivalTime": "19:55",
+          "DepartureTime": "19:55",
           "SuspendedFlag": 0
         },
         {
@@ -189552,8 +189563,8 @@
             "Zh_tw": "後壁",
             "En": "Houbi"
           },
-          "ArrivalTime": "20:01",
-          "DepartureTime": "20:02",
+          "ArrivalTime": "20:00",
+          "DepartureTime": "20:01",
           "SuspendedFlag": 0
         },
         {
@@ -189563,8 +189574,8 @@
             "Zh_tw": "新營",
             "En": "Xinying"
           },
-          "ArrivalTime": "20:08",
-          "DepartureTime": "20:09",
+          "ArrivalTime": "20:07",
+          "DepartureTime": "20:08",
           "SuspendedFlag": 0
         },
         {
@@ -189574,8 +189585,8 @@
             "Zh_tw": "柳營",
             "En": "Liuying"
           },
-          "ArrivalTime": "20:12",
-          "DepartureTime": "20:12",
+          "ArrivalTime": "20:11",
+          "DepartureTime": "20:11",
           "SuspendedFlag": 0
         },
         {
@@ -189585,8 +189596,8 @@
             "Zh_tw": "林鳳營",
             "En": "Linfengying"
           },
-          "ArrivalTime": "20:16",
-          "DepartureTime": "20:16",
+          "ArrivalTime": "20:15",
+          "DepartureTime": "20:15",
           "SuspendedFlag": 0
         },
         {
@@ -189596,8 +189607,8 @@
             "Zh_tw": "隆田",
             "En": "Longtian"
           },
-          "ArrivalTime": "20:21",
-          "DepartureTime": "20:22",
+          "ArrivalTime": "20:20",
+          "DepartureTime": "20:21",
           "SuspendedFlag": 0
         },
         {
@@ -189607,8 +189618,8 @@
             "Zh_tw": "拔林",
             "En": "Balin"
           },
-          "ArrivalTime": "20:24",
-          "DepartureTime": "20:25",
+          "ArrivalTime": "20:23",
+          "DepartureTime": "20:24",
           "SuspendedFlag": 0
         },
         {
@@ -189618,8 +189629,8 @@
             "Zh_tw": "善化",
             "En": "Shanhua"
           },
-          "ArrivalTime": "20:29",
-          "DepartureTime": "20:30",
+          "ArrivalTime": "20:28",
+          "DepartureTime": "20:29",
           "SuspendedFlag": 0
         },
         {
@@ -189629,8 +189640,8 @@
             "Zh_tw": "南科",
             "En": "Nanke"
           },
-          "ArrivalTime": "20:33",
-          "DepartureTime": "20:33",
+          "ArrivalTime": "20:32",
+          "DepartureTime": "20:32",
           "SuspendedFlag": 0
         },
         {
@@ -189640,8 +189651,8 @@
             "Zh_tw": "新市",
             "En": "Xinshi"
           },
-          "ArrivalTime": "20:37",
-          "DepartureTime": "20:38",
+          "ArrivalTime": "20:36",
+          "DepartureTime": "20:37",
           "SuspendedFlag": 0
         },
         {
@@ -189651,8 +189662,8 @@
             "Zh_tw": "永康",
             "En": "Yongkang"
           },
-          "ArrivalTime": "20:43",
-          "DepartureTime": "20:44",
+          "ArrivalTime": "20:42",
+          "DepartureTime": "20:43",
           "SuspendedFlag": 0
         },
         {
@@ -189662,8 +189673,8 @@
             "Zh_tw": "大橋",
             "En": "Daqiao"
           },
-          "ArrivalTime": "20:47",
-          "DepartureTime": "20:48",
+          "ArrivalTime": "20:46",
+          "DepartureTime": "20:47",
           "SuspendedFlag": 0
         },
         {
@@ -189673,7 +189684,7 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "20:51",
+          "ArrivalTime": "20:50",
           "DepartureTime": "20:52",
           "SuspendedFlag": 0
         },
@@ -198359,7 +198370,7 @@
             "En": "Chaozhou"
           },
           "ArrivalTime": "11:49",
-          "DepartureTime": "11:51",
+          "DepartureTime": "11:50",
           "SuspendedFlag": 0
         },
         {
@@ -199435,7 +199446,7 @@
             "En": "Nanzhou"
           },
           "ArrivalTime": "18:25",
-          "DepartureTime": "18:31",
+          "DepartureTime": "18:30",
           "SuspendedFlag": 0
         },
         {
@@ -199445,8 +199456,8 @@
             "Zh_tw": "鎮安",
             "En": "Zhen'an"
           },
-          "ArrivalTime": "18:36",
-          "DepartureTime": "18:36",
+          "ArrivalTime": "18:35",
+          "DepartureTime": "18:35",
           "SuspendedFlag": 0
         },
         {
@@ -199456,7 +199467,7 @@
             "Zh_tw": "林邊",
             "En": "Linbian"
           },
-          "ArrivalTime": "18:40",
+          "ArrivalTime": "18:39",
           "DepartureTime": "18:41",
           "SuspendedFlag": 0
         },
@@ -199616,7 +199627,7 @@
             "En": "Chaozhou"
           },
           "ArrivalTime": "17:57",
-          "DepartureTime": "17:59",
+          "DepartureTime": "17:58",
           "SuspendedFlag": 0
         },
         {
@@ -201913,8 +201924,8 @@
             "Zh_tw": "沙崙",
             "En": "Shalun"
           },
-          "ArrivalTime": "08:15",
-          "DepartureTime": "08:15",
+          "ArrivalTime": "08:13",
+          "DepartureTime": "08:13",
           "SuspendedFlag": 0
         },
         {
@@ -201924,8 +201935,8 @@
             "Zh_tw": "長榮大學",
             "En": "Chang Jung Christian University"
           },
-          "ArrivalTime": "08:19",
-          "DepartureTime": "08:19",
+          "ArrivalTime": "08:17",
+          "DepartureTime": "08:17",
           "SuspendedFlag": 0
         },
         {
@@ -201935,8 +201946,8 @@
             "Zh_tw": "中洲",
             "En": "Zhongzhou"
           },
-          "ArrivalTime": "08:23",
-          "DepartureTime": "08:24",
+          "ArrivalTime": "08:21",
+          "DepartureTime": "08:22",
           "SuspendedFlag": 0
         },
         {
@@ -201946,8 +201957,8 @@
             "Zh_tw": "仁德",
             "En": "Rende"
           },
-          "ArrivalTime": "08:27",
-          "DepartureTime": "08:28",
+          "ArrivalTime": "08:25",
+          "DepartureTime": "08:26",
           "SuspendedFlag": 0
         },
         {
@@ -201957,8 +201968,8 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "08:30",
-          "DepartureTime": "08:30",
+          "ArrivalTime": "08:28",
+          "DepartureTime": "08:28",
           "SuspendedFlag": 0
         },
         {
@@ -201968,8 +201979,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "08:36",
-          "DepartureTime": "08:37",
+          "ArrivalTime": "08:34",
+          "DepartureTime": "08:36",
           "SuspendedFlag": 0
         },
         {
@@ -201979,8 +201990,8 @@
             "Zh_tw": "大橋",
             "En": "Daqiao"
           },
-          "ArrivalTime": "08:40",
-          "DepartureTime": "08:41",
+          "ArrivalTime": "08:39",
+          "DepartureTime": "08:39",
           "SuspendedFlag": 0
         },
         {
@@ -201990,8 +202001,8 @@
             "Zh_tw": "永康",
             "En": "Yongkang"
           },
-          "ArrivalTime": "08:45",
-          "DepartureTime": "08:51",
+          "ArrivalTime": "08:44",
+          "DepartureTime": "08:50",
           "SuspendedFlag": 0
         },
         {
@@ -202001,8 +202012,8 @@
             "Zh_tw": "新市",
             "En": "Xinshi"
           },
-          "ArrivalTime": "08:57",
-          "DepartureTime": "08:58",
+          "ArrivalTime": "08:56",
+          "DepartureTime": "08:57",
           "SuspendedFlag": 0
         },
         {
@@ -202012,8 +202023,8 @@
             "Zh_tw": "南科",
             "En": "Nanke"
           },
-          "ArrivalTime": "09:02",
-          "DepartureTime": "09:03",
+          "ArrivalTime": "09:01",
+          "DepartureTime": "09:02",
           "SuspendedFlag": 0
         },
         {
@@ -202023,8 +202034,8 @@
             "Zh_tw": "善化",
             "En": "Shanhua"
           },
-          "ArrivalTime": "09:07",
-          "DepartureTime": "09:07",
+          "ArrivalTime": "09:06",
+          "DepartureTime": "09:06",
           "SuspendedFlag": 0
         }
       ]
@@ -203065,8 +203076,8 @@
             "Zh_tw": "沙崙",
             "En": "Shalun"
           },
-          "ArrivalTime": "08:53",
-          "DepartureTime": "08:53",
+          "ArrivalTime": "08:52",
+          "DepartureTime": "08:52",
           "SuspendedFlag": 0
         },
         {
@@ -203076,8 +203087,8 @@
             "Zh_tw": "長榮大學",
             "En": "Chang Jung Christian University"
           },
-          "ArrivalTime": "08:57",
-          "DepartureTime": "08:57",
+          "ArrivalTime": "08:56",
+          "DepartureTime": "08:56",
           "SuspendedFlag": 0
         },
         {
@@ -203087,8 +203098,8 @@
             "Zh_tw": "中洲",
             "En": "Zhongzhou"
           },
-          "ArrivalTime": "09:01",
-          "DepartureTime": "09:02",
+          "ArrivalTime": "09:00",
+          "DepartureTime": "09:01",
           "SuspendedFlag": 0
         },
         {
@@ -203098,8 +203109,8 @@
             "Zh_tw": "仁德",
             "En": "Rende"
           },
-          "ArrivalTime": "09:05",
-          "DepartureTime": "09:06",
+          "ArrivalTime": "09:04",
+          "DepartureTime": "09:05",
           "SuspendedFlag": 0
         },
         {
@@ -203109,7 +203120,7 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "09:08",
+          "ArrivalTime": "09:07",
           "DepartureTime": "09:08",
           "SuspendedFlag": 0
         },
@@ -203120,8 +203131,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "09:16",
-          "DepartureTime": "09:16",
+          "ArrivalTime": "09:15",
+          "DepartureTime": "09:15",
           "SuspendedFlag": 0
         }
       ]
@@ -204369,8 +204380,8 @@
             "Zh_tw": "沙崙",
             "En": "Shalun"
           },
-          "ArrivalTime": "11:32",
-          "DepartureTime": "11:32",
+          "ArrivalTime": "11:28",
+          "DepartureTime": "11:28",
           "SuspendedFlag": 0
         },
         {
@@ -204380,8 +204391,8 @@
             "Zh_tw": "長榮大學",
             "En": "Chang Jung Christian University"
           },
-          "ArrivalTime": "11:36",
-          "DepartureTime": "11:36",
+          "ArrivalTime": "11:32",
+          "DepartureTime": "11:32",
           "SuspendedFlag": 0
         },
         {
@@ -204391,8 +204402,8 @@
             "Zh_tw": "中洲",
             "En": "Zhongzhou"
           },
-          "ArrivalTime": "11:40",
-          "DepartureTime": "11:41",
+          "ArrivalTime": "11:36",
+          "DepartureTime": "11:37",
           "SuspendedFlag": 0
         },
         {
@@ -204402,8 +204413,8 @@
             "Zh_tw": "仁德",
             "En": "Rende"
           },
-          "ArrivalTime": "11:44",
-          "DepartureTime": "11:45",
+          "ArrivalTime": "11:40",
+          "DepartureTime": "11:41",
           "SuspendedFlag": 0
         },
         {
@@ -204413,8 +204424,8 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "11:47",
-          "DepartureTime": "11:47",
+          "ArrivalTime": "11:43",
+          "DepartureTime": "11:43",
           "SuspendedFlag": 0
         },
         {
@@ -204424,8 +204435,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "11:53",
-          "DepartureTime": "11:55",
+          "ArrivalTime": "11:49",
+          "DepartureTime": "11:51",
           "SuspendedFlag": 0
         },
         {
@@ -204435,8 +204446,8 @@
             "Zh_tw": "大橋",
             "En": "Daqiao"
           },
-          "ArrivalTime": "11:58",
-          "DepartureTime": "11:58",
+          "ArrivalTime": "11:54",
+          "DepartureTime": "11:54",
           "SuspendedFlag": 0
         },
         {
@@ -204446,8 +204457,8 @@
             "Zh_tw": "永康",
             "En": "Yongkang"
           },
-          "ArrivalTime": "12:02",
-          "DepartureTime": "12:03",
+          "ArrivalTime": "11:58",
+          "DepartureTime": "11:59",
           "SuspendedFlag": 0
         },
         {
@@ -204457,8 +204468,8 @@
             "Zh_tw": "新市",
             "En": "Xinshi"
           },
-          "ArrivalTime": "12:08",
-          "DepartureTime": "12:09",
+          "ArrivalTime": "12:04",
+          "DepartureTime": "12:05",
           "SuspendedFlag": 0
         },
         {
@@ -204468,8 +204479,8 @@
             "Zh_tw": "南科",
             "En": "Nanke"
           },
-          "ArrivalTime": "12:13",
-          "DepartureTime": "12:15",
+          "ArrivalTime": "12:09",
+          "DepartureTime": "12:10",
           "SuspendedFlag": 0
         },
         {
@@ -204479,8 +204490,8 @@
             "Zh_tw": "善化",
             "En": "Shanhua"
           },
-          "ArrivalTime": "12:19",
-          "DepartureTime": "12:19",
+          "ArrivalTime": "12:14",
+          "DepartureTime": "12:14",
           "SuspendedFlag": 0
         }
       ]
@@ -204862,8 +204873,8 @@
             "Zh_tw": "沙崙",
             "En": "Shalun"
           },
-          "ArrivalTime": "12:29",
-          "DepartureTime": "12:29",
+          "ArrivalTime": "12:28",
+          "DepartureTime": "12:28",
           "SuspendedFlag": 0
         },
         {
@@ -204873,8 +204884,8 @@
             "Zh_tw": "長榮大學",
             "En": "Chang Jung Christian University"
           },
-          "ArrivalTime": "12:33",
-          "DepartureTime": "12:33",
+          "ArrivalTime": "12:32",
+          "DepartureTime": "12:32",
           "SuspendedFlag": 0
         },
         {
@@ -204884,8 +204895,8 @@
             "Zh_tw": "中洲",
             "En": "Zhongzhou"
           },
-          "ArrivalTime": "12:37",
-          "DepartureTime": "12:38",
+          "ArrivalTime": "12:36",
+          "DepartureTime": "12:37",
           "SuspendedFlag": 0
         },
         {
@@ -204895,8 +204906,8 @@
             "Zh_tw": "仁德",
             "En": "Rende"
           },
-          "ArrivalTime": "12:41",
-          "DepartureTime": "12:42",
+          "ArrivalTime": "12:40",
+          "DepartureTime": "12:41",
           "SuspendedFlag": 0
         },
         {
@@ -204906,8 +204917,8 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "12:44",
-          "DepartureTime": "12:44",
+          "ArrivalTime": "12:43",
+          "DepartureTime": "12:43",
           "SuspendedFlag": 0
         },
         {
@@ -204917,8 +204928,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "12:52",
-          "DepartureTime": "12:52",
+          "ArrivalTime": "12:51",
+          "DepartureTime": "12:51",
           "SuspendedFlag": 0
         }
       ]
@@ -205093,7 +205104,7 @@
             "En": "Zhongzhou"
           },
           "ArrivalTime": "12:53",
-          "DepartureTime": "12:55",
+          "DepartureTime": "12:54",
           "SuspendedFlag": 0
         },
         {
@@ -205103,8 +205114,8 @@
             "Zh_tw": "仁德",
             "En": "Rende"
           },
-          "ArrivalTime": "12:58",
-          "DepartureTime": "12:59",
+          "ArrivalTime": "12:57",
+          "DepartureTime": "12:58",
           "SuspendedFlag": 0
         },
         {
@@ -205114,8 +205125,8 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "13:01",
-          "DepartureTime": "13:01",
+          "ArrivalTime": "13:00",
+          "DepartureTime": "13:00",
           "SuspendedFlag": 0
         },
         {
@@ -205125,8 +205136,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "13:07",
-          "DepartureTime": "13:10",
+          "ArrivalTime": "13:06",
+          "DepartureTime": "13:09",
           "SuspendedFlag": 0
         },
         {
@@ -205136,8 +205147,8 @@
             "Zh_tw": "大橋",
             "En": "Daqiao"
           },
-          "ArrivalTime": "13:13",
-          "DepartureTime": "13:13",
+          "ArrivalTime": "13:12",
+          "DepartureTime": "13:12",
           "SuspendedFlag": 0
         },
         {
@@ -205147,8 +205158,8 @@
             "Zh_tw": "永康",
             "En": "Yongkang"
           },
-          "ArrivalTime": "13:17",
-          "DepartureTime": "13:18",
+          "ArrivalTime": "13:16",
+          "DepartureTime": "13:17",
           "SuspendedFlag": 0
         },
         {
@@ -205158,8 +205169,8 @@
             "Zh_tw": "新市",
             "En": "Xinshi"
           },
-          "ArrivalTime": "13:23",
-          "DepartureTime": "13:24",
+          "ArrivalTime": "13:22",
+          "DepartureTime": "13:23",
           "SuspendedFlag": 0
         },
         {
@@ -205169,8 +205180,8 @@
             "Zh_tw": "南科",
             "En": "Nanke"
           },
-          "ArrivalTime": "13:28",
-          "DepartureTime": "13:29",
+          "ArrivalTime": "13:27",
+          "DepartureTime": "13:28",
           "SuspendedFlag": 0
         },
         {
@@ -205180,8 +205191,8 @@
             "Zh_tw": "善化",
             "En": "Shanhua"
           },
-          "ArrivalTime": "13:33",
-          "DepartureTime": "13:33",
+          "ArrivalTime": "13:32",
+          "DepartureTime": "13:32",
           "SuspendedFlag": 0
         }
       ]
@@ -205388,8 +205399,8 @@
             "Zh_tw": "沙崙",
             "En": "Shalun"
           },
-          "ArrivalTime": "13:30",
-          "DepartureTime": "13:30",
+          "ArrivalTime": "13:28",
+          "DepartureTime": "13:28",
           "SuspendedFlag": 0
         },
         {
@@ -205399,8 +205410,8 @@
             "Zh_tw": "長榮大學",
             "En": "Chang Jung Christian University"
           },
-          "ArrivalTime": "13:34",
-          "DepartureTime": "13:34",
+          "ArrivalTime": "13:32",
+          "DepartureTime": "13:32",
           "SuspendedFlag": 0
         },
         {
@@ -205410,8 +205421,8 @@
             "Zh_tw": "中洲",
             "En": "Zhongzhou"
           },
-          "ArrivalTime": "13:38",
-          "DepartureTime": "13:39",
+          "ArrivalTime": "13:36",
+          "DepartureTime": "13:37",
           "SuspendedFlag": 0
         },
         {
@@ -205421,8 +205432,8 @@
             "Zh_tw": "仁德",
             "En": "Rende"
           },
-          "ArrivalTime": "13:42",
-          "DepartureTime": "13:43",
+          "ArrivalTime": "13:40",
+          "DepartureTime": "13:41",
           "SuspendedFlag": 0
         },
         {
@@ -205432,8 +205443,8 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "13:45",
-          "DepartureTime": "13:45",
+          "ArrivalTime": "13:43",
+          "DepartureTime": "13:44",
           "SuspendedFlag": 0
         },
         {
@@ -205443,8 +205454,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "13:53",
-          "DepartureTime": "13:53",
+          "ArrivalTime": "13:51",
+          "DepartureTime": "13:51",
           "SuspendedFlag": 0
         }
       ]
@@ -205826,8 +205837,8 @@
             "Zh_tw": "沙崙",
             "En": "Shalun"
           },
-          "ArrivalTime": "14:29",
-          "DepartureTime": "14:29",
+          "ArrivalTime": "14:28",
+          "DepartureTime": "14:28",
           "SuspendedFlag": 0
         },
         {
@@ -205837,8 +205848,8 @@
             "Zh_tw": "長榮大學",
             "En": "Chang Jung Christian University"
           },
-          "ArrivalTime": "14:33",
-          "DepartureTime": "14:33",
+          "ArrivalTime": "14:32",
+          "DepartureTime": "14:32",
           "SuspendedFlag": 0
         },
         {
@@ -205848,8 +205859,8 @@
             "Zh_tw": "中洲",
             "En": "Zhongzhou"
           },
-          "ArrivalTime": "14:37",
-          "DepartureTime": "14:38",
+          "ArrivalTime": "14:36",
+          "DepartureTime": "14:37",
           "SuspendedFlag": 0
         },
         {
@@ -205859,8 +205870,8 @@
             "Zh_tw": "仁德",
             "En": "Rende"
           },
-          "ArrivalTime": "14:41",
-          "DepartureTime": "14:42",
+          "ArrivalTime": "14:40",
+          "DepartureTime": "14:41",
           "SuspendedFlag": 0
         },
         {
@@ -205870,8 +205881,8 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "14:44",
-          "DepartureTime": "14:44",
+          "ArrivalTime": "14:43",
+          "DepartureTime": "14:43",
           "SuspendedFlag": 0
         },
         {
@@ -205881,7 +205892,7 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "14:50",
+          "ArrivalTime": "14:49",
           "DepartureTime": "14:51",
           "SuspendedFlag": 0
         },
@@ -205893,7 +205904,7 @@
             "En": "Daqiao"
           },
           "ArrivalTime": "14:54",
-          "DepartureTime": "14:55",
+          "DepartureTime": "14:54",
           "SuspendedFlag": 0
         },
         {
@@ -209130,8 +209141,8 @@
             "Zh_tw": "臺南",
             "En": "Tainan"
           },
-          "ArrivalTime": "20:25",
-          "DepartureTime": "20:25",
+          "ArrivalTime": "20:24",
+          "DepartureTime": "20:24",
           "SuspendedFlag": 0
         },
         {
@@ -209141,8 +209152,8 @@
             "Zh_tw": "保安",
             "En": "Bao'an"
           },
-          "ArrivalTime": "20:32",
-          "DepartureTime": "20:32",
+          "ArrivalTime": "20:31",
+          "DepartureTime": "20:31",
           "SuspendedFlag": 0
         },
         {
@@ -209152,8 +209163,8 @@
             "Zh_tw": "仁德",
             "En": "Rende"
           },
-          "ArrivalTime": "20:34",
-          "DepartureTime": "20:35",
+          "ArrivalTime": "20:33",
+          "DepartureTime": "20:34",
           "SuspendedFlag": 0
         },
         {
@@ -209163,8 +209174,8 @@
             "Zh_tw": "中洲",
             "En": "Zhongzhou"
           },
-          "ArrivalTime": "20:38",
-          "DepartureTime": "20:39",
+          "ArrivalTime": "20:37",
+          "DepartureTime": "20:38",
           "SuspendedFlag": 0
         },
         {
@@ -209174,8 +209185,8 @@
             "Zh_tw": "長榮大學",
             "En": "Chang Jung Christian University"
           },
-          "ArrivalTime": "20:43",
-          "DepartureTime": "20:44",
+          "ArrivalTime": "20:42",
+          "DepartureTime": "20:43",
           "SuspendedFlag": 0
         },
         {
@@ -209185,8 +209196,8 @@
             "Zh_tw": "沙崙",
             "En": "Shalun"
           },
-          "ArrivalTime": "20:49",
-          "DepartureTime": "20:49",
+          "ArrivalTime": "20:48",
+          "DepartureTime": "20:48",
           "SuspendedFlag": 0
         }
       ]
@@ -215994,7 +216005,7 @@
             "En": "Heren"
           },
           "ArrivalTime": "20:11",
-          "DepartureTime": "20:11",
+          "DepartureTime": "20:12",
           "SuspendedFlag": 0
         },
         {
@@ -216005,7 +216016,7 @@
             "En": "Chongde"
           },
           "ArrivalTime": "20:23",
-          "DepartureTime": "20:23",
+          "DepartureTime": "20:24",
           "SuspendedFlag": 0
         },
         {
@@ -216027,7 +216038,7 @@
             "En": "Beipu"
           },
           "ArrivalTime": "20:37",
-          "DepartureTime": "20:37",
+          "DepartureTime": "20:38",
           "SuspendedFlag": 0
         },
         {
@@ -216037,8 +216048,8 @@
             "Zh_tw": "花蓮",
             "En": "Hualien"
           },
-          "ArrivalTime": "20:44",
-          "DepartureTime": "20:44",
+          "ArrivalTime": "20:45",
+          "DepartureTime": "20:45",
           "SuspendedFlag": 0
         }
       ]
@@ -222315,8 +222326,8 @@
             "Zh_tw": "和平",
             "En": "Heping"
           },
-          "ArrivalTime": "08:14",
-          "DepartureTime": "08:14",
+          "ArrivalTime": "08:13",
+          "DepartureTime": "08:13",
           "SuspendedFlag": 0
         },
         {
@@ -222326,8 +222337,8 @@
             "Zh_tw": "和仁",
             "En": "Heren"
           },
-          "ArrivalTime": "08:21",
-          "DepartureTime": "08:23",
+          "ArrivalTime": "08:20",
+          "DepartureTime": "08:22",
           "SuspendedFlag": 0
         },
         {
@@ -222337,7 +222348,7 @@
             "Zh_tw": "崇德",
             "En": "Chongde"
           },
-          "ArrivalTime": "08:35",
+          "ArrivalTime": "08:34",
           "DepartureTime": "08:36",
           "SuspendedFlag": 0
         },
@@ -223052,7 +223063,7 @@
             "En": "Heping"
           },
           "ArrivalTime": "08:52",
-          "DepartureTime": "09:00",
+          "DepartureTime": "09:08",
           "SuspendedFlag": 0
         },
         {
@@ -223062,8 +223073,8 @@
             "Zh_tw": "和仁",
             "En": "Heren"
           },
-          "ArrivalTime": "09:07",
-          "DepartureTime": "09:14",
+          "ArrivalTime": "09:15",
+          "DepartureTime": "09:15",
           "SuspendedFlag": 0
         },
         {
@@ -224286,8 +224297,8 @@
             "Zh_tw": "花蓮",
             "En": "Hualien"
           },
-          "ArrivalTime": "07:36",
-          "DepartureTime": "07:36",
+          "ArrivalTime": "07:34",
+          "DepartureTime": "07:34",
           "SuspendedFlag": 0
         },
         {
@@ -224297,8 +224308,8 @@
             "Zh_tw": "北埔",
             "En": "Beipu"
           },
-          "ArrivalTime": "07:41",
-          "DepartureTime": "07:42",
+          "ArrivalTime": "07:39",
+          "DepartureTime": "07:40",
           "SuspendedFlag": 0
         },
         {
@@ -224308,8 +224319,8 @@
             "Zh_tw": "景美",
             "En": "Jingmei"
           },
-          "ArrivalTime": "07:47",
-          "DepartureTime": "07:47",
+          "ArrivalTime": "07:45",
+          "DepartureTime": "07:45",
           "SuspendedFlag": 0
         },
         {
@@ -224319,8 +224330,8 @@
             "Zh_tw": "新城",
             "En": "Xincheng"
           },
-          "ArrivalTime": "07:52",
-          "DepartureTime": "07:54",
+          "ArrivalTime": "07:50",
+          "DepartureTime": "07:51",
           "SuspendedFlag": 0
         },
         {
@@ -224330,8 +224341,8 @@
             "Zh_tw": "崇德",
             "En": "Chongde"
           },
-          "ArrivalTime": "07:58",
-          "DepartureTime": "07:59",
+          "ArrivalTime": "07:55",
+          "DepartureTime": "07:56",
           "SuspendedFlag": 0
         },
         {
@@ -224341,8 +224352,8 @@
             "Zh_tw": "和仁",
             "En": "Heren"
           },
-          "ArrivalTime": "08:11",
-          "DepartureTime": "08:12",
+          "ArrivalTime": "08:08",
+          "DepartureTime": "08:11",
           "SuspendedFlag": 0
         },
         {
@@ -224352,7 +224363,7 @@
             "Zh_tw": "和平",
             "En": "Heping"
           },
-          "ArrivalTime": "08:19",
+          "ArrivalTime": "08:18",
           "DepartureTime": "08:25",
           "SuspendedFlag": 0
         },
@@ -240428,7 +240439,7 @@
             "En": "Yangmei"
           },
           "ArrivalTime": "22:18",
-          "DepartureTime": "22:23",
+          "DepartureTime": "22:24",
           "SuspendedFlag": 0
         },
         {
@@ -240439,7 +240450,7 @@
             "En": "Fugang"
           },
           "ArrivalTime": "22:30",
-          "DepartureTime": "22:30",
+          "DepartureTime": "22:31",
           "SuspendedFlag": 0
         },
         {
@@ -240449,8 +240460,8 @@
             "Zh_tw": "新富",
             "En": "Xinfu"
           },
-          "ArrivalTime": "22:32",
-          "DepartureTime": "22:33",
+          "ArrivalTime": "22:33",
+          "DepartureTime": "22:34",
           "SuspendedFlag": 0
         },
         {
@@ -240460,8 +240471,8 @@
             "Zh_tw": "北湖",
             "En": "Beihu"
           },
-          "ArrivalTime": "22:36",
-          "DepartureTime": "22:49",
+          "ArrivalTime": "22:37",
+          "DepartureTime": "22:55",
           "SuspendedFlag": 0
         }
       ]
@@ -242493,7 +242504,7 @@
             "En": "Xinfu"
           },
           "ArrivalTime": "16:26",
-          "DepartureTime": "16:28",
+          "DepartureTime": "16:27",
           "SuspendedFlag": 0
         },
         {
@@ -242503,8 +242514,8 @@
             "Zh_tw": "富岡",
             "En": "Fugang"
           },
-          "ArrivalTime": "16:30",
-          "DepartureTime": "16:31",
+          "ArrivalTime": "16:29",
+          "DepartureTime": "16:29",
           "SuspendedFlag": 0
         },
         {
@@ -242514,8 +242525,8 @@
             "Zh_tw": "楊梅",
             "En": "Yangmei"
           },
-          "ArrivalTime": "16:36",
-          "DepartureTime": "16:37",
+          "ArrivalTime": "16:35",
+          "DepartureTime": "16:36",
           "SuspendedFlag": 0
         },
         {
@@ -242525,8 +242536,8 @@
             "Zh_tw": "埔心",
             "En": "Puxin"
           },
-          "ArrivalTime": "16:40",
-          "DepartureTime": "16:41",
+          "ArrivalTime": "16:39",
+          "DepartureTime": "16:40",
           "SuspendedFlag": 0
         },
         {
@@ -242536,8 +242547,8 @@
             "Zh_tw": "中壢",
             "En": "Zhongli_Taoyuan"
           },
-          "ArrivalTime": "16:49",
-          "DepartureTime": "16:50",
+          "ArrivalTime": "16:48",
+          "DepartureTime": "16:49",
           "SuspendedFlag": 0
         },
         {
@@ -242547,8 +242558,8 @@
             "Zh_tw": "內壢",
             "En": "Neili"
           },
-          "ArrivalTime": "16:53",
-          "DepartureTime": "16:54",
+          "ArrivalTime": "16:52",
+          "DepartureTime": "16:53",
           "SuspendedFlag": 0
         },
         {
@@ -242558,8 +242569,8 @@
             "Zh_tw": "桃園",
             "En": "Taoyuan"
           },
-          "ArrivalTime": "17:00",
-          "DepartureTime": "17:01",
+          "ArrivalTime": "16:59",
+          "DepartureTime": "17:00",
           "SuspendedFlag": 0
         },
         {
@@ -242570,7 +242581,7 @@
             "En": "Fengming"
           },
           "ArrivalTime": "17:05",
-          "DepartureTime": "17:06",
+          "DepartureTime": "17:05",
           "SuspendedFlag": 0
         },
         {
@@ -242580,8 +242591,8 @@
             "Zh_tw": "鶯歌",
             "En": "Yingge"
           },
-          "ArrivalTime": "17:11",
-          "DepartureTime": "17:12",
+          "ArrivalTime": "17:10",
+          "DepartureTime": "17:11",
           "SuspendedFlag": 0
         },
         {
@@ -247546,17 +247557,28 @@
         },
         {
           "StopSequence": 9,
+          "StationID": "7030",
+          "StationName": {
+            "Zh_tw": "新城",
+            "En": "Xincheng"
+          },
+          "ArrivalTime": "16:09",
+          "DepartureTime": "16:10",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 10,
           "StationID": "7000",
           "StationName": {
             "Zh_tw": "花蓮",
             "En": "Hualien"
           },
-          "ArrivalTime": "16:18",
+          "ArrivalTime": "16:21",
           "DepartureTime": "16:24",
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 10,
+          "StopSequence": 11,
           "StationID": "6250",
           "StationName": {
             "Zh_tw": "吉安",
@@ -247567,7 +247589,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 11,
+          "StopSequence": 12,
           "StationID": "6240",
           "StationName": {
             "Zh_tw": "志學",
@@ -247578,7 +247600,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 12,
+          "StopSequence": 13,
           "StationID": "6220",
           "StationName": {
             "Zh_tw": "壽豐",
@@ -247589,7 +247611,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 13,
+          "StopSequence": 14,
           "StationID": "6200",
           "StationName": {
             "Zh_tw": "林榮新光",
@@ -247600,7 +247622,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 14,
+          "StopSequence": 15,
           "StationID": "6180",
           "StationName": {
             "Zh_tw": "鳳林",
@@ -247611,7 +247633,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 15,
+          "StopSequence": 16,
           "StationID": "6160",
           "StationName": {
             "Zh_tw": "光復",
@@ -247622,7 +247644,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 16,
+          "StopSequence": 17,
           "StationID": "6130",
           "StationName": {
             "Zh_tw": "瑞穗",
@@ -247633,7 +247655,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 17,
+          "StopSequence": 18,
           "StationID": "6110",
           "StationName": {
             "Zh_tw": "玉里",
@@ -247644,7 +247666,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 18,
+          "StopSequence": 19,
           "StationID": "6080",
           "StationName": {
             "Zh_tw": "富里",
@@ -247655,7 +247677,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 19,
+          "StopSequence": 20,
           "StationID": "6070",
           "StationName": {
             "Zh_tw": "池上",
@@ -247666,7 +247688,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 20,
+          "StopSequence": 21,
           "StationID": "6050",
           "StationName": {
             "Zh_tw": "關山",
@@ -247677,7 +247699,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 21,
+          "StopSequence": 22,
           "StationID": "6020",
           "StationName": {
             "Zh_tw": "鹿野",
@@ -247688,7 +247710,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 22,
+          "StopSequence": 23,
           "StationID": "6000",
           "StationName": {
             "Zh_tw": "臺東",
@@ -247699,7 +247721,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 23,
+          "StopSequence": 24,
           "StationID": "5230",
           "StationName": {
             "Zh_tw": "知本",
@@ -247710,7 +247732,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 24,
+          "StopSequence": 25,
           "StationID": "5220",
           "StationName": {
             "Zh_tw": "太麻里",
@@ -247721,7 +247743,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 25,
+          "StopSequence": 26,
           "StationID": "5210",
           "StationName": {
             "Zh_tw": "金崙",
@@ -247732,7 +247754,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 26,
+          "StopSequence": 27,
           "StationID": "5190",
           "StationName": {
             "Zh_tw": "大武",
@@ -247743,7 +247765,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 27,
+          "StopSequence": 28,
           "StationID": "5120",
           "StationName": {
             "Zh_tw": "枋寮",
@@ -247754,7 +247776,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 28,
+          "StopSequence": 29,
           "StationID": "5090",
           "StationName": {
             "Zh_tw": "林邊",
@@ -247765,7 +247787,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 29,
+          "StopSequence": 30,
           "StationID": "5070",
           "StationName": {
             "Zh_tw": "南州",
@@ -247776,7 +247798,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 30,
+          "StopSequence": 31,
           "StationID": "5050",
           "StationName": {
             "Zh_tw": "潮州",
@@ -247787,7 +247809,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 31,
+          "StopSequence": 32,
           "StationID": "5000",
           "StationName": {
             "Zh_tw": "屏東",
@@ -247798,7 +247820,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 32,
+          "StopSequence": 33,
           "StationID": "4440",
           "StationName": {
             "Zh_tw": "鳳山",
@@ -247809,7 +247831,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 33,
+          "StopSequence": 34,
           "StationID": "4400",
           "StationName": {
             "Zh_tw": "高雄",
@@ -247820,7 +247842,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 34,
+          "StopSequence": 35,
           "StationID": "4340",
           "StationName": {
             "Zh_tw": "新左營",
@@ -249196,7 +249218,7 @@
             "En": "Guangfu"
           },
           "ArrivalTime": "18:24",
-          "DepartureTime": "18:26",
+          "DepartureTime": "18:25",
           "SuspendedFlag": 0
         },
         {
@@ -249206,8 +249228,8 @@
             "Zh_tw": "鳳林",
             "En": "Fenglin"
           },
-          "ArrivalTime": "18:33",
-          "DepartureTime": "18:35",
+          "ArrivalTime": "18:32",
+          "DepartureTime": "18:34",
           "SuspendedFlag": 0
         },
         {
@@ -249217,34 +249239,45 @@
             "Zh_tw": "壽豐",
             "En": "Shoufeng"
           },
-          "ArrivalTime": "18:44",
-          "DepartureTime": "18:45",
+          "ArrivalTime": "18:43",
+          "DepartureTime": "18:44",
           "SuspendedFlag": 0
         },
         {
           "StopSequence": 11,
+          "StationID": "6240",
+          "StationName": {
+            "Zh_tw": "志學",
+            "En": "Zhixue"
+          },
+          "ArrivalTime": "18:48",
+          "DepartureTime": "18:50",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 12,
           "StationID": "6250",
           "StationName": {
             "Zh_tw": "吉安",
             "En": "Ji'an"
           },
-          "ArrivalTime": "18:54",
-          "DepartureTime": "18:56",
+          "ArrivalTime": "18:56",
+          "DepartureTime": "18:58",
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 12,
+          "StopSequence": 13,
           "StationID": "7000",
           "StationName": {
             "Zh_tw": "花蓮",
             "En": "Hualien"
           },
-          "ArrivalTime": "19:01",
+          "ArrivalTime": "19:03",
           "DepartureTime": "19:06",
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 13,
+          "StopSequence": 14,
           "StationID": "7160",
           "StationName": {
             "Zh_tw": "羅東",
@@ -249255,7 +249288,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 14,
+          "StopSequence": 15,
           "StationID": "7190",
           "StationName": {
             "Zh_tw": "宜蘭",
@@ -249266,29 +249299,29 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 15,
+          "StopSequence": 16,
           "StationID": "0990",
           "StationName": {
             "Zh_tw": "松山",
             "En": "Songshan"
           },
-          "ArrivalTime": "21:25",
-          "DepartureTime": "21:26",
+          "ArrivalTime": "21:26",
+          "DepartureTime": "21:27",
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 16,
+          "StopSequence": 17,
           "StationID": "1000",
           "StationName": {
             "Zh_tw": "臺北",
             "En": "Taipei"
           },
-          "ArrivalTime": "21:33",
+          "ArrivalTime": "21:34",
           "DepartureTime": "21:37",
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 17,
+          "StopSequence": 18,
           "StationID": "1020",
           "StationName": {
             "Zh_tw": "板橋",
@@ -249299,7 +249332,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 18,
+          "StopSequence": 19,
           "StationID": "1040",
           "StationName": {
             "Zh_tw": "樹林",
@@ -249552,8 +249585,8 @@
             "Zh_tw": "松山",
             "En": "Songshan"
           },
-          "ArrivalTime": "21:29",
-          "DepartureTime": "21:30",
+          "ArrivalTime": "21:30",
+          "DepartureTime": "21:31",
           "SuspendedFlag": 0
         },
         {
@@ -249563,7 +249596,7 @@
             "Zh_tw": "臺北",
             "En": "Taipei"
           },
-          "ArrivalTime": "21:37",
+          "ArrivalTime": "21:38",
           "DepartureTime": "21:42",
           "SuspendedFlag": 0
         },
@@ -250146,8 +250179,8 @@
             "Zh_tw": "志學",
             "En": "Zhixue"
           },
-          "ArrivalTime": "20:20",
-          "DepartureTime": "20:21",
+          "ArrivalTime": "20:19",
+          "DepartureTime": "20:20",
           "SuspendedFlag": 0
         },
         {
@@ -250158,7 +250191,7 @@
             "En": "Ji'an"
           },
           "ArrivalTime": "20:27",
-          "DepartureTime": "20:29",
+          "DepartureTime": "20:28",
           "SuspendedFlag": 0
         },
         {
@@ -250168,23 +250201,34 @@
             "Zh_tw": "花蓮",
             "En": "Hualien"
           },
-          "ArrivalTime": "20:34",
-          "DepartureTime": "20:38",
+          "ArrivalTime": "20:33",
+          "DepartureTime": "20:36",
           "SuspendedFlag": 0
         },
         {
           "StopSequence": 25,
+          "StationID": "7030",
+          "StationName": {
+            "Zh_tw": "新城",
+            "En": "Xincheng"
+          },
+          "ArrivalTime": "20:47",
+          "DepartureTime": "20:48",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 26,
           "StationID": "7160",
           "StationName": {
             "Zh_tw": "羅東",
             "En": "Luodong"
           },
-          "ArrivalTime": "21:36",
+          "ArrivalTime": "21:37",
           "DepartureTime": "21:38",
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 26,
+          "StopSequence": 27,
           "StationID": "7190",
           "StationName": {
             "Zh_tw": "宜蘭",
@@ -250195,7 +250239,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 27,
+          "StopSequence": 28,
           "StationID": "7210",
           "StationName": {
             "Zh_tw": "礁溪",
@@ -250206,7 +250250,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 28,
+          "StopSequence": 29,
           "StationID": "0980",
           "StationName": {
             "Zh_tw": "南港",
@@ -250217,7 +250261,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 29,
+          "StopSequence": 30,
           "StationID": "0990",
           "StationName": {
             "Zh_tw": "松山",
@@ -250228,7 +250272,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 30,
+          "StopSequence": 31,
           "StationID": "1000",
           "StationName": {
             "Zh_tw": "臺北",
@@ -250239,7 +250283,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 31,
+          "StopSequence": 32,
           "StationID": "1020",
           "StationName": {
             "Zh_tw": "板橋",
@@ -250250,7 +250294,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 32,
+          "StopSequence": 33,
           "StationID": "1040",
           "StationName": {
             "Zh_tw": "樹林",
@@ -252078,7 +252122,7 @@
             "En": "Heren"
           },
           "ArrivalTime": "07:04",
-          "DepartureTime": "07:05",
+          "DepartureTime": "07:06",
           "SuspendedFlag": 0
         },
         {
@@ -252088,8 +252132,8 @@
             "Zh_tw": "崇德",
             "En": "Chongde"
           },
-          "ArrivalTime": "07:17",
-          "DepartureTime": "07:17",
+          "ArrivalTime": "07:18",
+          "DepartureTime": "07:18",
           "SuspendedFlag": 0
         },
         {
@@ -252099,8 +252143,8 @@
             "Zh_tw": "新城",
             "En": "Xincheng"
           },
-          "ArrivalTime": "07:22",
-          "DepartureTime": "07:25",
+          "ArrivalTime": "07:23",
+          "DepartureTime": "07:26",
           "SuspendedFlag": 0
         },
         {
@@ -252110,8 +252154,8 @@
             "Zh_tw": "景美",
             "En": "Jingmei"
           },
-          "ArrivalTime": "07:29",
-          "DepartureTime": "07:30",
+          "ArrivalTime": "07:30",
+          "DepartureTime": "07:31",
           "SuspendedFlag": 0
         },
         {
@@ -252121,8 +252165,8 @@
             "Zh_tw": "北埔",
             "En": "Beipu"
           },
-          "ArrivalTime": "07:35",
-          "DepartureTime": "07:36",
+          "ArrivalTime": "07:36",
+          "DepartureTime": "07:37",
           "SuspendedFlag": 0
         },
         {
@@ -252132,7 +252176,7 @@
             "Zh_tw": "花蓮",
             "En": "Hualien"
           },
-          "ArrivalTime": "07:42",
+          "ArrivalTime": "07:43",
           "DepartureTime": "07:53",
           "SuspendedFlag": 0
         },
@@ -262010,7 +262054,7 @@
             "En": "Tainan"
           },
           "ArrivalTime": "07:56",
-          "DepartureTime": "07:59",
+          "DepartureTime": "08:00",
           "SuspendedFlag": 0
         },
         {
@@ -262020,8 +262064,8 @@
             "Zh_tw": "大湖",
             "En": "Dahu"
           },
-          "ArrivalTime": "08:12",
-          "DepartureTime": "08:13",
+          "ArrivalTime": "08:13",
+          "DepartureTime": "08:14",
           "SuspendedFlag": 0
         },
         {
@@ -262031,8 +262075,8 @@
             "Zh_tw": "路竹",
             "En": "Luzhu"
           },
-          "ArrivalTime": "08:17",
-          "DepartureTime": "08:18",
+          "ArrivalTime": "08:18",
+          "DepartureTime": "08:19",
           "SuspendedFlag": 0
         },
         {
@@ -262042,8 +262086,8 @@
             "Zh_tw": "岡山",
             "En": "Gangshan"
           },
-          "ArrivalTime": "08:26",
-          "DepartureTime": "08:28",
+          "ArrivalTime": "08:27",
+          "DepartureTime": "08:29",
           "SuspendedFlag": 0
         },
         {
@@ -263966,6 +264010,170 @@
           },
           "ArrivalTime": "22:59",
           "DepartureTime": "22:59",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6676",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往池上",
+        "StartingStationID": "7000",
+        "StartingStationName": {
+          "Zh_tw": "花蓮",
+          "En": "Hualien"
+        },
+        "EndingStationID": "6070",
+        "EndingStationName": {
+          "Zh_tw": "池上",
+          "En": "Chishang"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "逢週四至日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "7000",
+          "StationName": {
+            "Zh_tw": "花蓮",
+            "En": "Hualien"
+          },
+          "ArrivalTime": "09:52",
+          "DepartureTime": "09:52",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "6220",
+          "StationName": {
+            "Zh_tw": "壽豐",
+            "En": "Shoufeng"
+          },
+          "ArrivalTime": "10:08",
+          "DepartureTime": "10:28",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "6110",
+          "StationName": {
+            "Zh_tw": "玉里",
+            "En": "Yuli"
+          },
+          "ArrivalTime": "11:51",
+          "DepartureTime": "12:53",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "6070",
+          "StationName": {
+            "Zh_tw": "池上",
+            "En": "Chishang"
+          },
+          "ArrivalTime": "13:22",
+          "DepartureTime": "13:22",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6677",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往花蓮",
+        "StartingStationID": "6070",
+        "StartingStationName": {
+          "Zh_tw": "池上",
+          "En": "Chishang"
+        },
+        "EndingStationID": "7000",
+        "EndingStationName": {
+          "Zh_tw": "花蓮",
+          "En": "Hualien"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "Note": "逢週四至日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "6070",
+          "StationName": {
+            "Zh_tw": "池上",
+            "En": "Chishang"
+          },
+          "ArrivalTime": "14:34",
+          "DepartureTime": "14:34",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "6100",
+          "StationName": {
+            "Zh_tw": "東里",
+            "En": "Dongli"
+          },
+          "ArrivalTime": "14:49",
+          "DepartureTime": "15:11",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "6180",
+          "StationName": {
+            "Zh_tw": "鳳林",
+            "En": "Fenglin"
+          },
+          "ArrivalTime": "16:10",
+          "DepartureTime": "17:10",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "7000",
+          "StationName": {
+            "Zh_tw": "花蓮",
+            "En": "Hualien"
+          },
+          "ArrivalTime": "17:54",
+          "DepartureTime": "17:54",
           "SuspendedFlag": 0
         }
       ]
