@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-05-12T06:28:52+08:00",
+  "UpdateTime": "2026-05-13T07:29:29+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-05-11T19:12:50+08:00",
+  "SrcUpdateTime": "2026-05-12T12:41:19+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-06-20",
   "TrainTimetables": [
@@ -51125,21 +51125,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
@@ -58301,7 +58301,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。"
+        "Note": "每日行駛。※配合「2026福隆國際沙雕藝術季」活動，本次車於6月19-21、27-28日(共5天)增停【福隆站】。"
       },
       "StopTimes": [
         {
@@ -58559,6 +58559,17 @@
         },
         {
           "StopSequence": 24,
+          "StationID": "7290",
+          "StationName": {
+            "Zh_tw": "福隆",
+            "En": "Fulong"
+          },
+          "ArrivalTime": "10:57",
+          "DepartureTime": "10:58",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 25,
           "StationID": "7190",
           "StationName": {
             "Zh_tw": "宜蘭",
@@ -58569,7 +58580,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 25,
+          "StopSequence": 26,
           "StationID": "7160",
           "StationName": {
             "Zh_tw": "羅東",
@@ -58580,7 +58591,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 26,
+          "StopSequence": 27,
           "StationID": "7090",
           "StationName": {
             "Zh_tw": "南澳",
@@ -58591,7 +58602,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 27,
+          "StopSequence": 28,
           "StationID": "7000",
           "StationName": {
             "Zh_tw": "花蓮",
@@ -68825,7 +68836,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。在新左營跨日。"
+        "Note": "每日行駛。在新左營跨日。※配合「2026福隆國際沙雕藝術季」活動，本次車於6月19-21、27-28日(共5天)增停【福隆站】。"
       },
       "StopTimes": [
         {
@@ -68918,6 +68929,17 @@
         },
         {
           "StopSequence": 9,
+          "StationID": "7290",
+          "StationName": {
+            "Zh_tw": "福隆",
+            "En": "Fulong"
+          },
+          "ArrivalTime": "18:23",
+          "DepartureTime": "18:24",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 10,
           "StationID": "7360",
           "StationName": {
             "Zh_tw": "瑞芳",
@@ -68928,7 +68950,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 10,
+          "StopSequence": 11,
           "StationID": "0930",
           "StationName": {
             "Zh_tw": "七堵",
@@ -68939,7 +68961,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 11,
+          "StopSequence": 12,
           "StationID": "0990",
           "StationName": {
             "Zh_tw": "松山",
@@ -68950,7 +68972,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 12,
+          "StopSequence": 13,
           "StationID": "1000",
           "StationName": {
             "Zh_tw": "臺北",
@@ -68961,7 +68983,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 13,
+          "StopSequence": 14,
           "StationID": "1020",
           "StationName": {
             "Zh_tw": "板橋",
@@ -68972,7 +68994,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 14,
+          "StopSequence": 15,
           "StationID": "1080",
           "StationName": {
             "Zh_tw": "桃園",
@@ -68983,7 +69005,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 15,
+          "StopSequence": 16,
           "StationID": "1100",
           "StationName": {
             "Zh_tw": "中壢",
@@ -68994,7 +69016,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 16,
+          "StopSequence": 17,
           "StationID": "1210",
           "StationName": {
             "Zh_tw": "新竹",
@@ -69005,7 +69027,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 17,
+          "StopSequence": 18,
           "StationID": "3160",
           "StationName": {
             "Zh_tw": "苗栗",
@@ -69016,7 +69038,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 18,
+          "StopSequence": 19,
           "StationID": "3230",
           "StationName": {
             "Zh_tw": "豐原",
@@ -69027,7 +69049,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 19,
+          "StopSequence": 20,
           "StationID": "3300",
           "StationName": {
             "Zh_tw": "臺中",
@@ -69038,7 +69060,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 20,
+          "StopSequence": 21,
           "StationID": "3360",
           "StationName": {
             "Zh_tw": "彰化",
@@ -69049,7 +69071,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 21,
+          "StopSequence": 22,
           "StationID": "3390",
           "StationName": {
             "Zh_tw": "員林",
@@ -69060,7 +69082,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 22,
+          "StopSequence": 23,
           "StationID": "3420",
           "StationName": {
             "Zh_tw": "田中",
@@ -69071,7 +69093,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 23,
+          "StopSequence": 24,
           "StationID": "3470",
           "StationName": {
             "Zh_tw": "斗六",
@@ -69082,7 +69104,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 24,
+          "StopSequence": 25,
           "StationID": "4080",
           "StationName": {
             "Zh_tw": "嘉義",
@@ -69093,7 +69115,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 25,
+          "StopSequence": 26,
           "StationID": "4120",
           "StationName": {
             "Zh_tw": "新營",
@@ -69104,7 +69126,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 26,
+          "StopSequence": 27,
           "StationID": "4220",
           "StationName": {
             "Zh_tw": "臺南",
@@ -69115,7 +69137,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 27,
+          "StopSequence": 28,
           "StationID": "4340",
           "StationName": {
             "Zh_tw": "新左營",
@@ -69126,7 +69148,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 28,
+          "StopSequence": 29,
           "StationID": "4400",
           "StationName": {
             "Zh_tw": "高雄",
@@ -69137,7 +69159,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 29,
+          "StopSequence": 30,
           "StationID": "4440",
           "StationName": {
             "Zh_tw": "鳳山",
@@ -69148,7 +69170,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 30,
+          "StopSequence": 31,
           "StationID": "5000",
           "StationName": {
             "Zh_tw": "屏東",
@@ -141009,21 +141031,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "6250"
-            },
-            "EndSection": {
-              "StartStationID": "6130",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "6250"
+            },
+            "EndSection": {
+              "StartStationID": "6130",
               "EndStationID": "4340"
             }
           }

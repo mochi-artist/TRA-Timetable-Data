@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-05-12T06:28:52+08:00",
+  "UpdateTime": "2026-05-13T07:29:29+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-05-11T18:19:27+08:00",
+  "SrcUpdateTime": "2026-05-12T20:25:56+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-05-19",
   "TrainTimetables": [
@@ -20581,21 +20581,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0900",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "1210",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1080",
               "EndStationID": "3360"
             },
             "EndSection": {
               "StartStationID": "4340",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0900",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "1210",
               "EndStationID": "5050"
             }
           }
@@ -50658,21 +50658,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0930",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "3300",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1210",
               "EndStationID": "3300"
             },
             "EndSection": {
               "StartStationID": "4220",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
               "EndStationID": "5050"
             }
           }
@@ -197453,7 +197453,7 @@
         "BreastFeedFlag": 0,
         "BikeFlag": 1,
         "CarFlag": 0,
-        "DailyFlag": 1,
+        "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "Note": "每日行駛。"
@@ -236025,21 +236025,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "0920"
             },
             "EndSection": {
               "StartStationID": "7190",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
