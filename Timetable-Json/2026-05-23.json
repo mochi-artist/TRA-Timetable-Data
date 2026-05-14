@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-05-13T07:29:29+08:00",
+  "UpdateTime": "2026-05-14T08:30:40+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-05-12T20:25:56+08:00",
+  "SrcUpdateTime": "2026-05-13T13:42:04+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-05-23",
   "TrainTimetables": [
@@ -197645,7 +197645,7 @@
         "BreastFeedFlag": 0,
         "BikeFlag": 1,
         "CarFlag": 0,
-        "DailyFlag": 0,
+        "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "Note": "每日行駛。"
