@@ -11,6 +11,10 @@ on:
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
+# 僅新增這段：賦予機器人寫入倉儲的權限
+permissions:
+  contents: write
+
 jobs:
   rescue:
     runs-on: ubuntu-latest
