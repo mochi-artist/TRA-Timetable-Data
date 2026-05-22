@@ -1,0 +1,93 @@
+name: 搶救空班表行動
+
+on:
+  workflow_dispatch:
+    inputs:
+      auto_commit:
+        description: '是否要自動 Commit 並 Push 恢復的檔案？(填 true 或 false)'
+        required: true
+        default: 'false'
+
+jobs:
+  rescue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 取得倉儲程式碼 (包含完整歷史紀錄)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 必須設定為 0，才能抓到所有歷史 Commit 來退版本
+
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 執行自動掃描與恢復腳本
+        run: |
+          cat << 'EOF' > rescue.py
+          import os, json, subprocess, glob
+
+          files = glob.glob("Timetable-Json/*.json")
+          recovered_count = 0
+          
+          summary_path = os.environ.get('GITHUB_STEP_SUMMARY', 'summary.txt')
+          
+          with open(summary_path, 'a', encoding='utf-8') as summary:
+              summary.write("### 🚨 班表檔案掃描與恢復報告\n\n")
+              
+              for f in files:
+                  try:
+                      with open(f, 'r', encoding='utf-8') as file:
+                          data = json.load(file)
+                      
+                      # 判斷是否為空陣列
+                      if "TrainTimetables" in data and not data["TrainTimetables"]:
+                          print(f"發現異常檔案: {f}")
+                          
+                          # 找出該檔案的所有 commit 歷史
+                          commits = subprocess.check_output(['git', 'log', '--format=%H', f]).decode().splitlines()
+                          
+                          restored = False
+                          for commit in commits:
+                              # 讀取特定 commit 中的檔案內容來檢查
+                              try:
+                                  content = subprocess.check_output(['git', 'show', f'{commit}:{f}']).decode()
+                                  old_data = json.loads(content)
+                                  if "TrainTimetables" in old_data and old_data["TrainTimetables"]:
+                                      print(f"  -> 找到正常版本 {commit[:7]}，執行恢復...")
+                                      # 將檔案退回這個正常的 commit 版本
+                                      subprocess.run(['git', 'checkout', commit, '--', f], check=True)
+                                      summary.write(f"- ✅ `{f}` 已恢復至版本 `{commit[:7]}`\n")
+                                      restored = True
+                                      recovered_count += 1
+                                      break
+                              except Exception:
+                                  continue
+                                  
+                          if not restored:
+                              summary.write(f"- ❌ `{f}` 找不到正常的歷史版本，可能一開始就是空的\n")
+                  except Exception as e:
+                      print(f"讀取 {f} 發生錯誤: {e}")
+              
+              if recovered_count == 0:
+                  summary.write("沒有發現需要恢復的檔案，大家都很健康！\n")
+              else:
+                  summary.write(f"\n**總共成功把 {recovered_count} 個檔案搭乘時光機救回來了！**\n")
+          EOF
+          python rescue.py
+
+      - name: Commit & Push 修復結果
+        if: ${{ github.event.inputs.auto_commit == 'true' }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Timetable-Json/
+          
+          # 檢查是否有變動，有變動才 Commit
+          if git diff --staged --quiet; then
+            echo "沒有變動需要上傳。"
+          else
+            git commit -m "fix: 自動恢復來源端壞掉變成空陣列的班表檔案"
+            git push
+            echo "已經成功將修復的檔案推送到倉儲！"
+          fi
