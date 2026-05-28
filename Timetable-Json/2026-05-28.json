@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-05-26T07:59:04+08:00",
+  "UpdateTime": "2026-05-28T08:01:40+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-05-25T11:39:35+08:00",
+  "SrcUpdateTime": "2026-05-27T18:46:47+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-05-28",
   "TrainTimetables": [
@@ -938,10 +938,10 @@
         "TrainNo": "102",
         "RouteID": "",
         "Direction": 0,
-        "TrainTypeID": "110A",
+        "TrainTypeID": "1108",
         "TrainTypeCode": "3",
         "TrainTypeName": {
-          "Zh_tw": "自強(推拉式自強號且有自行車車廂)",
+          "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
           "En": "Tze-Chiang Limited Express"
         },
         "TripHeadSign": "往七堵",
@@ -961,12 +961,12 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。"
+        "Note": "每日行駛。本日臨時取消兩鐵運送服務"
       },
       "StopTimes": [
         {
@@ -3129,10 +3129,10 @@
         "TrainNo": "109",
         "RouteID": "",
         "Direction": 1,
-        "TrainTypeID": "110A",
+        "TrainTypeID": "1108",
         "TrainTypeCode": "3",
         "TrainTypeName": {
-          "Zh_tw": "自強(推拉式自強號且有自行車車廂)",
+          "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
           "En": "Tze-Chiang Limited Express"
         },
         "TripHeadSign": "往屏東",
@@ -3152,12 +3152,12 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
-        "Note": "每日行駛。"
+        "Note": "每日行駛。本日臨時取消兩鐵運送服務"
       },
       "StopTimes": [
         {
@@ -20581,21 +20581,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1080",
-              "EndStationID": "3360"
-            },
-            "EndSection": {
-              "StartStationID": "4340",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0900",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "1210",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1080",
+              "EndStationID": "3360"
+            },
+            "EndSection": {
+              "StartStationID": "4340",
               "EndStationID": "5050"
             }
           }
@@ -50658,21 +50658,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
@@ -140817,21 +140817,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "6250"
             },
             "EndSection": {
               "StartStationID": "6130",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -236025,21 +236025,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "0920"
-            },
-            "EndSection": {
-              "StartStationID": "7190",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0920"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
               "EndStationID": "4340"
             }
           }
