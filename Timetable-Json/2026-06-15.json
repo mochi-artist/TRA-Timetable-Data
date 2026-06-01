@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-05-29T13:11:40+08:00",
+  "UpdateTime": "2026-05-31T06:51:38+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-05-15T22:04:04+08:00",
+  "SrcUpdateTime": "2026-05-30T21:24:23+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-06-15",
   "TrainTimetables": [
@@ -38,6 +38,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 4,
         "Note": "逢週一、五至日行駛。環島之星觀光列車由易遊網公司承包，需搭配套裝行程，不單售車票-聯絡專線：(02)412-8001"
       },
       "StopTimes": [
@@ -340,6 +341,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -862,6 +864,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -1021,6 +1024,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -1268,6 +1272,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -1493,6 +1498,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -1817,6 +1823,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -2394,6 +2401,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在南港跨日。"
       },
       "StopTimes": [
@@ -2597,6 +2605,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -2976,6 +2985,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 西線普悠瑪不發售團體票。"
       },
       "StopTimes": [
@@ -3124,6 +3134,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -3459,6 +3470,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -3750,6 +3762,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -3931,6 +3944,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -4013,6 +4027,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -4194,6 +4209,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -4397,6 +4413,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -4831,6 +4848,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -4913,6 +4931,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -5161,6 +5180,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -5342,6 +5362,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -5479,6 +5500,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -5869,6 +5891,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -6336,6 +6359,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第12車為親子車廂，不發售無座票，非持親子車廂車票旅客，或不符合親子、孕婦身分旅客請勿進入搭乘。乘車時須配合證件正本(如媽媽手冊、可證明孩童年紀等證件)查驗。"
       },
       "StopTimes": [
@@ -6682,6 +6706,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -7017,6 +7042,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -7407,6 +7433,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -7797,6 +7824,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -8187,6 +8215,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -8522,6 +8551,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -8956,6 +8986,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -9423,6 +9454,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -9758,6 +9790,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -9972,6 +10005,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -10285,6 +10319,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -10675,6 +10710,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -11065,6 +11101,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -11455,6 +11492,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -11790,6 +11828,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -12136,6 +12175,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -12603,6 +12643,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -13103,6 +13144,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -13416,6 +13458,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -13586,6 +13629,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -13976,6 +14020,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -14366,6 +14411,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -14701,6 +14747,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -15168,6 +15215,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -15635,6 +15683,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第12車為親子車廂，不發售無座票，非持親子車廂車票旅客，或不符合親子、孕婦身分旅客請勿進入搭乘。乘車時須配合證件正本(如媽媽手冊、可證明孩童年紀等證件)查驗。"
       },
       "StopTimes": [
@@ -16003,6 +16052,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -16393,6 +16443,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -16827,6 +16878,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -17173,6 +17225,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -17640,6 +17693,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -18118,6 +18172,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第9~11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -18431,6 +18486,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -18667,6 +18723,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -19057,6 +19114,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -19447,6 +19505,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -19782,6 +19841,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -19952,6 +20012,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -20419,6 +20480,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -20883,21 +20945,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0900",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "1210",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1080",
               "EndStationID": "3360"
             },
             "EndSection": {
               "StartStationID": "4340",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0900",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "1210",
               "EndStationID": "5050"
             }
           }
@@ -20908,6 +20970,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、9-11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。  第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -21265,6 +21328,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -21435,6 +21499,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -21836,6 +21901,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -22226,6 +22292,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -22561,6 +22628,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -23028,6 +23096,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -23495,6 +23564,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -23808,6 +23878,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -24198,6 +24269,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -24588,6 +24660,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -24934,6 +25007,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -25401,6 +25475,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -25868,6 +25943,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -26258,6 +26334,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -26648,6 +26725,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -26994,6 +27072,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -27461,6 +27540,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -27928,6 +28008,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、9-11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -28263,6 +28344,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -28653,6 +28735,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -29043,6 +29126,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -29378,6 +29462,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -29845,6 +29930,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -30312,6 +30398,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第12車為親子車廂，不發售無座票，非持親子車廂車票旅客，或不符合親子、孕婦身分旅客請勿進入搭乘。乘車時須配合證件正本(如媽媽手冊、可證明孩童年紀等證件)查驗。"
       },
       "StopTimes": [
@@ -30614,6 +30701,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -31015,6 +31103,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -31405,6 +31494,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -31740,6 +31830,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -32207,6 +32298,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -32674,6 +32766,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第12車為親子車廂，不發售無座票，非持親子車廂車票旅客，或不符合親子、孕婦身分旅客請勿進入搭乘。乘車時須配合證件正本(如媽媽手冊、可證明孩童年紀等證件)查驗。"
       },
       "StopTimes": [
@@ -33020,6 +33113,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -33355,6 +33449,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -33745,6 +33840,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -34146,6 +34242,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -34349,6 +34446,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -34816,6 +34914,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -35283,6 +35382,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -35607,6 +35707,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -35964,6 +36065,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -36354,6 +36456,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -36744,6 +36847,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -37134,6 +37238,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -37601,6 +37706,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -38068,6 +38174,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -38370,6 +38477,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 西線普悠瑪不發售團體票。"
       },
       "StopTimes": [
@@ -38518,6 +38626,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -38908,6 +39017,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -39298,6 +39408,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -39644,6 +39755,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -40111,6 +40223,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -40578,6 +40691,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -40891,6 +41005,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -41325,6 +41440,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -41715,6 +41831,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -42050,6 +42167,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -42550,6 +42668,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -43017,6 +43136,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -43308,6 +43428,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -43698,6 +43819,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -44088,6 +44210,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -44269,6 +44392,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -44736,6 +44860,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -45203,6 +45328,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、第9節為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -45329,6 +45455,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -45719,6 +45846,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -46109,6 +46237,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -46499,6 +46628,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -46834,6 +46964,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -47037,6 +47168,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -47504,6 +47636,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -47839,6 +47972,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -48141,6 +48275,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在新豐跨日。"
       },
       "StopTimes": [
@@ -48531,6 +48666,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -48833,6 +48969,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在中壢跨日。"
       },
       "StopTimes": [
@@ -49135,6 +49272,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在鳳鳴跨日。"
       },
       "StopTimes": [
@@ -49415,6 +49553,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在汐科跨日。"
       },
       "StopTimes": [
@@ -49882,6 +50021,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在板橋跨日。"
       },
       "StopTimes": [
@@ -50085,6 +50225,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第12車為親子車廂，不發售無座票，非持親子車廂車票旅客，或不符合親子、孕婦身分旅客請勿進入搭乘。乘車時須配合證件正本(如媽媽手冊、可證明孩童年紀等證件)查驗。"
       },
       "StopTimes": [
@@ -50387,6 +50528,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -50469,6 +50611,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -50727,6 +50870,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週日停駛。"
       },
       "StopTimes": [
@@ -50960,21 +51104,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
@@ -50985,6 +51129,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。  第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -51178,6 +51323,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -51370,6 +51516,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第9~11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -51716,6 +51863,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -52073,6 +52221,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -52375,6 +52524,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 西線普悠瑪不發售團體票。"
       },
       "StopTimes": [
@@ -52534,6 +52684,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 西線普悠瑪不發售團體票。"
       },
       "StopTimes": [
@@ -52693,6 +52844,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第12車為親子車廂，不發售無座票，非持親子車廂車票旅客，或不符合親子、孕婦身分旅客請勿進入搭乘。乘車時須配合證件正本(如媽媽手冊、可證明孩童年紀等證件)查驗。"
       },
       "StopTimes": [
@@ -52984,6 +53136,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -53286,6 +53439,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -53588,6 +53742,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -53924,6 +54079,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -54127,6 +54283,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第12車為親子車廂，不發售無座票，非持親子車廂車票旅客，或不符合親子、孕婦身分旅客請勿進入搭乘。乘車時須配合證件正本(如媽媽手冊、可證明孩童年紀等證件)查驗。"
       },
       "StopTimes": [
@@ -54473,6 +54630,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第9~11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -54831,6 +54989,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、9-11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -55166,6 +55325,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、第9節為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -55292,6 +55452,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在鳳山跨日。"
       },
       "StopTimes": [
@@ -55627,6 +55788,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -55951,6 +56113,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在臺北跨日。"
       },
       "StopTimes": [
@@ -56264,6 +56427,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。  第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -56423,6 +56587,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -56604,6 +56769,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -56763,6 +56929,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -56944,6 +57111,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -57224,6 +57392,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -57449,6 +57618,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -57631,6 +57801,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -57922,6 +58093,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -58257,6 +58429,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -58361,6 +58534,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -58465,6 +58639,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -58569,6 +58744,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -58673,6 +58849,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -58777,6 +58954,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -58881,6 +59059,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -58985,6 +59164,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -59089,6 +59269,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -59193,6 +59374,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -59297,6 +59479,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -59401,6 +59584,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -59505,6 +59689,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -59609,6 +59794,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -59713,6 +59899,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -59817,6 +60004,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -59921,6 +60109,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第12車為親子車廂，不發售無座票，非持親子車廂車票旅客，或不符合親子、孕婦身分旅客請勿進入搭乘。乘車時須配合證件正本(如媽媽手冊、可證明孩童年紀等證件)查驗。"
       },
       "StopTimes": [
@@ -60355,6 +60544,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -60459,6 +60649,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -60563,6 +60754,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -60667,6 +60859,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -60771,6 +60964,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -60875,6 +61069,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -60979,6 +61174,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -61083,6 +61279,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -61187,6 +61384,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -61291,6 +61489,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -61395,6 +61594,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -61499,6 +61699,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -61603,6 +61804,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -61707,6 +61909,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -61811,6 +62014,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -61915,6 +62119,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -62019,6 +62224,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -62123,6 +62329,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -62227,6 +62434,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -62331,6 +62539,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -62435,6 +62644,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -62539,6 +62749,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -62643,6 +62854,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -62747,6 +62959,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -62851,6 +63064,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -63285,6 +63499,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -63389,6 +63604,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -63493,6 +63709,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -63597,6 +63814,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -63701,6 +63919,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -63805,6 +64024,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -63909,6 +64129,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -64013,6 +64234,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -64117,6 +64339,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -64419,6 +64642,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -64523,6 +64747,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -64627,6 +64852,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -64731,6 +64957,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -64835,6 +65062,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -64939,6 +65167,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -65043,6 +65272,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -65147,6 +65377,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -65251,6 +65482,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -65674,6 +65906,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -65778,6 +66011,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -65882,6 +66116,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -65986,6 +66221,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -66090,6 +66326,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -66194,6 +66431,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -66298,6 +66536,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -66402,6 +66641,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -66506,6 +66746,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -66610,6 +66851,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -66714,6 +66956,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -66818,6 +67061,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -66922,6 +67166,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -67026,6 +67271,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -67130,6 +67376,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -67311,6 +67558,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -67492,6 +67740,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -67673,6 +67922,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -67854,6 +68104,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -67991,6 +68242,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -68172,6 +68424,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -68309,6 +68562,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -68446,6 +68700,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在新左營跨日。"
       },
       "StopTimes": [
@@ -68814,6 +69069,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -68951,6 +69207,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -69088,6 +69345,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -69225,6 +69483,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -69362,6 +69621,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -69499,6 +69759,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -69680,6 +69941,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -69817,6 +70079,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -69998,6 +70261,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -70135,6 +70399,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -70272,6 +70537,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -70409,6 +70675,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -70546,6 +70813,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -70683,6 +70951,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -70820,6 +71089,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -70957,6 +71227,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -71138,6 +71409,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -71275,6 +71547,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -71456,6 +71729,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -71593,6 +71867,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -71730,6 +72005,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -71867,6 +72143,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -72004,6 +72281,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -72185,6 +72463,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -72366,6 +72645,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -72547,6 +72827,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -72673,6 +72954,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -72854,6 +73136,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -73035,6 +73318,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -73216,6 +73500,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -73353,6 +73638,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -73479,6 +73765,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、第9節為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -73617,6 +73904,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、第9節為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -73743,6 +74031,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第6節為騰雲座艙、9-11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。  第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -73924,6 +74213,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 4,
         "Note": "逢週一、五至日行駛。環島之星觀光列車由易遊網公司承包，需搭配套裝行程，不單售車票-聯絡專線：(02)412-8001"
       },
       "StopTimes": [
@@ -74226,6 +74516,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -74385,6 +74676,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -74577,6 +74869,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -74923,6 +75216,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -75335,6 +75629,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -75703,6 +75998,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -76071,6 +76367,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -76175,6 +76472,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週一、六行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -76301,6 +76599,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -76416,6 +76715,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週日停駛。"
       },
       "StopTimes": [
@@ -76564,6 +76864,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -76756,6 +77057,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -76904,6 +77206,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -77250,6 +77553,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -77585,6 +77889,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -78008,6 +78313,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -78343,6 +78649,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -78535,6 +78842,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -78716,6 +79024,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -79227,6 +79536,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -79397,6 +79707,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -79963,6 +80274,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -80639,6 +80951,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -80831,6 +81144,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -80946,6 +81260,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第12車為親子車廂，不發售無座票，非持親子車廂車票旅客，或不符合親子、孕婦身分旅客請勿進入搭乘。乘車時須配合證件正本(如媽媽手冊、可證明孩童年紀等證件)查驗。"
       },
       "StopTimes": [
@@ -81138,6 +81453,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -81605,6 +81921,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -81808,6 +82125,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -82374,6 +82692,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -82940,6 +83259,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -83352,6 +83672,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -83544,6 +83865,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -84396,6 +84718,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -85248,6 +85571,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -85693,6 +86017,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -86259,6 +86584,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -86825,6 +87151,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -86940,6 +87267,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。柴聯自強號，逢週一至週四票價97折(例假日除外)"
       },
       "StopTimes": [
@@ -87121,6 +87449,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -87973,6 +88302,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -88825,6 +89155,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -89017,6 +89348,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -89583,6 +89915,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -89775,6 +90108,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -89901,6 +90235,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -90753,6 +91088,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -91616,6 +91952,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -91742,6 +92079,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -92242,6 +92580,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -92808,6 +93147,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -93000,6 +93340,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -93192,6 +93533,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -93384,6 +93726,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -94236,6 +94579,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -95088,6 +95432,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -95654,6 +95999,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -96220,6 +96566,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -97072,6 +97419,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -97924,6 +98272,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -98490,6 +98839,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -99056,6 +99406,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -99171,6 +99522,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -100023,6 +100375,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -100875,6 +101228,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週日停駛。"
       },
       "StopTimes": [
@@ -100990,6 +101344,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -101358,6 +101713,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -101583,6 +101939,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -102149,6 +102506,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -102715,6 +103073,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -102830,6 +103189,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -103682,6 +104042,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -104534,6 +104895,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -104913,6 +105275,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在民雄跨日。"
       },
       "StopTimes": [
@@ -105479,6 +105842,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -106045,6 +106409,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -106281,6 +106646,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在大村跨日。"
       },
       "StopTimes": [
@@ -106616,6 +106982,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -106852,6 +107219,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -107154,6 +107522,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。在彰化跨日。"
       },
       "StopTimes": [
@@ -107830,6 +108199,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -108396,6 +108766,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -108588,6 +108959,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -108813,6 +109185,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -108939,6 +109312,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -109109,6 +109483,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -109334,6 +109709,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次第12車為親子車廂，不發售無座票，非持親子車廂車票旅客，或不符合親子、孕婦身分旅客請勿進入搭乘。乘車時須配合證件正本(如媽媽手冊、可證明孩童年紀等證件)查驗。"
       },
       "StopTimes": [
@@ -109548,6 +109924,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。柴聯自強號，逢週一至週四票價97折(例假日除外)"
       },
       "StopTimes": [
@@ -109751,6 +110128,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -109877,6 +110255,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -110003,6 +110382,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -110206,6 +110586,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -110486,6 +110867,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -110821,6 +111203,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -111101,6 +111484,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -111381,6 +111765,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -111661,6 +112046,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -111941,6 +112327,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -112221,6 +112608,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -112545,6 +112933,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -112891,6 +113280,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -113083,6 +113473,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -113363,6 +113754,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -113698,6 +114090,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -113978,6 +114371,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -114214,6 +114608,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -114450,6 +114845,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -114686,6 +115082,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -114922,6 +115319,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -115158,6 +115556,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -115394,6 +115793,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -115674,6 +116074,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -116009,6 +116410,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -116344,6 +116746,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -116580,6 +116983,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -116816,6 +117220,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -117118,6 +117523,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -117420,6 +117826,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -117755,6 +118162,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -118035,6 +118443,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -118337,6 +118746,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -118617,6 +119027,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -118897,6 +119308,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週五至日停駛。"
       },
       "StopTimes": [
@@ -119177,6 +119589,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -119457,6 +119870,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -119759,6 +120173,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -120039,6 +120454,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -120319,6 +120735,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在花蓮跨日。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -120467,6 +120884,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -120725,6 +121143,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -121005,6 +121424,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -121131,6 +121551,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -121312,6 +121733,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -121570,6 +121992,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -121938,6 +122361,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -122196,6 +122620,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -122487,6 +122912,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -122701,6 +123127,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -122992,6 +123419,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -123283,6 +123711,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -123464,6 +123893,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -123722,6 +124152,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -124090,6 +124521,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -124348,6 +124780,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -124639,6 +125072,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -124930,6 +125364,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -125221,6 +125656,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -125512,6 +125948,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -125693,6 +126130,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -126017,6 +126455,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -126275,6 +126714,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -126632,6 +127072,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -126923,6 +127364,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -127214,6 +127656,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -127472,6 +127915,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -127763,6 +128207,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -127977,6 +128422,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -128158,6 +128604,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -128449,6 +128896,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -128674,6 +129122,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -128811,6 +129260,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -128959,6 +129409,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -129074,6 +129525,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -129189,6 +129641,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -129304,6 +129757,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -129452,6 +129906,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -129567,6 +130022,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -129759,6 +130215,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -129874,6 +130331,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -129989,6 +130447,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -130104,6 +130563,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -130219,6 +130679,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -130334,6 +130795,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -130449,6 +130911,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -130564,6 +131027,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -130679,6 +131143,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -131003,6 +131468,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -131118,6 +131584,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -131233,6 +131700,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -131348,6 +131816,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -131463,6 +131932,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -131578,6 +132048,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -131693,6 +132164,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -131808,6 +132280,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
       },
       "StopTimes": [
@@ -131956,6 +132429,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -132104,6 +132578,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -132351,6 +132826,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -132543,6 +133019,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -132691,6 +133168,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -132927,6 +133405,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。  第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -133174,6 +133653,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -133366,6 +133846,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -133569,6 +134050,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -133816,6 +134298,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -134206,6 +134689,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -134398,6 +134882,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本局公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -134601,6 +135086,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -134969,6 +135455,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -135194,6 +135681,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -135419,6 +135907,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -135765,6 +136254,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -136188,6 +136678,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -136545,6 +137036,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -136770,6 +137262,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -136951,6 +137444,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -137330,6 +137824,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -137599,6 +138094,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -137813,6 +138309,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -138005,6 +138502,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -138197,6 +138695,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -138389,6 +138888,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -138581,6 +139081,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -138773,6 +139274,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -138965,6 +139467,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -139278,6 +139781,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -139558,6 +140062,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -139750,6 +140255,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -139942,6 +140448,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -140134,6 +140641,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -140326,6 +140834,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -140606,6 +141115,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -140798,6 +141308,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -140990,6 +141501,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -141270,6 +141782,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -141572,6 +142085,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -141885,6 +142399,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -142077,6 +142592,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -142357,6 +142873,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -142549,6 +143066,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -142906,6 +143424,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -143109,6 +143628,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -143576,6 +144096,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -144274,6 +144795,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -144785,6 +145307,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -145241,6 +145764,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -145752,6 +146276,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -146593,6 +147118,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本局公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -146807,6 +147333,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -147417,6 +147944,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -148445,6 +148973,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -149132,6 +149661,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -149973,6 +150503,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -150110,6 +150641,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -150368,6 +150900,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -150912,6 +151445,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -151423,6 +151957,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -151648,6 +152183,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -151851,6 +152387,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -152692,6 +153229,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六停駛。"
       },
       "StopTimes": [
@@ -153533,6 +154071,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -154044,6 +154583,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -154555,6 +155095,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -155528,6 +156069,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -156369,6 +156911,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -156880,6 +157423,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -157391,6 +157935,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -157649,6 +158194,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -158490,6 +159036,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -159343,6 +159890,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -159645,6 +160193,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -160156,6 +160705,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -160667,6 +161217,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -161541,6 +162092,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -162382,6 +162934,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -162585,6 +163138,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -163096,6 +163650,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -163959,6 +164514,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -164800,6 +165356,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -165311,6 +165868,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -165888,6 +166446,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -166729,6 +167288,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -167570,6 +168130,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -168081,6 +168642,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -168592,6 +169154,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -169378,6 +169941,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -170219,6 +170783,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -170730,6 +171295,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -171241,6 +171807,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -172082,6 +172649,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -172923,6 +173491,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -173434,6 +174003,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -173945,6 +174515,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -174786,6 +175357,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -175627,6 +176199,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -175830,6 +176403,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本局公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -176132,6 +176706,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -176709,6 +177284,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -177220,6 +177796,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -178061,6 +178638,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -178914,6 +179492,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -179084,6 +179663,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -179595,6 +180175,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -180128,6 +180709,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -180969,6 +181551,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -181887,6 +182470,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -182145,6 +182729,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -182656,6 +183241,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在竹南跨日。"
       },
       "StopTimes": [
@@ -183629,6 +184215,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -184470,6 +185057,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -185080,6 +185668,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -185591,6 +186180,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在后里跨日。"
       },
       "StopTimes": [
@@ -186432,6 +187022,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -186789,6 +187380,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -187630,6 +188222,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -188317,6 +188910,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -188487,6 +189081,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在屏東跨日。"
       },
       "StopTimes": [
@@ -189020,6 +189615,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -189597,6 +190193,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -190438,6 +191035,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -190949,6 +191547,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在竹田跨日。"
       },
       "StopTimes": [
@@ -191361,6 +191960,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -191828,6 +192428,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在高雄跨日。"
       },
       "StopTimes": [
@@ -192614,6 +193215,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -193026,6 +193628,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -193229,6 +193832,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -193586,6 +194190,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -193943,6 +194548,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -194476,6 +195082,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -194602,6 +195209,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -194739,6 +195347,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -195074,6 +195683,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -195420,6 +196030,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -195755,6 +196366,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -195881,6 +196493,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -196216,6 +196829,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -196342,6 +196956,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -196677,6 +197292,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -196803,6 +197419,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -197138,6 +197755,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -197473,6 +198091,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -197808,6 +198427,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -197934,6 +198554,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -198060,6 +198681,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -198186,6 +198808,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -198521,6 +199144,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -198625,6 +199249,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -198729,6 +199354,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -198833,6 +199459,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -198992,6 +199619,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -199250,6 +199878,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -199409,6 +200038,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -199513,6 +200143,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -199672,6 +200303,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -199930,6 +200562,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本局公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -200188,6 +200821,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -200347,6 +200981,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -200506,6 +201141,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -200665,6 +201301,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -200769,6 +201406,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -200928,6 +201566,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -201087,6 +201726,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -201191,6 +201831,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -201307,6 +201948,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -201532,6 +202174,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -201691,6 +202334,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -201817,6 +202461,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -201921,6 +202566,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -202047,6 +202693,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -202206,6 +202853,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -202365,6 +203013,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -202469,6 +203118,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -202573,6 +203223,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -202699,6 +203350,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -202803,6 +203455,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -202907,6 +203560,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -203066,6 +203720,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -203225,6 +203880,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -203329,6 +203985,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -203433,6 +204090,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -203559,6 +204217,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -203663,6 +204322,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -203822,6 +204482,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -203981,6 +204642,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -204085,6 +204747,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -204211,6 +204874,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -204337,6 +205001,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -204441,6 +205106,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -204600,6 +205266,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -204759,6 +205426,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -204885,6 +205553,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -205011,6 +205680,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -205170,6 +205840,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -205296,6 +205967,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -205400,6 +206072,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -205559,6 +206232,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -205685,6 +206359,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -205844,6 +206519,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -205948,6 +206624,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -206052,6 +206729,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -206211,6 +206889,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -206337,6 +207016,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -206441,6 +207121,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -206545,6 +207226,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -206704,6 +207386,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -206863,6 +207546,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -206967,6 +207651,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -207071,6 +207756,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -207175,6 +207861,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -207279,6 +207966,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -207438,6 +208126,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -207597,6 +208286,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -207701,6 +208391,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -207805,6 +208496,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -208063,6 +208755,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -208167,6 +208860,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -208271,6 +208965,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在臺南跨日。"
       },
       "StopTimes": [
@@ -208375,6 +209070,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -208479,6 +209175,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本局公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -208749,6 +209446,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -208985,6 +209683,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -209089,6 +209788,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -209193,6 +209893,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -209451,6 +210152,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日停駛。"
       },
       "StopTimes": [
@@ -209698,6 +210400,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -209967,6 +210670,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -210115,6 +210819,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -210472,6 +211177,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -210620,6 +211326,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -210768,6 +211475,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -211037,6 +211745,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -211218,6 +211927,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -211421,6 +212131,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -211547,6 +212258,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -211827,6 +212539,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -212107,6 +212820,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -212409,6 +213123,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -212480,6 +213195,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -212771,6 +213487,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -212930,6 +213647,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週五、六停駛。"
       },
       "StopTimes": [
@@ -213276,6 +213994,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在松山跨日。"
       },
       "StopTimes": [
@@ -213512,6 +214231,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -213583,6 +214303,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -213753,6 +214474,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -213879,6 +214601,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -214038,6 +214761,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -214461,6 +215185,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -214741,6 +215466,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -215010,6 +215736,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -215268,6 +215995,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -215395,6 +216123,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -215587,6 +216316,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -215823,6 +216553,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -216345,6 +217076,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -216504,6 +217236,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -216939,6 +217672,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -217296,6 +218030,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -217774,6 +218509,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -218109,6 +218845,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -218565,6 +219302,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -218801,6 +219539,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -219081,6 +219820,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -219416,6 +220156,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -219630,6 +220371,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -219745,6 +220487,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -220201,6 +220944,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -220481,6 +221225,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -220772,6 +221517,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -221228,6 +221974,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -221387,6 +222134,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -221601,6 +222349,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -221837,6 +222586,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -222117,6 +222867,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -222573,6 +223324,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -223106,6 +223858,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -223265,6 +224018,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -223479,6 +224233,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -223715,6 +224470,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -224260,6 +225016,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -224540,6 +225297,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -224996,6 +225754,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -225375,6 +226134,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -225721,6 +226481,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -226012,6 +226773,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -226248,6 +227010,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -226704,6 +227467,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -226896,6 +227660,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -227352,6 +228117,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -227808,6 +228574,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -228264,6 +229031,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -228841,6 +229609,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -229297,6 +230066,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週一、六、日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -229456,6 +230226,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -229912,6 +230683,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -230500,6 +231272,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -230736,6 +231509,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -231016,6 +231790,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -231484,6 +232259,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。  第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -231709,6 +232485,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -232220,6 +232997,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -232676,6 +233454,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -232835,6 +233614,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -233291,6 +234071,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -233759,6 +234540,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。  第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -233984,6 +234766,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -234220,6 +235003,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -234456,6 +235240,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -234912,6 +235697,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -235336,6 +236122,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -235451,6 +236238,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -235907,6 +236695,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -236066,6 +236855,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -236280,6 +237070,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -236758,6 +237549,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -236914,21 +237706,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "0920"
             },
             "EndSection": {
               "StartStationID": "7190",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
@@ -236939,6 +237731,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -237241,6 +238034,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -237829,6 +238623,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -237988,6 +238783,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -238378,6 +239174,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -238790,6 +239587,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -239026,6 +239824,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -239262,6 +240061,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -239433,6 +240233,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -239801,6 +240602,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -240389,6 +241191,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -240669,6 +241472,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -241224,6 +242028,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -241438,6 +242243,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -241597,6 +242403,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -241657,6 +242464,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。柴聯自強號，逢週一至週四票價97折(例假日除外)"
       },
       "StopTimes": [
@@ -241915,6 +242723,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -242448,6 +243257,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -242926,6 +243736,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -243261,6 +244072,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -243717,6 +244529,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -243953,6 +244766,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -244343,6 +245157,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -244755,6 +245570,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -244926,6 +245742,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -245052,6 +245869,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -245453,6 +246271,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -245811,6 +246630,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -246157,6 +246977,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -246503,6 +247324,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -246696,6 +247518,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -246932,6 +247755,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -247070,6 +247894,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -247339,6 +248164,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -247509,6 +248335,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在松山跨日。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。  第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -247723,6 +248550,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在臺東跨日。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
@@ -247959,6 +248787,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。柴聯自強號，逢週一至週四票價97折(例假日除外)"
       },
       "StopTimes": [
@@ -248206,6 +249035,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -248354,6 +249184,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -248458,6 +249289,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -248628,6 +249460,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -248798,6 +249631,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -248924,6 +249758,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -249193,6 +250028,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -249396,6 +250232,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -249918,6 +250755,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -250253,6 +251091,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -250379,6 +251218,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -250714,6 +251554,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -250928,6 +251769,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -251263,6 +252105,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -251598,6 +252441,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週日停駛。"
       },
       "StopTimes": [
@@ -251768,6 +252612,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -251971,6 +252816,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -252141,6 +252987,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -252311,6 +253158,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -252580,6 +253428,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -252805,6 +253654,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -253129,6 +253979,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -253332,6 +254183,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -253502,6 +254354,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -253639,6 +254492,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -253809,6 +254663,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -253979,6 +254834,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -254149,6 +255005,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -254286,6 +255143,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -254456,6 +255314,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -254593,6 +255452,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -254775,6 +255635,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -255132,6 +255993,7 @@
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "逢週六、日及例假日停駛。"
       },
       "StopTimes": [
@@ -255302,6 +256164,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -255472,6 +256335,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -255609,6 +256473,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -255779,6 +256644,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -255949,6 +256815,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -256119,6 +256986,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -256289,6 +257157,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -256427,6 +257296,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
@@ -256784,6 +257654,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -256943,6 +257814,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -257102,6 +257974,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -257261,6 +258134,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -257420,6 +258294,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -257579,6 +258454,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -257738,6 +258614,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -257897,6 +258774,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -258056,6 +258934,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -258215,6 +259094,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -258374,6 +259254,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -258533,6 +259414,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -258692,6 +259574,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -258851,6 +259734,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -259010,6 +259894,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -259169,6 +260054,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -259328,6 +260214,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -259619,6 +260506,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -259734,6 +260622,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -260113,6 +261002,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -260536,6 +261426,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -260893,6 +261784,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -261338,6 +262230,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。在和平跨日。"
       },
       "StopTimes": [
@@ -261970,6 +262863,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 4,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -262085,6 +262979,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 4,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -262200,6 +263095,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -262447,6 +263343,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -263079,6 +263976,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
@@ -263315,6 +264213,7 @@
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
+        "ServiceType": 1,
         "Note": "每日行駛。"
       },
       "StopTimes": [
