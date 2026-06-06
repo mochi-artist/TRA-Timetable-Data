@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-06-03T09:51:35+08:00",
+  "UpdateTime": "2026-06-06T08:41:34+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-06-02T10:29:35+08:00",
+  "SrcUpdateTime": "2026-06-05T12:10:58+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-07-04",
   "TrainTimetables": [
@@ -264626,7 +264626,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
+        "Note": "民國115年7月3-5、10-12、17-19、24-26、31日，民國115年8月1、2、7-9、14-16、21-23日行駛。"
       },
       "StopTimes": [
         {
@@ -264687,7 +264687,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
+        "Note": "民國115年7月3-5、10-12、17-19、24-26、31日，民國115年8月1、2、7-9、14-16、21-23日行駛。"
       },
       "StopTimes": [
         {
@@ -264781,7 +264781,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
+        "Note": "民國115年7月3-5、10-12、17-19、24-26、31日，民國115年8月1、2、7-9、14-16、21-23日行駛。"
       },
       "StopTimes": [
         {
@@ -264980,7 +264980,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
+        "Note": "民國115年7月2-5、9-12、16-19、23-26、30、31日，民國115年8月1、2、6-9、13-16、20-23、27-30日行駛。"
       },
       "StopTimes": [
         {
@@ -265085,7 +265085,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
+        "Note": "民國115年7月2-5、9-12、16-19、23-26、30、31日，民國115年8月1、2、6-9、13-16、20-23、27-30日行駛。"
       },
       "StopTimes": [
         {

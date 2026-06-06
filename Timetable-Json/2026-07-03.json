@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-06-03T01:31:31+08:00",
+  "UpdateTime": "2026-06-06T08:41:34+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-06-01T10:26:38+08:00",
+  "SrcUpdateTime": "2026-06-05T12:09:39+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-07-03",
   "TrainTimetables": [
@@ -51837,21 +51837,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
@@ -77032,7 +77032,7 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "3360",
+              "StartStationID": "3470",
               "EndStationID": "3230"
             },
             "EndSection": {
@@ -220693,7 +220693,17 @@
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
               "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
+              "EndStationID": "4340"
             }
           }
         ],
@@ -250321,7 +250331,7 @@
             },
             "EndSection": {
               "StartStationID": "7000",
-              "EndStationID": "5230"
+              "EndStationID": "6000"
             }
           }
         ],
@@ -268028,7 +268038,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
+        "Note": "民國115年7月3-5、10-12、17-19、24-26、31日，民國115年8月1、2、7-9、14-16、21-23日行駛。"
       },
       "StopTimes": [
         {
@@ -268089,7 +268099,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
+        "Note": "民國115年7月3-5、10-12、17-19、24-26、31日，民國115年8月1、2、7-9、14-16、21-23日行駛。"
       },
       "StopTimes": [
         {
@@ -268183,7 +268193,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
+        "Note": "民國115年7月3-5、10-12、17-19、24-26、31日，民國115年8月1、2、7-9、14-16、21-23日行駛。"
       },
       "StopTimes": [
         {
@@ -268277,7 +268287,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
+        "Note": "民國115年7月2-5、9-12、16-19、23-26、30、31日，民國115年8月1、2、6-9、13-16、20-23、27-30日行駛。"
       },
       "StopTimes": [
         {
@@ -268382,7 +268392,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
+        "Note": "民國115年7月2-5、9-12、16-19、23-26、30、31日，民國115年8月1、2、6-9、13-16、20-23、27-30日行駛。"
       },
       "StopTimes": [
         {
