@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-06-10T08:31:37+08:00",
+  "UpdateTime": "2026-06-11T09:31:55+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-06-09T14:00:44+08:00",
+  "SrcUpdateTime": "2026-06-10T19:09:31+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-06-29",
   "TrainTimetables": [
@@ -129123,7 +129123,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -129133,8 +129133,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "05:40",
-          "DepartureTime": "05:40",
+          "ArrivalTime": "05:42",
+          "DepartureTime": "05:42",
           "SuspendedFlag": 0
         },
         {
@@ -129144,8 +129144,8 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "05:55",
-          "DepartureTime": "05:58",
+          "ArrivalTime": "05:53",
+          "DepartureTime": "05:54",
           "SuspendedFlag": 0
         },
         {
@@ -129155,8 +129155,8 @@
             "Zh_tw": "龍泉",
             "En": "Longquan"
           },
-          "ArrivalTime": "06:05",
-          "DepartureTime": "06:05",
+          "ArrivalTime": "06:01",
+          "DepartureTime": "06:01",
           "SuspendedFlag": 0
         },
         {
@@ -129166,8 +129166,8 @@
             "Zh_tw": "濁水",
             "En": "Zhuoshui"
           },
-          "ArrivalTime": "06:13",
-          "DepartureTime": "06:15",
+          "ArrivalTime": "06:09",
+          "DepartureTime": "06:11",
           "SuspendedFlag": 0
         },
         {
@@ -129177,8 +129177,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "06:24",
-          "DepartureTime": "06:25",
+          "ArrivalTime": "06:20",
+          "DepartureTime": "06:21",
           "SuspendedFlag": 0
         },
         {
@@ -129188,7 +129188,7 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "06:30",
+          "ArrivalTime": "06:26",
           "DepartureTime": "06:37",
           "SuspendedFlag": 0
         },
@@ -129211,7 +129211,7 @@
             "En": "Yuanlin"
           },
           "ArrivalTime": "06:56",
-          "DepartureTime": "06:58",
+          "DepartureTime": "06:57",
           "SuspendedFlag": 0
         },
         {
@@ -129221,8 +129221,8 @@
             "Zh_tw": "彰化",
             "En": "Changhua"
           },
-          "ArrivalTime": "07:11",
-          "DepartureTime": "07:11",
+          "ArrivalTime": "07:12",
+          "DepartureTime": "07:12",
           "SuspendedFlag": 0
         }
       ]
@@ -129261,7 +129261,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -129271,8 +129271,8 @@
             "Zh_tw": "彰化",
             "En": "Changhua"
           },
-          "ArrivalTime": "05:18",
-          "DepartureTime": "05:18",
+          "ArrivalTime": "05:16",
+          "DepartureTime": "05:16",
           "SuspendedFlag": 0
         },
         {
@@ -129327,7 +129327,7 @@
             "En": "Zhuoshui"
           },
           "ArrivalTime": "06:08",
-          "DepartureTime": "06:14",
+          "DepartureTime": "06:12",
           "SuspendedFlag": 0
         },
         {
@@ -129337,8 +129337,8 @@
             "Zh_tw": "龍泉",
             "En": "Longquan"
           },
-          "ArrivalTime": "06:21",
-          "DepartureTime": "06:22",
+          "ArrivalTime": "06:19",
+          "DepartureTime": "06:20",
           "SuspendedFlag": 0
         },
         {
@@ -129348,8 +129348,8 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "06:29",
-          "DepartureTime": "06:31",
+          "ArrivalTime": "06:27",
+          "DepartureTime": "06:29",
           "SuspendedFlag": 0
         },
         {
@@ -129359,8 +129359,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "06:46",
-          "DepartureTime": "06:47",
+          "ArrivalTime": "06:40",
+          "DepartureTime": "06:41",
           "SuspendedFlag": 0
         },
         {
@@ -129370,8 +129370,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "06:52",
-          "DepartureTime": "06:52",
+          "ArrivalTime": "06:46",
+          "DepartureTime": "06:46",
           "SuspendedFlag": 0
         }
       ]
@@ -129410,7 +129410,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -129420,8 +129420,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "06:55",
-          "DepartureTime": "06:55",
+          "ArrivalTime": "07:00",
+          "DepartureTime": "07:00",
           "SuspendedFlag": 0
         },
         {
@@ -129431,8 +129431,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "06:59",
-          "DepartureTime": "07:00",
+          "ArrivalTime": "07:04",
+          "DepartureTime": "07:05",
           "SuspendedFlag": 0
         },
         {
@@ -129442,7 +129442,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "07:15",
+          "ArrivalTime": "07:16",
           "DepartureTime": "07:18",
           "SuspendedFlag": 0
         },
@@ -129526,7 +129526,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -129581,7 +129581,7 @@
             "En": "Jiji"
           },
           "ArrivalTime": "08:30",
-          "DepartureTime": "08:33",
+          "DepartureTime": "08:32",
           "SuspendedFlag": 0
         },
         {
@@ -129591,8 +129591,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "08:48",
-          "DepartureTime": "08:49",
+          "ArrivalTime": "08:43",
+          "DepartureTime": "08:44",
           "SuspendedFlag": 0
         },
         {
@@ -129602,8 +129602,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "08:54",
-          "DepartureTime": "08:54",
+          "ArrivalTime": "08:49",
+          "DepartureTime": "08:49",
           "SuspendedFlag": 0
         }
       ]
@@ -129642,7 +129642,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -129652,8 +129652,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "08:55",
-          "DepartureTime": "08:55",
+          "ArrivalTime": "09:00",
+          "DepartureTime": "09:00",
           "SuspendedFlag": 0
         },
         {
@@ -129663,8 +129663,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "08:59",
-          "DepartureTime": "09:00",
+          "ArrivalTime": "09:04",
+          "DepartureTime": "09:05",
           "SuspendedFlag": 0
         },
         {
@@ -129674,7 +129674,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "09:15",
+          "ArrivalTime": "09:16",
           "DepartureTime": "09:18",
           "SuspendedFlag": 0
         },
@@ -129758,7 +129758,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -129768,8 +129768,8 @@
             "Zh_tw": "彰化",
             "En": "Changhua"
           },
-          "ArrivalTime": "08:40",
-          "DepartureTime": "08:40",
+          "ArrivalTime": "08:38",
+          "DepartureTime": "08:38",
           "SuspendedFlag": 0
         },
         {
@@ -129856,8 +129856,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "10:06",
-          "DepartureTime": "10:07",
+          "ArrivalTime": "10:02",
+          "DepartureTime": "10:03",
           "SuspendedFlag": 0
         },
         {
@@ -129867,8 +129867,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "10:12",
-          "DepartureTime": "10:12",
+          "ArrivalTime": "10:08",
+          "DepartureTime": "10:08",
           "SuspendedFlag": 0
         }
       ]
@@ -129907,7 +129907,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -129917,8 +129917,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "10:15",
-          "DepartureTime": "10:15",
+          "ArrivalTime": "10:20",
+          "DepartureTime": "10:20",
           "SuspendedFlag": 0
         },
         {
@@ -129928,8 +129928,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "10:19",
-          "DepartureTime": "10:20",
+          "ArrivalTime": "10:24",
+          "DepartureTime": "10:25",
           "SuspendedFlag": 0
         },
         {
@@ -129939,7 +129939,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "10:35",
+          "ArrivalTime": "10:36",
           "DepartureTime": "10:38",
           "SuspendedFlag": 0
         },
@@ -130216,7 +130216,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -130271,7 +130271,7 @@
             "En": "Jiji"
           },
           "ArrivalTime": "11:10",
-          "DepartureTime": "11:13",
+          "DepartureTime": "11:12",
           "SuspendedFlag": 0
         },
         {
@@ -130281,8 +130281,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "11:28",
-          "DepartureTime": "11:29",
+          "ArrivalTime": "11:23",
+          "DepartureTime": "11:24",
           "SuspendedFlag": 0
         },
         {
@@ -130292,8 +130292,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "11:34",
-          "DepartureTime": "11:34",
+          "ArrivalTime": "11:29",
+          "DepartureTime": "11:29",
           "SuspendedFlag": 0
         }
       ]
@@ -130332,7 +130332,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -130342,8 +130342,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "11:35",
-          "DepartureTime": "11:35",
+          "ArrivalTime": "11:40",
+          "DepartureTime": "11:40",
           "SuspendedFlag": 0
         },
         {
@@ -130353,8 +130353,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "11:39",
-          "DepartureTime": "11:40",
+          "ArrivalTime": "11:44",
+          "DepartureTime": "11:45",
           "SuspendedFlag": 0
         },
         {
@@ -130364,7 +130364,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "11:55",
+          "ArrivalTime": "11:56",
           "DepartureTime": "11:58",
           "SuspendedFlag": 0
         },
@@ -130387,7 +130387,7 @@
             "En": "Zhuoshui"
           },
           "ArrivalTime": "12:13",
-          "DepartureTime": "12:16",
+          "DepartureTime": "12:14",
           "SuspendedFlag": 0
         },
         {
@@ -130397,8 +130397,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "12:25",
-          "DepartureTime": "12:26",
+          "ArrivalTime": "12:23",
+          "DepartureTime": "12:24",
           "SuspendedFlag": 0
         },
         {
@@ -130408,8 +130408,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "12:31",
-          "DepartureTime": "12:31",
+          "ArrivalTime": "12:29",
+          "DepartureTime": "12:29",
           "SuspendedFlag": 0
         }
       ]
@@ -130448,7 +130448,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -130458,8 +130458,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "12:00",
-          "DepartureTime": "12:00",
+          "ArrivalTime": "11:57",
+          "DepartureTime": "11:57",
           "SuspendedFlag": 0
         },
         {
@@ -130469,8 +130469,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "12:04",
-          "DepartureTime": "12:05",
+          "ArrivalTime": "12:01",
+          "DepartureTime": "12:02",
           "SuspendedFlag": 0
         },
         {
@@ -130480,7 +130480,7 @@
             "Zh_tw": "濁水",
             "En": "Zhuoshui"
           },
-          "ArrivalTime": "12:14",
+          "ArrivalTime": "12:11",
           "DepartureTime": "12:15",
           "SuspendedFlag": 0
         },
@@ -130503,7 +130503,7 @@
             "En": "Jiji"
           },
           "ArrivalTime": "12:30",
-          "DepartureTime": "12:33",
+          "DepartureTime": "12:32",
           "SuspendedFlag": 0
         },
         {
@@ -130513,8 +130513,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "12:48",
-          "DepartureTime": "12:49",
+          "ArrivalTime": "12:43",
+          "DepartureTime": "12:44",
           "SuspendedFlag": 0
         },
         {
@@ -130524,8 +130524,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "12:54",
-          "DepartureTime": "12:54",
+          "ArrivalTime": "12:49",
+          "DepartureTime": "12:49",
           "SuspendedFlag": 0
         }
       ]
@@ -130564,7 +130564,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -130574,8 +130574,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "12:55",
-          "DepartureTime": "12:55",
+          "ArrivalTime": "13:00",
+          "DepartureTime": "13:00",
           "SuspendedFlag": 0
         },
         {
@@ -130585,8 +130585,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "12:59",
-          "DepartureTime": "13:00",
+          "ArrivalTime": "13:04",
+          "DepartureTime": "13:05",
           "SuspendedFlag": 0
         },
         {
@@ -130596,7 +130596,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "13:15",
+          "ArrivalTime": "13:16",
           "DepartureTime": "13:18",
           "SuspendedFlag": 0
         },
@@ -130680,7 +130680,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -130735,7 +130735,7 @@
             "En": "Jiji"
           },
           "ArrivalTime": "13:50",
-          "DepartureTime": "13:53",
+          "DepartureTime": "13:52",
           "SuspendedFlag": 0
         },
         {
@@ -130745,8 +130745,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "14:08",
-          "DepartureTime": "14:09",
+          "ArrivalTime": "14:03",
+          "DepartureTime": "14:04",
           "SuspendedFlag": 0
         },
         {
@@ -130756,8 +130756,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "14:14",
-          "DepartureTime": "14:14",
+          "ArrivalTime": "14:09",
+          "DepartureTime": "14:09",
           "SuspendedFlag": 0
         }
       ]
@@ -130796,7 +130796,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -130806,8 +130806,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "14:15",
-          "DepartureTime": "14:15",
+          "ArrivalTime": "14:20",
+          "DepartureTime": "14:20",
           "SuspendedFlag": 0
         },
         {
@@ -130817,8 +130817,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "14:19",
-          "DepartureTime": "14:20",
+          "ArrivalTime": "14:24",
+          "DepartureTime": "14:25",
           "SuspendedFlag": 0
         },
         {
@@ -130828,7 +130828,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "14:35",
+          "ArrivalTime": "14:36",
           "DepartureTime": "14:38",
           "SuspendedFlag": 0
         },
@@ -130912,7 +130912,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -130967,7 +130967,7 @@
             "En": "Jiji"
           },
           "ArrivalTime": "15:10",
-          "DepartureTime": "15:13",
+          "DepartureTime": "15:12",
           "SuspendedFlag": 0
         },
         {
@@ -130977,8 +130977,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "15:28",
-          "DepartureTime": "15:29",
+          "ArrivalTime": "15:23",
+          "DepartureTime": "15:24",
           "SuspendedFlag": 0
         },
         {
@@ -130988,8 +130988,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "15:34",
-          "DepartureTime": "15:34",
+          "ArrivalTime": "15:29",
+          "DepartureTime": "15:29",
           "SuspendedFlag": 0
         }
       ]
@@ -131028,7 +131028,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -131038,8 +131038,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "15:35",
-          "DepartureTime": "15:35",
+          "ArrivalTime": "15:45",
+          "DepartureTime": "15:45",
           "SuspendedFlag": 0
         },
         {
@@ -131049,8 +131049,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "15:39",
-          "DepartureTime": "15:40",
+          "ArrivalTime": "15:49",
+          "DepartureTime": "15:50",
           "SuspendedFlag": 0
         },
         {
@@ -131060,7 +131060,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "15:55",
+          "ArrivalTime": "16:01",
           "DepartureTime": "16:03",
           "SuspendedFlag": 0
         },
@@ -131469,7 +131469,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -131524,7 +131524,7 @@
             "En": "Jiji"
           },
           "ArrivalTime": "16:35",
-          "DepartureTime": "16:38",
+          "DepartureTime": "16:37",
           "SuspendedFlag": 0
         },
         {
@@ -131534,8 +131534,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "16:53",
-          "DepartureTime": "16:54",
+          "ArrivalTime": "16:48",
+          "DepartureTime": "16:49",
           "SuspendedFlag": 0
         },
         {
@@ -131545,8 +131545,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "16:59",
-          "DepartureTime": "16:59",
+          "ArrivalTime": "16:54",
+          "DepartureTime": "16:54",
           "SuspendedFlag": 0
         }
       ]
@@ -131585,7 +131585,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -131595,8 +131595,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "17:00",
-          "DepartureTime": "17:00",
+          "ArrivalTime": "17:10",
+          "DepartureTime": "17:10",
           "SuspendedFlag": 0
         },
         {
@@ -131606,8 +131606,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "17:04",
-          "DepartureTime": "17:05",
+          "ArrivalTime": "17:14",
+          "DepartureTime": "17:15",
           "SuspendedFlag": 0
         },
         {
@@ -131617,7 +131617,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "17:20",
+          "ArrivalTime": "17:26",
           "DepartureTime": "17:28",
           "SuspendedFlag": 0
         },
@@ -131640,7 +131640,7 @@
             "En": "Zhuoshui"
           },
           "ArrivalTime": "17:43",
-          "DepartureTime": "17:46",
+          "DepartureTime": "17:45",
           "SuspendedFlag": 0
         },
         {
@@ -131650,8 +131650,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "17:55",
-          "DepartureTime": "17:56",
+          "ArrivalTime": "17:54",
+          "DepartureTime": "17:55",
           "SuspendedFlag": 0
         },
         {
@@ -131661,8 +131661,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "18:01",
-          "DepartureTime": "18:01",
+          "ArrivalTime": "18:00",
+          "DepartureTime": "18:00",
           "SuspendedFlag": 0
         }
       ]
@@ -131701,7 +131701,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -131711,8 +131711,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "17:30",
-          "DepartureTime": "17:30",
+          "ArrivalTime": "17:28",
+          "DepartureTime": "17:28",
           "SuspendedFlag": 0
         },
         {
@@ -131722,8 +131722,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "17:34",
-          "DepartureTime": "17:35",
+          "ArrivalTime": "17:32",
+          "DepartureTime": "17:33",
           "SuspendedFlag": 0
         },
         {
@@ -131733,8 +131733,8 @@
             "Zh_tw": "濁水",
             "En": "Zhuoshui"
           },
-          "ArrivalTime": "17:44",
-          "DepartureTime": "17:45",
+          "ArrivalTime": "17:42",
+          "DepartureTime": "17:44",
           "SuspendedFlag": 0
         },
         {
@@ -131744,8 +131744,8 @@
             "Zh_tw": "龍泉",
             "En": "Longquan"
           },
-          "ArrivalTime": "17:52",
-          "DepartureTime": "17:53",
+          "ArrivalTime": "17:51",
+          "DepartureTime": "17:52",
           "SuspendedFlag": 0
         },
         {
@@ -131755,8 +131755,8 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "18:00",
-          "DepartureTime": "18:03",
+          "ArrivalTime": "17:59",
+          "DepartureTime": "18:01",
           "SuspendedFlag": 0
         },
         {
@@ -131766,8 +131766,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "18:18",
-          "DepartureTime": "18:19",
+          "ArrivalTime": "18:12",
+          "DepartureTime": "18:13",
           "SuspendedFlag": 0
         },
         {
@@ -131777,8 +131777,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "18:24",
-          "DepartureTime": "18:24",
+          "ArrivalTime": "18:18",
+          "DepartureTime": "18:18",
           "SuspendedFlag": 0
         }
       ]
@@ -131817,7 +131817,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -131827,8 +131827,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "18:25",
-          "DepartureTime": "18:25",
+          "ArrivalTime": "18:30",
+          "DepartureTime": "18:30",
           "SuspendedFlag": 0
         },
         {
@@ -131838,8 +131838,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "18:29",
-          "DepartureTime": "18:30",
+          "ArrivalTime": "18:34",
+          "DepartureTime": "18:35",
           "SuspendedFlag": 0
         },
         {
@@ -131849,7 +131849,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "18:45",
+          "ArrivalTime": "18:46",
           "DepartureTime": "18:48",
           "SuspendedFlag": 0
         },
@@ -131872,7 +131872,7 @@
             "En": "Zhuoshui"
           },
           "ArrivalTime": "19:03",
-          "DepartureTime": "19:06",
+          "DepartureTime": "19:08",
           "SuspendedFlag": 0
         },
         {
@@ -131882,8 +131882,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "19:15",
-          "DepartureTime": "19:16",
+          "ArrivalTime": "19:17",
+          "DepartureTime": "19:18",
           "SuspendedFlag": 0
         },
         {
@@ -131893,8 +131893,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "19:21",
-          "DepartureTime": "19:21",
+          "ArrivalTime": "19:23",
+          "DepartureTime": "19:23",
           "SuspendedFlag": 0
         }
       ]
@@ -131933,7 +131933,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -131943,8 +131943,8 @@
             "Zh_tw": "二水",
             "En": "Ershui"
           },
-          "ArrivalTime": "18:50",
-          "DepartureTime": "18:50",
+          "ArrivalTime": "18:52",
+          "DepartureTime": "18:52",
           "SuspendedFlag": 0
         },
         {
@@ -131954,8 +131954,8 @@
             "Zh_tw": "源泉",
             "En": "Yuanquan"
           },
-          "ArrivalTime": "18:54",
-          "DepartureTime": "18:55",
+          "ArrivalTime": "18:56",
+          "DepartureTime": "18:57",
           "SuspendedFlag": 0
         },
         {
@@ -131965,8 +131965,8 @@
             "Zh_tw": "濁水",
             "En": "Zhuoshui"
           },
-          "ArrivalTime": "19:04",
-          "DepartureTime": "19:05",
+          "ArrivalTime": "19:06",
+          "DepartureTime": "19:07",
           "SuspendedFlag": 0
         },
         {
@@ -131976,8 +131976,8 @@
             "Zh_tw": "龍泉",
             "En": "Longquan"
           },
-          "ArrivalTime": "19:12",
-          "DepartureTime": "19:13",
+          "ArrivalTime": "19:14",
+          "DepartureTime": "19:15",
           "SuspendedFlag": 0
         },
         {
@@ -131987,7 +131987,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "19:20",
+          "ArrivalTime": "19:22",
           "DepartureTime": "19:23",
           "SuspendedFlag": 0
         },
@@ -131998,8 +131998,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "19:38",
-          "DepartureTime": "19:39",
+          "ArrivalTime": "19:34",
+          "DepartureTime": "19:35",
           "SuspendedFlag": 0
         },
         {
@@ -132009,8 +132009,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "19:44",
-          "DepartureTime": "19:44",
+          "ArrivalTime": "19:40",
+          "DepartureTime": "19:40",
           "SuspendedFlag": 0
         }
       ]
@@ -132049,7 +132049,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -132059,8 +132059,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "19:50",
-          "DepartureTime": "19:50",
+          "ArrivalTime": "20:00",
+          "DepartureTime": "20:00",
           "SuspendedFlag": 0
         },
         {
@@ -132070,8 +132070,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "19:54",
-          "DepartureTime": "19:55",
+          "ArrivalTime": "20:04",
+          "DepartureTime": "20:05",
           "SuspendedFlag": 0
         },
         {
@@ -132081,7 +132081,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "20:10",
+          "ArrivalTime": "20:16",
           "DepartureTime": "20:18",
           "SuspendedFlag": 0
         },
@@ -132165,7 +132165,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -132230,8 +132230,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "21:07",
-          "DepartureTime": "21:08",
+          "ArrivalTime": "21:03",
+          "DepartureTime": "21:04",
           "SuspendedFlag": 0
         },
         {
@@ -132241,8 +132241,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "21:13",
-          "DepartureTime": "21:13",
+          "ArrivalTime": "21:09",
+          "DepartureTime": "21:09",
           "SuspendedFlag": 0
         }
       ]
@@ -132281,7 +132281,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※配合集集線隧道及邊坡改善工程施工，本公司集集站至車埕站間路線停駛，改以公路客運接駁。"
+        "Note": "每日行駛。"
       },
       "StopTimes": [
         {
@@ -132291,8 +132291,8 @@
             "Zh_tw": "車埕",
             "En": "Checheng"
           },
-          "ArrivalTime": "21:15",
-          "DepartureTime": "21:15",
+          "ArrivalTime": "21:20",
+          "DepartureTime": "21:20",
           "SuspendedFlag": 0
         },
         {
@@ -132302,8 +132302,8 @@
             "Zh_tw": "水里",
             "En": "Shuili"
           },
-          "ArrivalTime": "21:19",
-          "DepartureTime": "21:20",
+          "ArrivalTime": "21:24",
+          "DepartureTime": "21:25",
           "SuspendedFlag": 0
         },
         {
@@ -132313,7 +132313,7 @@
             "Zh_tw": "集集",
             "En": "Jiji"
           },
-          "ArrivalTime": "21:35",
+          "ArrivalTime": "21:36",
           "DepartureTime": "21:38",
           "SuspendedFlag": 0
         },
@@ -132358,7 +132358,7 @@
             "En": "Ershui"
           },
           "ArrivalTime": "22:10",
-          "DepartureTime": "22:11",
+          "DepartureTime": "22:12",
           "SuspendedFlag": 0
         },
         {
@@ -132380,7 +132380,7 @@
             "En": "Yuanlin"
           },
           "ArrivalTime": "22:29",
-          "DepartureTime": "22:31",
+          "DepartureTime": "22:30",
           "SuspendedFlag": 0
         },
         {
@@ -132390,8 +132390,8 @@
             "Zh_tw": "彰化",
             "En": "Changhua"
           },
-          "ArrivalTime": "22:44",
-          "DepartureTime": "22:44",
+          "ArrivalTime": "22:45",
+          "DepartureTime": "22:45",
           "SuspendedFlag": 0
         }
       ]
@@ -142060,21 +142060,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "6250"
-            },
-            "EndSection": {
-              "StartStationID": "6130",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "6250"
+            },
+            "EndSection": {
+              "StartStationID": "6130",
               "EndStationID": "4340"
             }
           }
