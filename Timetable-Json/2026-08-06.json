@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-06-09T07:31:45+08:00",
+  "UpdateTime": "2026-06-12T06:21:34+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-06-08T18:32:22+08:00",
+  "SrcUpdateTime": "2026-06-11T17:12:02+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-08-06",
   "TrainTimetables": [
@@ -181896,7 +181896,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※配合「2026臺灣國際熱氣球嘉年華」活動，本次車8月6日增停【池上站】。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -181934,6 +181934,17 @@
         },
         {
           "StopSequence": 4,
+          "StationID": "6070",
+          "StationName": {
+            "Zh_tw": "池上",
+            "En": "Chishang"
+          },
+          "ArrivalTime": "17:14",
+          "DepartureTime": "17:15",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
           "StationID": "6050",
           "StationName": {
             "Zh_tw": "關山",
@@ -181944,7 +181955,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 5,
+          "StopSequence": 6,
           "StationID": "6000",
           "StationName": {
             "Zh_tw": "臺東",
@@ -181955,7 +181966,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 6,
+          "StopSequence": 7,
           "StationID": "5230",
           "StationName": {
             "Zh_tw": "知本",
@@ -181966,7 +181977,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 7,
+          "StopSequence": 8,
           "StationID": "5000",
           "StationName": {
             "Zh_tw": "屏東",
@@ -181977,7 +181988,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 8,
+          "StopSequence": 9,
           "StationID": "4440",
           "StationName": {
             "Zh_tw": "鳳山",
@@ -181988,7 +181999,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 9,
+          "StopSequence": 10,
           "StationID": "4400",
           "StationName": {
             "Zh_tw": "高雄",
@@ -181999,7 +182010,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 10,
+          "StopSequence": 11,
           "StationID": "4340",
           "StationName": {
             "Zh_tw": "新左營",
@@ -182010,7 +182021,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 11,
+          "StopSequence": 12,
           "StationID": "4310",
           "StationName": {
             "Zh_tw": "岡山",
@@ -182021,7 +182032,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 12,
+          "StopSequence": 13,
           "StationID": "4220",
           "StationName": {
             "Zh_tw": "臺南",
@@ -214971,11 +214982,11 @@
         "BreastFeedFlag": 0,
         "BikeFlag": 1,
         "CarFlag": 0,
-        "DailyFlag": 0,
+        "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "逢週六、日及例假日停駛。"
+        "Note": "每日行駛。※配合「2026臺灣國際熱氣球嘉年華」活動，本次車自7月4日~8月20日改為每日行駛並增停【鹿野站】。"
       },
       "StopTimes": [
         {
@@ -214991,6 +215002,17 @@
         },
         {
           "StopSequence": 2,
+          "StationID": "6020",
+          "StationName": {
+            "Zh_tw": "鹿野",
+            "En": "Luye"
+          },
+          "ArrivalTime": "16:01",
+          "DepartureTime": "16:02",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
           "StationID": "6050",
           "StationName": {
             "Zh_tw": "關山",
@@ -215001,7 +215023,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 3,
+          "StopSequence": 4,
           "StationID": "6070",
           "StationName": {
             "Zh_tw": "池上",
@@ -216101,11 +216123,11 @@
         "BreastFeedFlag": 0,
         "BikeFlag": 1,
         "CarFlag": 0,
-        "DailyFlag": 0,
+        "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "逢週六、日及例假日停駛。"
+        "Note": "每日行駛。※配合「2026臺灣國際熱氣球嘉年華」活動，本次車自7月4日~8月20日改為每日行駛並增停【鹿野站】。"
       },
       "StopTimes": [
         {
@@ -216132,6 +216154,17 @@
         },
         {
           "StopSequence": 3,
+          "StationID": "6020",
+          "StationName": {
+            "Zh_tw": "鹿野",
+            "En": "Luye"
+          },
+          "ArrivalTime": "17:29",
+          "DepartureTime": "17:30",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
           "StationID": "6000",
           "StationName": {
             "Zh_tw": "臺東",
@@ -218427,21 +218460,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -248980,7 +249013,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※配合「2026臺灣國際熱氣球嘉年華」活動，本次車自7月4日~8月20日增停【鹿野站】。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -249150,6 +249183,17 @@
         },
         {
           "StopSequence": 16,
+          "StationID": "6020",
+          "StationName": {
+            "Zh_tw": "鹿野",
+            "En": "Luye"
+          },
+          "ArrivalTime": "19:09",
+          "DepartureTime": "19:10",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 17,
           "StationID": "6000",
           "StationName": {
             "Zh_tw": "臺東",
@@ -249160,7 +249204,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 17,
+          "StopSequence": 18,
           "StationID": "5230",
           "StationName": {
             "Zh_tw": "知本",
@@ -249171,7 +249215,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 18,
+          "StopSequence": 19,
           "StationID": "5220",
           "StationName": {
             "Zh_tw": "太麻里",
@@ -249182,7 +249226,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 19,
+          "StopSequence": 20,
           "StationID": "5210",
           "StationName": {
             "Zh_tw": "金崙",
@@ -249193,7 +249237,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 20,
+          "StopSequence": 21,
           "StationID": "5190",
           "StationName": {
             "Zh_tw": "大武",
@@ -249204,7 +249248,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 21,
+          "StopSequence": 22,
           "StationID": "5120",
           "StationName": {
             "Zh_tw": "枋寮",
@@ -249215,7 +249259,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 22,
+          "StopSequence": 23,
           "StationID": "5090",
           "StationName": {
             "Zh_tw": "林邊",
@@ -249226,7 +249270,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 23,
+          "StopSequence": 24,
           "StationID": "5070",
           "StationName": {
             "Zh_tw": "南州",
@@ -249237,7 +249281,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 24,
+          "StopSequence": 25,
           "StationID": "5050",
           "StationName": {
             "Zh_tw": "潮州",
@@ -249248,7 +249292,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 25,
+          "StopSequence": 26,
           "StationID": "5000",
           "StationName": {
             "Zh_tw": "屏東",
@@ -249259,7 +249303,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 26,
+          "StopSequence": 27,
           "StationID": "4440",
           "StationName": {
             "Zh_tw": "鳳山",
@@ -249270,7 +249314,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 27,
+          "StopSequence": 28,
           "StationID": "4400",
           "StationName": {
             "Zh_tw": "高雄",
@@ -249281,7 +249325,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 28,
+          "StopSequence": 29,
           "StationID": "4340",
           "StationName": {
             "Zh_tw": "新左營",
