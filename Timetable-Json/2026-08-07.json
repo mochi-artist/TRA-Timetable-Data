@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-06-16T06:11:37+08:00",
+  "UpdateTime": "2026-06-19T09:11:40+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-06-15T15:53:56+08:00",
+  "SrcUpdateTime": "2026-06-17T21:28:50+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-08-07",
   "TrainTimetables": [
@@ -35,11 +35,11 @@
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
-        "DailyFlag": 0,
+        "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週一、五至日行駛。環島之星觀光列車由易遊網公司承包，需搭配套裝行程，不單售車票-聯絡專線：(02)412-8001"
+        "Note": "每日行駛。環島之星觀光列車由易遊網公司承包，需搭配套裝行程，不單售車票-聯絡專線：(02)412-8001"
       },
       "StopTimes": [
         {
@@ -51837,21 +51837,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0930",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "3300",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1210",
               "EndStationID": "3300"
             },
             "EndSection": {
               "StartStationID": "4220",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
               "EndStationID": "5050"
             }
           }
@@ -77706,11 +77706,11 @@
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
-        "DailyFlag": 0,
+        "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "逢週一、五至日行駛。環島之星觀光列車由易遊網公司承包，需搭配套裝行程，不單售車票-聯絡專線：(02)412-8001"
+        "Note": "每日行駛。環島之星觀光列車由易遊網公司承包，需搭配套裝行程，不單售車票-聯絡專線：(02)412-8001"
       },
       "StopTimes": [
         {
