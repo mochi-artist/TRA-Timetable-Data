@@ -13,7 +13,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(商務專開列車)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往臺北-環島",
         "StartingStationID": "1000",
@@ -1672,7 +1672,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "3300",
@@ -1918,7 +1918,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且有自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "3470",
@@ -2142,7 +2142,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0960",
@@ -3765,7 +3765,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0900",
@@ -4290,7 +4290,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "5050",
@@ -4624,7 +4624,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且有自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往屏東",
         "StartingStationID": "0900",
@@ -4914,7 +4914,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "5050",
@@ -6306,7 +6306,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往枋寮",
         "StartingStationID": "0930",
@@ -7489,7 +7489,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往基隆",
         "StartingStationID": "5050",
@@ -10568,7 +10568,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往彰化",
         "StartingStationID": "0930",
@@ -13603,7 +13603,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "5050",
@@ -15570,7 +15570,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往屏東",
         "StartingStationID": "0900",
@@ -18047,7 +18047,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "5050",
@@ -20807,7 +20807,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0900",
@@ -23409,7 +23409,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "5000",
@@ -25721,7 +25721,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往彰化",
         "StartingStationID": "0930",
@@ -27989,7 +27989,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "5050",
@@ -30367,7 +30367,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往屏東",
         "StartingStationID": "0930",
@@ -32723,7 +32723,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往基隆",
         "StartingStationID": "5050",
@@ -35325,7 +35325,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往屏東",
         "StartingStationID": "0930",
@@ -40606,7 +40606,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0930",
@@ -45219,7 +45219,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往彰化",
         "StartingStationID": "0930",
@@ -47513,7 +47513,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往基隆",
         "StartingStationID": "5050",
@@ -50091,7 +50091,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0900",
@@ -50730,7 +50730,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往基隆",
         "StartingStationID": "3360",
@@ -50965,7 +50965,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0930",
@@ -51167,7 +51167,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "5120",
@@ -51370,7 +51370,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0930",
@@ -51715,7 +51715,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往基隆",
         "StartingStationID": "5000",
@@ -52071,7 +52071,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往屏東",
         "StartingStationID": "0930",
@@ -52688,7 +52688,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "5000",
@@ -52978,7 +52978,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0930",
@@ -53279,7 +53279,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0930",
@@ -53580,7 +53580,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "5050",
@@ -53903,7 +53903,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0930",
@@ -54117,7 +54117,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往基隆",
         "StartingStationID": "5000",
@@ -54462,7 +54462,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0930",
@@ -54807,7 +54807,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "5050",
@@ -55153,7 +55153,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "3360",
@@ -55278,7 +55278,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "0900",
@@ -55613,7 +55613,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "5000",
@@ -55936,7 +55936,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往汐止",
         "StartingStationID": "5050",
@@ -56249,7 +56249,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往南港",
         "StartingStationID": "5050",
@@ -56407,7 +56407,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往臺中",
         "StartingStationID": "0930",
@@ -56587,7 +56587,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且有自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往嘉義",
         "StartingStationID": "5000",
@@ -56745,7 +56745,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往苗栗",
         "StartingStationID": "0930",
@@ -56925,7 +56925,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "3360",
@@ -57138,7 +57138,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "0980",
@@ -57810,7 +57810,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "6000",
@@ -58112,7 +58112,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且有自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往花蓮",
         "StartingStationID": "4080",
@@ -60105,7 +60105,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往花蓮",
         "StartingStationID": "5050",
@@ -63010,7 +63010,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "7000",
@@ -64267,7 +64267,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往瑞芳",
         "StartingStationID": "5050",
@@ -65392,7 +65392,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且有自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往斗南",
         "StartingStationID": "7000",
@@ -68564,7 +68564,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往屏東",
         "StartingStationID": "7000",
@@ -72644,7 +72644,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往潮州",
         "StartingStationID": "3300",
@@ -72769,7 +72769,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往彰化",
         "StartingStationID": "0930",
@@ -72894,7 +72894,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "3360",
@@ -73031,7 +73031,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺中",
         "StartingStationID": "5050",
@@ -73211,7 +73211,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(商務專開列車)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往臺北-環島",
         "StartingStationID": "1000",
@@ -76846,7 +76846,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "6220",
@@ -77727,7 +77727,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "7000",
@@ -79441,7 +79441,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往花蓮",
         "StartingStationID": "1040",
@@ -85422,7 +85422,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(DMU3100 型柴聯)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "7000",
@@ -93553,7 +93553,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "1040",
@@ -107548,7 +107548,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往壽豐",
         "StartingStationID": "1040",
@@ -108055,7 +108055,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "7000",
@@ -108268,7 +108268,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(DMU3100 型柴聯)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往花蓮",
         "StartingStationID": "1040",
@@ -111712,7 +111712,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往壽豐",
         "StartingStationID": "1040",
@@ -129426,7 +129426,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往花蓮",
         "StartingStationID": "3160",
@@ -130841,7 +130841,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往花蓮",
         "StartingStationID": "3360",
@@ -131087,7 +131087,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往花蓮",
         "StartingStationID": "3470",
@@ -131425,7 +131425,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往斗六",
         "StartingStationID": "6220",
@@ -131660,7 +131660,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往彰化",
         "StartingStationID": "7000",
@@ -133125,7 +133125,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往花蓮",
         "StartingStationID": "4220",
@@ -133918,7 +133918,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往新左營",
         "StartingStationID": "6000",
@@ -136440,7 +136440,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往新左營",
         "StartingStationID": "6000",
@@ -136653,7 +136653,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "4340",
@@ -137935,7 +137935,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往新左營",
         "StartingStationID": "7000",
@@ -140509,7 +140509,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往新左營",
         "StartingStationID": "7000",
@@ -145540,7 +145540,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "4340",
@@ -148915,7 +148915,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往新左營",
         "StartingStationID": "6000",
@@ -158256,7 +158256,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往花蓮",
         "StartingStationID": "4340",
@@ -174729,7 +174729,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往花蓮",
         "StartingStationID": "4340",
@@ -177796,7 +177796,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺南",
         "StartingStationID": "7000",
@@ -187198,7 +187198,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "4340",
@@ -198775,7 +198775,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "3300",
@@ -200131,7 +200131,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺中",
         "StartingStationID": "6000",
@@ -207261,7 +207261,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "3300",
@@ -207518,7 +207518,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺中",
         "StartingStationID": "6000",
@@ -213289,7 +213289,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "6000",
@@ -213458,7 +213458,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "1040",
@@ -213726,7 +213726,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "6000",
@@ -213983,7 +213983,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "1040",
@@ -214097,7 +214097,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "1040",
@@ -215636,7 +215636,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "4340",
@@ -222618,7 +222618,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "4340",
@@ -227654,7 +227654,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "1040",
@@ -229823,7 +229823,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "6000",
@@ -232092,7 +232092,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "1040",
@@ -233664,7 +233664,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "6000",
@@ -235251,7 +235251,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往新左營",
         "StartingStationID": "1040",
@@ -237747,7 +237747,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "4340",
@@ -239976,7 +239976,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(DMU3100 型柴聯)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "7000",
@@ -243224,7 +243224,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往知本",
         "StartingStationID": "1040",
@@ -243361,7 +243361,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "6000",
@@ -243541,7 +243541,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往新左營",
         "StartingStationID": "1040",
@@ -243941,7 +243941,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "4340",
@@ -244286,7 +244286,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往新左營",
         "StartingStationID": "1040",
@@ -244643,7 +244643,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往新左營",
         "StartingStationID": "1040",
@@ -244988,7 +244988,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "1040",
@@ -245136,7 +245136,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "1040",
@@ -245316,7 +245316,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "6000",
@@ -245563,7 +245563,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "5230",
@@ -245688,7 +245688,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "1040",
@@ -245968,7 +245968,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "6000",
@@ -246137,7 +246137,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "6000",
@@ -246587,7 +246587,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(DMU3100 型柴聯)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往花蓮",
         "StartingStationID": "6000",
@@ -252716,7 +252716,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "3390",
@@ -254190,7 +254190,7 @@
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
-          "En": "Tze-Chiang Ltd. Express(3000)"
+          "En": "Tze-Chiang 3000 Express "
         },
         "TripHeadSign": "往員林",
         "StartingStationID": "6000",
@@ -260828,7 +260828,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(商務專開列車)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "0980",
@@ -260898,7 +260898,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(商務專開列車)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往七堵",
         "StartingStationID": "7000",
@@ -260968,7 +260968,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(專開列車)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往彰化",
         "StartingStationID": "1000",
@@ -261093,7 +261093,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(專開列車)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往臺北",
         "StartingStationID": "3360",
@@ -261207,7 +261207,7 @@
         "TrainTypeCode": "3",
         "TrainTypeName": {
           "Zh_tw": "自強(專開列車)",
-          "En": "Tze-Chiang Limited Express"
+          "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往新城",
         "StartingStationID": "3340",
