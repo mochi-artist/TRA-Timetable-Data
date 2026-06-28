@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-06-27T06:57:35+08:00",
+  "UpdateTime": "2026-06-28T07:57:28+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-06-26T12:08:03+08:00",
+  "SrcUpdateTime": "2026-06-27T19:34:57+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-06-28",
   "TrainTimetables": [
@@ -3812,7 +3812,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。"
+        "Note": "每日行駛。今日(6/28)基隆-彰化間編組臨時改EMU3000新自強號行駛"
       },
       "StopTimes": [
         {
@@ -20950,21 +20950,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1080",
-              "EndStationID": "3360"
-            },
-            "EndSection": {
-              "StartStationID": "4340",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0900",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "1210",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1080",
+              "EndStationID": "3360"
+            },
+            "EndSection": {
+              "StartStationID": "4340",
               "EndStationID": "5050"
             }
           }
@@ -53897,7 +53897,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。"
+        "Note": "每日行駛。今日(6/28)基隆-彰化編組臨時改EMU3000新自強號行駛"
       },
       "StopTimes": [
         {
@@ -142404,21 +142404,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "6250"
-            },
-            "EndSection": {
-              "StartStationID": "6130",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "6250"
+            },
+            "EndSection": {
+              "StartStationID": "6130",
               "EndStationID": "4340"
             }
           }
