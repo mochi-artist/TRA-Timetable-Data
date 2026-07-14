@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-07-11T08:27:10+08:00",
+  "UpdateTime": "2026-07-14T07:17:07+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-07-11T03:05:07+08:00",
+  "SrcUpdateTime": "2026-07-13T18:23:54+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-08-01",
   "TrainTimetables": [
@@ -50245,21 +50245,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0930",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "3300",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1210",
               "EndStationID": "3300"
             },
             "EndSection": {
               "StartStationID": "4220",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
               "EndStationID": "5050"
             }
           }
@@ -263773,6 +263773,67 @@
           },
           "ArrivalTime": "09:47",
           "DepartureTime": "09:47",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6069",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1106",
+        "TrainTypeCode": "3",
+        "TrainTypeName": {
+          "Zh_tw": "自強(商務專開列車)",
+          "En": "Tze-Chiang Express"
+        },
+        "TripHeadSign": "往花蓮",
+        "StartingStationID": "6000",
+        "StartingStationName": {
+          "Zh_tw": "臺東",
+          "En": "Taitung"
+        },
+        "EndingStationID": "7000",
+        "EndingStationName": {
+          "Zh_tw": "花蓮",
+          "En": "Hualien"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年8月1日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "6000",
+          "StationName": {
+            "Zh_tw": "臺東",
+            "En": "Taitung"
+          },
+          "ArrivalTime": "14:35",
+          "DepartureTime": "14:35",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "7000",
+          "StationName": {
+            "Zh_tw": "花蓮",
+            "En": "Hualien"
+          },
+          "ArrivalTime": "17:53",
+          "DepartureTime": "17:53",
           "SuspendedFlag": 0
         }
       ]
