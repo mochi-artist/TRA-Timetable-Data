@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-07-18T07:07:34+08:00",
+  "UpdateTime": "2026-07-19T08:07:14+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-07-17T21:51:03+08:00",
+  "SrcUpdateTime": "2026-07-18T19:15:35+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-09-15",
   "TrainTimetables": [
@@ -240281,21 +240281,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "0920"
-            },
-            "EndSection": {
-              "StartStationID": "7190",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0920"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
               "EndStationID": "4340"
             }
           }
