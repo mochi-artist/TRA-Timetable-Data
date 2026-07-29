@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-07-29T09:20:45+08:00",
+  "UpdateTime": "2026-07-30T06:10:43+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-07-28T09:33:03+08:00",
+  "SrcUpdateTime": "2026-07-29T20:31:19+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-07-30",
   "TrainTimetables": [
@@ -76428,7 +76428,7 @@
         "TrainNo": "193",
         "RouteID": "",
         "Direction": 1,
-        "TrainTypeID": "110G",
+        "TrainTypeID": "110K",
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
@@ -76457,7 +76457,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本班次第6節為騰雲座艙、第9節為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。本班次第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
         {
@@ -76577,7 +76577,7 @@
         "TrainNo": "194",
         "RouteID": "",
         "Direction": 0,
-        "TrainTypeID": "110G",
+        "TrainTypeID": "110K",
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
@@ -76618,7 +76618,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。  第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。本班次第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
         {
