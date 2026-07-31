@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-07-30T06:10:43+08:00",
+  "UpdateTime": "2026-07-31T07:10:39+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-07-29T14:22:33+08:00",
+  "SrcUpdateTime": "2026-07-30T17:18:26+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-08-22",
   "TrainTimetables": [
@@ -50245,21 +50245,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
@@ -215279,7 +215279,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。在松山跨日。"
+        "Note": "每日行駛。在松山跨日。※配合「2026宜蘭情人節系列」活動，本次車8月19、20、21、22、23日增停【冬山站】。"
       },
       "StopTimes": [
         {
@@ -215537,6 +215537,17 @@
         },
         {
           "StopSequence": 24,
+          "StationID": "7150",
+          "StationName": {
+            "Zh_tw": "冬山",
+            "En": "Dongshan"
+          },
+          "ArrivalTime": "22:24",
+          "DepartureTime": "22:25",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 25,
           "StationID": "7160",
           "StationName": {
             "Zh_tw": "羅東",
@@ -215547,7 +215558,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 25,
+          "StopSequence": 26,
           "StationID": "7190",
           "StationName": {
             "Zh_tw": "宜蘭",
@@ -215558,7 +215569,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 26,
+          "StopSequence": 27,
           "StationID": "7210",
           "StationName": {
             "Zh_tw": "礁溪",
@@ -215569,7 +215580,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 27,
+          "StopSequence": 28,
           "StationID": "7230",
           "StationName": {
             "Zh_tw": "頭城",
@@ -215580,7 +215591,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 28,
+          "StopSequence": 29,
           "StationID": "7360",
           "StationName": {
             "Zh_tw": "瑞芳",
@@ -215591,7 +215602,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 29,
+          "StopSequence": 30,
           "StationID": "0920",
           "StationName": {
             "Zh_tw": "八堵",
@@ -215602,7 +215613,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 30,
+          "StopSequence": 31,
           "StationID": "0930",
           "StationName": {
             "Zh_tw": "七堵",
@@ -215613,7 +215624,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 31,
+          "StopSequence": 32,
           "StationID": "0960",
           "StationName": {
             "Zh_tw": "汐止",
@@ -215624,7 +215635,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 32,
+          "StopSequence": 33,
           "StationID": "0980",
           "StationName": {
             "Zh_tw": "南港",
@@ -215635,7 +215646,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 33,
+          "StopSequence": 34,
           "StationID": "0990",
           "StationName": {
             "Zh_tw": "松山",
@@ -215646,7 +215657,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 34,
+          "StopSequence": 35,
           "StationID": "1000",
           "StationName": {
             "Zh_tw": "臺北",
@@ -215657,7 +215668,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 35,
+          "StopSequence": 36,
           "StationID": "1020",
           "StationName": {
             "Zh_tw": "板橋",
@@ -215668,7 +215679,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 36,
+          "StopSequence": 37,
           "StationID": "1040",
           "StationName": {
             "Zh_tw": "樹林",
@@ -250168,7 +250179,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※配合「2026宜蘭情人節系列」活動，本次車8月19、20、21、22、23日增停【冬山站】。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -250448,6 +250459,17 @@
         },
         {
           "StopSequence": 26,
+          "StationID": "7150",
+          "StationName": {
+            "Zh_tw": "冬山",
+            "En": "Dongshan"
+          },
+          "ArrivalTime": "21:32",
+          "DepartureTime": "21:33",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 27,
           "StationID": "7160",
           "StationName": {
             "Zh_tw": "羅東",
@@ -250458,7 +250480,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 27,
+          "StopSequence": 28,
           "StationID": "7190",
           "StationName": {
             "Zh_tw": "宜蘭",
@@ -250469,7 +250491,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 28,
+          "StopSequence": 29,
           "StationID": "7210",
           "StationName": {
             "Zh_tw": "礁溪",
@@ -250480,7 +250502,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 29,
+          "StopSequence": 30,
           "StationID": "0980",
           "StationName": {
             "Zh_tw": "南港",
@@ -250491,7 +250513,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 30,
+          "StopSequence": 31,
           "StationID": "0990",
           "StationName": {
             "Zh_tw": "松山",
@@ -250502,7 +250524,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 31,
+          "StopSequence": 32,
           "StationID": "1000",
           "StationName": {
             "Zh_tw": "臺北",
@@ -250513,7 +250535,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 32,
+          "StopSequence": 33,
           "StationID": "1020",
           "StationName": {
             "Zh_tw": "板橋",
@@ -250524,7 +250546,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 33,
+          "StopSequence": 34,
           "StationID": "1040",
           "StationName": {
             "Zh_tw": "樹林",
@@ -250747,6 +250769,144 @@
           },
           "ArrivalTime": "00:32",
           "DepartureTime": "00:35",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "4477",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1131",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往頭城",
+        "StartingStationID": "7150",
+        "StartingStationName": {
+          "Zh_tw": "冬山",
+          "En": "Dongshan"
+        },
+        "EndingStationID": "7230",
+        "EndingStationName": {
+          "Zh_tw": "頭城",
+          "En": "Toucheng"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 1,
+        "SuspendedFlag": 0,
+        "ServiceType": 2,
+        "Note": "民國115年8月19-23日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "7150",
+          "StationName": {
+            "Zh_tw": "冬山",
+            "En": "Dongshan"
+          },
+          "ArrivalTime": "22:10",
+          "DepartureTime": "22:10",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "7160",
+          "StationName": {
+            "Zh_tw": "羅東",
+            "En": "Luodong"
+          },
+          "ArrivalTime": "22:15",
+          "DepartureTime": "22:16",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "7170",
+          "StationName": {
+            "Zh_tw": "中里",
+            "En": "Zhongli_Yilan"
+          },
+          "ArrivalTime": "22:18",
+          "DepartureTime": "22:19",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "7180",
+          "StationName": {
+            "Zh_tw": "二結",
+            "En": "Erjie"
+          },
+          "ArrivalTime": "22:21",
+          "DepartureTime": "22:21",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "7190",
+          "StationName": {
+            "Zh_tw": "宜蘭",
+            "En": "Yilan"
+          },
+          "ArrivalTime": "22:26",
+          "DepartureTime": "22:27",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "7200",
+          "StationName": {
+            "Zh_tw": "四城",
+            "En": "Sicheng"
+          },
+          "ArrivalTime": "22:31",
+          "DepartureTime": "22:31",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "7210",
+          "StationName": {
+            "Zh_tw": "礁溪",
+            "En": "Jiaoxi"
+          },
+          "ArrivalTime": "22:36",
+          "DepartureTime": "22:37",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 8,
+          "StationID": "7220",
+          "StationName": {
+            "Zh_tw": "頂埔",
+            "En": "Dingpu"
+          },
+          "ArrivalTime": "22:41",
+          "DepartureTime": "22:41",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 9,
+          "StationID": "7230",
+          "StationName": {
+            "Zh_tw": "頭城",
+            "En": "Toucheng"
+          },
+          "ArrivalTime": "22:45",
+          "DepartureTime": "22:45",
           "SuspendedFlag": 0
         }
       ]
