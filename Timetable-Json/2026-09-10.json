@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-07-31T07:10:39+08:00",
+  "UpdateTime": "2026-08-01T08:10:37+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-07-30T17:18:26+08:00",
+  "SrcUpdateTime": "2026-07-31T18:04:00+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-09-10",
   "TrainTimetables": [
@@ -51331,21 +51331,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
@@ -240389,21 +240389,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "0920"
-            },
-            "EndSection": {
-              "StartStationID": "7190",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0920"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
               "EndStationID": "4340"
             }
           }
@@ -264925,6 +264925,205 @@
           },
           "ArrivalTime": "22:59",
           "DepartureTime": "22:59",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6652",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往二結",
+        "StartingStationID": "0980",
+        "StartingStationName": {
+          "Zh_tw": "南港",
+          "En": "Nangang"
+        },
+        "EndingStationID": "7180",
+        "EndingStationName": {
+          "Zh_tw": "二結",
+          "En": "Erjie"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年9月3-6、10-13、17-20、24-27日，民國115年10月1-4、8-11、15-18、22-25日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "0980",
+          "StationName": {
+            "Zh_tw": "南港",
+            "En": "Nangang"
+          },
+          "ArrivalTime": "07:56",
+          "DepartureTime": "09:24",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "7270",
+          "StationName": {
+            "Zh_tw": "大里",
+            "En": "Dali"
+          },
+          "ArrivalTime": "10:53",
+          "DepartureTime": "11:20",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "7230",
+          "StationName": {
+            "Zh_tw": "頭城",
+            "En": "Toucheng"
+          },
+          "ArrivalTime": "11:35",
+          "DepartureTime": "12:40",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "7210",
+          "StationName": {
+            "Zh_tw": "礁溪",
+            "En": "Jiaoxi"
+          },
+          "ArrivalTime": "12:46",
+          "DepartureTime": "12:47",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "7190",
+          "StationName": {
+            "Zh_tw": "宜蘭",
+            "En": "Yilan"
+          },
+          "ArrivalTime": "12:55",
+          "DepartureTime": "13:05",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "7180",
+          "StationName": {
+            "Zh_tw": "二結",
+            "En": "Erjie"
+          },
+          "ArrivalTime": "13:11",
+          "DepartureTime": "13:11",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6655",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往南港",
+        "StartingStationID": "7180",
+        "StartingStationName": {
+          "Zh_tw": "二結",
+          "En": "Erjie"
+        },
+        "EndingStationID": "0980",
+        "EndingStationName": {
+          "Zh_tw": "南港",
+          "En": "Nangang"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年9月3-6、10-13、17-20、24-27日，民國115年10月1-4、8-11、15-18、22-25日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "7180",
+          "StationName": {
+            "Zh_tw": "二結",
+            "En": "Erjie"
+          },
+          "ArrivalTime": "13:52",
+          "DepartureTime": "13:52",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "7190",
+          "StationName": {
+            "Zh_tw": "宜蘭",
+            "En": "Yilan"
+          },
+          "ArrivalTime": "13:58",
+          "DepartureTime": "14:26",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "7270",
+          "StationName": {
+            "Zh_tw": "大里",
+            "En": "Dali"
+          },
+          "ArrivalTime": "14:51",
+          "DepartureTime": "15:12",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "7350",
+          "StationName": {
+            "Zh_tw": "猴硐",
+            "En": "Houtong"
+          },
+          "ArrivalTime": "15:38",
+          "DepartureTime": "16:38",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "0980",
+          "StationName": {
+            "Zh_tw": "南港",
+            "En": "Nangang"
+          },
+          "ArrivalTime": "17:21",
+          "DepartureTime": "18:29",
           "SuspendedFlag": 0
         }
       ]
