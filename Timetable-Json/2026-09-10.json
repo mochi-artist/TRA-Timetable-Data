@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-08-01T08:10:37+08:00",
+  "UpdateTime": "2026-08-04T07:00:42+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-07-31T18:04:00+08:00",
+  "SrcUpdateTime": "2026-08-03T15:21:02+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-09-10",
   "TrainTimetables": [
@@ -51331,21 +51331,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0930",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "3300",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1210",
               "EndStationID": "3300"
             },
             "EndSection": {
               "StartStationID": "4220",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
               "EndStationID": "5050"
             }
           }
@@ -218535,21 +218535,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -240389,21 +240389,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "0920"
             },
             "EndSection": {
               "StartStationID": "7190",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
@@ -265124,6 +265124,67 @@
           },
           "ArrivalTime": "17:21",
           "DepartureTime": "18:29",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6663",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1104",
+        "TrainTypeCode": "3",
+        "TrainTypeName": {
+          "Zh_tw": "自強(專開列車)",
+          "En": "Tze-Chiang Express"
+        },
+        "TripHeadSign": "往花蓮",
+        "StartingStationID": "5000",
+        "StartingStationName": {
+          "Zh_tw": "屏東",
+          "En": "Pingtung"
+        },
+        "EndingStationID": "7000",
+        "EndingStationName": {
+          "Zh_tw": "花蓮",
+          "En": "Hualien"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年9月10日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "5000",
+          "StationName": {
+            "Zh_tw": "屏東",
+            "En": "Pingtung"
+          },
+          "ArrivalTime": "07:31",
+          "DepartureTime": "07:38",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "7000",
+          "StationName": {
+            "Zh_tw": "花蓮",
+            "En": "Hualien"
+          },
+          "ArrivalTime": "11:21",
+          "DepartureTime": "11:21",
           "SuspendedFlag": 0
         }
       ]
