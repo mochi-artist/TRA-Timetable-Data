@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-08-10T08:50:44+08:00",
+  "UpdateTime": "2026-08-13T07:40:45+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-08-08T07:01:33+08:00",
+  "SrcUpdateTime": "2026-08-12T17:16:35+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-10-08",
   "TrainTimetables": [
@@ -51331,21 +51331,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0930",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "3300",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1210",
               "EndStationID": "3300"
             },
             "EndSection": {
               "StartStationID": "4220",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
               "EndStationID": "5050"
             }
           }
@@ -240389,21 +240389,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "0920"
             },
             "EndSection": {
               "StartStationID": "7190",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
@@ -264925,6 +264925,133 @@
           },
           "ArrivalTime": "22:59",
           "DepartureTime": "22:59",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6615",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1104",
+        "TrainTypeCode": "3",
+        "TrainTypeName": {
+          "Zh_tw": "自強(專開列車)",
+          "En": "Tze-Chiang Express"
+        },
+        "TripHeadSign": "往臺北",
+        "StartingStationID": "7190",
+        "StartingStationName": {
+          "Zh_tw": "宜蘭",
+          "En": "Yilan"
+        },
+        "EndingStationID": "1000",
+        "EndingStationName": {
+          "Zh_tw": "臺北",
+          "En": "Taipei"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年9月4、11、18、24日，民國115年10月2、8、16、23、30日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "7190",
+          "StationName": {
+            "Zh_tw": "宜蘭",
+            "En": "Yilan"
+          },
+          "ArrivalTime": "16:16",
+          "DepartureTime": "16:23",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "7290",
+          "StationName": {
+            "Zh_tw": "福隆",
+            "En": "Fulong"
+          },
+          "ArrivalTime": "16:47",
+          "DepartureTime": "16:49",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "7360",
+          "StationName": {
+            "Zh_tw": "瑞芳",
+            "En": "Ruifang"
+          },
+          "ArrivalTime": "17:15",
+          "DepartureTime": "17:21",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "0920",
+          "StationName": {
+            "Zh_tw": "八堵",
+            "En": "Badu"
+          },
+          "ArrivalTime": "17:30",
+          "DepartureTime": "17:32",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "0960",
+          "StationName": {
+            "Zh_tw": "汐止",
+            "En": "Xizhi"
+          },
+          "ArrivalTime": "17:45",
+          "DepartureTime": "17:46",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "0980",
+          "StationName": {
+            "Zh_tw": "南港",
+            "En": "Nangang"
+          },
+          "ArrivalTime": "17:52",
+          "DepartureTime": "17:53",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "0990",
+          "StationName": {
+            "Zh_tw": "松山",
+            "En": "Songshan"
+          },
+          "ArrivalTime": "17:57",
+          "DepartureTime": "17:58",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 8,
+          "StationID": "1000",
+          "StationName": {
+            "Zh_tw": "臺北",
+            "En": "Taipei"
+          },
+          "ArrivalTime": "18:05",
+          "DepartureTime": "18:08",
           "SuspendedFlag": 0
         }
       ]
