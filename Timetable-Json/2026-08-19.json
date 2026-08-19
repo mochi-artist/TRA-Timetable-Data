@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-08-17T07:30:32+08:00",
+  "UpdateTime": "2026-08-19T09:30:40+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-08-16T18:17:41+08:00",
+  "SrcUpdateTime": "2026-08-18T14:38:08+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-08-19",
   "TrainTimetables": [
@@ -4054,10 +4054,10 @@
         "TrainNo": "109",
         "RouteID": "",
         "Direction": 1,
-        "TrainTypeID": "110A",
+        "TrainTypeID": "1108",
         "TrainTypeCode": "3",
         "TrainTypeName": {
-          "Zh_tw": "自強(推拉式自強號且有自行車車廂)",
+          "Zh_tw": "自強(推拉式自強號且無自行車車廂)",
           "En": "Tze-Chiang Express"
         },
         "TripHeadSign": "往屏東",
@@ -4077,13 +4077,13 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。"
+        "Note": "每日行駛。因編組運用關係，本日臨時取消兩鐵運送服務"
       },
       "StopTimes": [
         {
@@ -219066,21 +219066,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
@@ -240920,21 +240920,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "0920"
-            },
-            "EndSection": {
-              "StartStationID": "7190",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0920"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
               "EndStationID": "4340"
             }
           }
