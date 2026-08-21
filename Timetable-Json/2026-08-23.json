@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-08-19T09:30:40+08:00",
+  "UpdateTime": "2026-08-21T07:20:37+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-08-18T14:38:08+08:00",
+  "SrcUpdateTime": "2026-08-20T20:45:35+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-08-23",
   "TrainTimetables": [
@@ -80745,11 +80745,11 @@
         "TrainNo": "21",
         "RouteID": "",
         "Direction": 1,
-        "TrainTypeID": "1107",
-        "TrainTypeCode": "2",
+        "TrainTypeID": "1101",
+        "TrainTypeCode": "1",
         "TrainTypeName": {
-          "Zh_tw": "普悠瑪(普悠瑪)",
-          "En": "Puyuma Express"
+          "Zh_tw": "太魯閣(太魯閣)",
+          "En": "Taroko Express"
         },
         "TripHeadSign": "往樹林",
         "StartingStationID": "6000",
@@ -80774,7 +80774,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "逢週五、日行駛。團體列車，不發售無座票，非持本班次車票旅客，請勿搭乘。"
+        "Note": "逢週五、日行駛。團體列車，不發售無座票，非持本班次車票旅客，請勿搭乘。本日臨時改太魯閣號替駛。"
       },
       "StopTimes": [
         {
@@ -219101,21 +219101,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -229802,11 +229802,11 @@
         "TrainNo": "416",
         "RouteID": "",
         "Direction": 0,
-        "TrainTypeID": "1107",
-        "TrainTypeCode": "2",
+        "TrainTypeID": "1101",
+        "TrainTypeCode": "1",
         "TrainTypeName": {
-          "Zh_tw": "普悠瑪(普悠瑪)",
-          "En": "Puyuma Express"
+          "Zh_tw": "太魯閣(太魯閣)",
+          "En": "Taroko Express"
         },
         "TripHeadSign": "往臺東",
         "StartingStationID": "1040",
@@ -229831,7 +229831,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "逢週日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
+        "Note": "逢週日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。本日臨時改太魯閣號替駛。"
       },
       "StopTimes": [
         {

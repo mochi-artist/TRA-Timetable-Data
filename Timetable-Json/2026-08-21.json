@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-08-19T09:30:40+08:00",
+  "UpdateTime": "2026-08-21T07:20:37+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-08-18T14:38:08+08:00",
+  "SrcUpdateTime": "2026-08-20T22:57:36+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-08-21",
   "TrainTimetables": [
@@ -5774,7 +5774,7 @@
         "TrainNo": "111",
         "RouteID": "",
         "Direction": 1,
-        "TrainTypeID": "110G",
+        "TrainTypeID": "110K",
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
@@ -5815,7 +5815,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※115年8月1日起至8月31日止，逢週五至週日暫停自由座服務，改於乘車當日限量發售無座票。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※115年8月1日起至8月31日止，逢週五至週日暫停自由座服務，改於乘車當日限量發售無座票。"
       },
       "StopTimes": [
         {
@@ -51837,21 +51837,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
@@ -52016,7 +52016,7 @@
         "TrainNo": "132",
         "RouteID": "",
         "Direction": 0,
-        "TrainTypeID": "110G",
+        "TrainTypeID": "110K",
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
@@ -52057,7 +52057,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。※115年8月1日起至8月31日止，逢週五至週日暫停自由座服務，改於乘車當日限量發售無座票。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※115年8月1日起至8月31日止，逢週五至週日暫停自由座服務，改於乘車當日限量發售無座票。"
       },
       "StopTimes": [
         {
@@ -220699,21 +220699,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
