@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-08-23T07:51:15+08:00",
+  "UpdateTime": "2026-08-25T09:51:20+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-08-22T11:34:41+08:00",
+  "SrcUpdateTime": "2026-08-24T15:13:08+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-10-02",
   "TrainTimetables": [
@@ -1223,7 +1223,7 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
@@ -64558,7 +64558,7 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
@@ -77324,7 +77324,7 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
@@ -77473,7 +77473,7 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
@@ -137768,7 +137768,7 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
@@ -267496,6 +267496,122 @@
           },
           "ArrivalTime": "22:59",
           "DepartureTime": "22:59",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6558",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1104",
+        "TrainTypeCode": "3",
+        "TrainTypeName": {
+          "Zh_tw": "自強(專開列車)",
+          "En": "Tze-Chiang Express"
+        },
+        "TripHeadSign": "往吉安",
+        "StartingStationID": "1100",
+        "StartingStationName": {
+          "Zh_tw": "中壢",
+          "En": "Zhongli_Taoyuan"
+        },
+        "EndingStationID": "6250",
+        "EndingStationName": {
+          "Zh_tw": "吉安",
+          "En": "Ji'an"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年10月2日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "1100",
+          "StationName": {
+            "Zh_tw": "中壢",
+            "En": "Zhongli_Taoyuan"
+          },
+          "ArrivalTime": "08:10",
+          "DepartureTime": "08:10",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1080",
+          "StationName": {
+            "Zh_tw": "桃園",
+            "En": "Taoyuan"
+          },
+          "ArrivalTime": "08:19",
+          "DepartureTime": "08:22",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1020",
+          "StationName": {
+            "Zh_tw": "板橋",
+            "En": "Banqiao"
+          },
+          "ArrivalTime": "08:43",
+          "DepartureTime": "08:45",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "0980",
+          "StationName": {
+            "Zh_tw": "南港",
+            "En": "Nangang"
+          },
+          "ArrivalTime": "09:06",
+          "DepartureTime": "09:08",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "7130",
+          "StationName": {
+            "Zh_tw": "蘇澳新",
+            "En": "Su'aoxin"
+          },
+          "ArrivalTime": "10:31",
+          "DepartureTime": "10:33",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "7060",
+          "StationName": {
+            "Zh_tw": "和平",
+            "En": "Heping"
+          },
+          "ArrivalTime": "10:56",
+          "DepartureTime": "10:58",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "6250",
+          "StationName": {
+            "Zh_tw": "吉安",
+            "En": "Ji'an"
+          },
+          "ArrivalTime": "11:35",
+          "DepartureTime": "11:35",
           "SuspendedFlag": 0
         }
       ]

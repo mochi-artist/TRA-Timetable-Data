@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-08-23T07:51:15+08:00",
+  "UpdateTime": "2026-08-25T09:51:20+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-08-22T11:34:41+08:00",
+  "SrcUpdateTime": "2026-08-24T15:13:38+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-10-04",
   "TrainTimetables": [
@@ -1212,7 +1212,7 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
@@ -61402,7 +61402,7 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
@@ -63319,7 +63319,7 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
@@ -71980,7 +71980,7 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
@@ -136154,7 +136154,7 @@
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
         "BreastFeedFlag": 1,
-        "BikeFlag": 1,
+        "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
@@ -265463,6 +265463,100 @@
           },
           "ArrivalTime": "22:59",
           "DepartureTime": "22:59",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6569",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1104",
+        "TrainTypeCode": "3",
+        "TrainTypeName": {
+          "Zh_tw": "自強(專開列車)",
+          "En": "Tze-Chiang Express"
+        },
+        "TripHeadSign": "往中壢",
+        "StartingStationID": "7030",
+        "StartingStationName": {
+          "Zh_tw": "新城",
+          "En": "Xincheng"
+        },
+        "EndingStationID": "1100",
+        "EndingStationName": {
+          "Zh_tw": "中壢",
+          "En": "Zhongli_Taoyuan"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年10月4日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "7030",
+          "StationName": {
+            "Zh_tw": "新城",
+            "En": "Xincheng"
+          },
+          "ArrivalTime": "14:17",
+          "DepartureTime": "14:30",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "0980",
+          "StationName": {
+            "Zh_tw": "南港",
+            "En": "Nangang"
+          },
+          "ArrivalTime": "16:36",
+          "DepartureTime": "16:47",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1020",
+          "StationName": {
+            "Zh_tw": "板橋",
+            "En": "Banqiao"
+          },
+          "ArrivalTime": "17:09",
+          "DepartureTime": "17:12",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "1080",
+          "StationName": {
+            "Zh_tw": "桃園",
+            "En": "Taoyuan"
+          },
+          "ArrivalTime": "17:35",
+          "DepartureTime": "17:38",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "1100",
+          "StationName": {
+            "Zh_tw": "中壢",
+            "En": "Zhongli_Taoyuan"
+          },
+          "ArrivalTime": "17:49",
+          "DepartureTime": "17:49",
           "SuspendedFlag": 0
         }
       ]
