@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-08-24T08:51:33+08:00",
+  "UpdateTime": "2026-08-26T06:41:18+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-08-23T17:19:22+08:00",
+  "SrcUpdateTime": "2026-08-25T17:58:24+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-08-26",
   "TrainTimetables": [
@@ -4357,7 +4357,7 @@
         "TrainNo": "110",
         "RouteID": "",
         "Direction": 0,
-        "TrainTypeID": "110H",
+        "TrainTypeID": "110K",
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
@@ -4386,7 +4386,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本班次第6節為騰雲座艙、第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。 第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。本班次第9節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
         {
@@ -18789,7 +18789,7 @@
         "TrainNo": "116",
         "RouteID": "",
         "Direction": 0,
-        "TrainTypeID": "110K",
+        "TrainTypeID": "110G",
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
@@ -51622,21 +51622,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "0930",
-              "EndStationID": "1020"
-            },
-            "EndSection": {
-              "StartStationID": "3300",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1210",
               "EndStationID": "3300"
             },
             "EndSection": {
               "StartStationID": "4220",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
               "EndStationID": "5050"
             }
           }
