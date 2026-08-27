@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-08-26T06:41:18+08:00",
+  "UpdateTime": "2026-08-27T07:41:11+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-08-25T14:08:40+08:00",
+  "SrcUpdateTime": "2026-08-26T16:04:18+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-10-24",
   "TrainTimetables": [
@@ -5409,7 +5409,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "4080"
+            },
+            "EndSection": {
+              "StartStationID": "4400",
+              "EndStationID": "5120"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -39802,7 +39814,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3230",
+              "EndStationID": "5050"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -50229,7 +50253,29 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -50411,7 +50457,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "5120",
+              "EndStationID": "1210"
+            },
+            "EndSection": {
+              "StartStationID": "1020",
+              "EndStationID": "0930"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -50604,7 +50662,19 @@
         "TripLine": 2,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "4080"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
+              "EndStationID": "5050"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -51794,7 +51864,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3230",
+              "EndStationID": "5050"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -52279,7 +52361,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3230",
+              "EndStationID": "5050"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -53221,7 +53315,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3230",
+              "EndStationID": "5050"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -57007,7 +57113,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "3230"
+            },
+            "EndSection": {
+              "StartStationID": "1020",
+              "EndStationID": "0930"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -57536,7 +57654,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1020"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
+              "EndStationID": "6000"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -57861,7 +57991,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5050",
+              "EndStationID": "0930"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -60257,7 +60399,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "5050",
+              "EndStationID": "4220"
+            },
+            "EndSection": {
+              "StartStationID": "3300",
+              "EndStationID": "0930"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -67553,7 +67707,19 @@
         "TripLine": 2,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "0930",
+              "EndStationID": "1080"
+            },
+            "EndSection": {
+              "StartStationID": "2200",
+              "EndStationID": "5050"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -68933,7 +69099,19 @@
         "TripLine": 2,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "5050",
+              "EndStationID": "4220"
+            },
+            "EndSection": {
+              "StartStationID": "3470",
+              "EndStationID": "0930"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -74666,7 +74844,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "3470",
+              "EndStationID": "3230"
+            },
+            "EndSection": {
+              "StartStationID": "1020",
+              "EndStationID": "0930"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -84428,7 +84618,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "7160",
+              "EndStationID": "1040"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -88376,7 +88578,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "7160",
+              "EndStationID": "1040"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -181084,7 +181298,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "6110"
+            },
+            "EndSection": {
+              "StartStationID": "6000",
+              "EndStationID": "4220"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -210529,7 +210755,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "5190"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
+              "EndStationID": "3300"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -217590,7 +217828,29 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -219336,7 +219596,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "4340",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "7160",
+              "EndStationID": "1040"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -226480,7 +226752,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "4340",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "0990",
+              "EndStationID": "1040"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -233755,7 +234039,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6070"
+            },
+            "EndSection": {
+              "StartStationID": "7000",
+              "EndStationID": "1040"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -237638,7 +237934,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
+              "EndStationID": "1040"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -239225,7 +239533,29 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0920"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -241737,7 +242067,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "4340",
+              "EndStationID": "5120"
+            },
+            "EndSection": {
+              "StartStationID": "5220",
+              "EndStationID": "1040"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -247168,7 +247510,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0990"
+            },
+            "EndSection": {
+              "StartStationID": "7000",
+              "EndStationID": "6000"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -248055,7 +248409,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6070",
+              "EndStationID": "4340"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -248749,7 +249115,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0990"
+            },
+            "EndSection": {
+              "StartStationID": "7000",
+              "EndStationID": "6000"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -249069,7 +249447,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6110"
+            },
+            "EndSection": {
+              "StartStationID": "6250",
+              "EndStationID": "1040"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -249598,7 +249988,19 @@
         "TripLine": 0,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0980"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
+              "EndStationID": "6000"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -256659,7 +257061,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "3390",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
+              "EndStationID": "6000"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -258126,7 +258540,19 @@
         "TripLine": 1,
         "WheelChairFlag": 1,
         "PackageServiceFlag": 0,
-        "DiningFlag": 0,
+        "DiningFlag": 1,
+        "DiningFlagSections": [
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "0930",
+              "EndStationID": "3390"
+            }
+          }
+        ],
         "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
@@ -264007,6 +264433,211 @@
           },
           "ArrivalTime": "17:21",
           "DepartureTime": "18:29",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6710",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往基隆",
+        "StartingStationID": "0930",
+        "StartingStationName": {
+          "Zh_tw": "七堵",
+          "En": "Qidu"
+        },
+        "EndingStationID": "0900",
+        "EndingStationName": {
+          "Zh_tw": "基隆",
+          "En": "Keelung"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年10月24日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "0930",
+          "StationName": {
+            "Zh_tw": "七堵",
+            "En": "Qidu"
+          },
+          "ArrivalTime": "12:07",
+          "DepartureTime": "12:07",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "0900",
+          "StationName": {
+            "Zh_tw": "基隆",
+            "En": "Keelung"
+          },
+          "ArrivalTime": "12:17",
+          "DepartureTime": "12:17",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6715",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往樹林",
+        "StartingStationID": "0900",
+        "StartingStationName": {
+          "Zh_tw": "基隆",
+          "En": "Keelung"
+        },
+        "EndingStationID": "1040",
+        "EndingStationName": {
+          "Zh_tw": "樹林",
+          "En": "Shulin"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年10月24日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "0900",
+          "StationName": {
+            "Zh_tw": "基隆",
+            "En": "Keelung"
+          },
+          "ArrivalTime": "13:29",
+          "DepartureTime": "13:29",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1000",
+          "StationName": {
+            "Zh_tw": "臺北",
+            "En": "Taipei"
+          },
+          "ArrivalTime": "14:17",
+          "DepartureTime": "14:47",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1040",
+          "StationName": {
+            "Zh_tw": "樹林",
+            "En": "Shulin"
+          },
+          "ArrivalTime": "15:03",
+          "DepartureTime": "16:03",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6767",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往七堵",
+        "StartingStationID": "7190",
+        "StartingStationName": {
+          "Zh_tw": "宜蘭",
+          "En": "Yilan"
+        },
+        "EndingStationID": "0930",
+        "EndingStationName": {
+          "Zh_tw": "七堵",
+          "En": "Qidu"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年10月24日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "7190",
+          "StationName": {
+            "Zh_tw": "宜蘭",
+            "En": "Yilan"
+          },
+          "ArrivalTime": "09:26",
+          "DepartureTime": "09:26",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "7350",
+          "StationName": {
+            "Zh_tw": "猴硐",
+            "En": "Houtong"
+          },
+          "ArrivalTime": "10:20",
+          "DepartureTime": "11:05",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "0930",
+          "StationName": {
+            "Zh_tw": "七堵",
+            "En": "Qidu"
+          },
+          "ArrivalTime": "11:24",
+          "DepartureTime": "11:24",
           "SuspendedFlag": 0
         }
       ]
