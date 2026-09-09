@@ -49977,21 +49977,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
