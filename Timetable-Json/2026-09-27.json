@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-09-16T09:08:44+08:00",
+  "UpdateTime": "2026-09-18T08:10:57+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-09-15T18:55:01+08:00",
+  "SrcUpdateTime": "2026-09-16T11:15:13+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-09-27",
   "TrainTimetables": [
@@ -263634,6 +263634,122 @@
           },
           "ArrivalTime": "07:13",
           "DepartureTime": "07:16",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "5211",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1101",
+        "TrainTypeCode": "1",
+        "TrainTypeName": {
+          "Zh_tw": "太魯閣(太魯閣)",
+          "En": "Taroko Express"
+        },
+        "TripHeadSign": "往樹林",
+        "StartingStationID": "7000",
+        "StartingStationName": {
+          "Zh_tw": "花蓮",
+          "En": "Hualien"
+        },
+        "EndingStationID": "1040",
+        "EndingStationName": {
+          "Zh_tw": "樹林",
+          "En": "Shulin"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 1,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 1,
+        "SuspendedFlag": 0,
+        "ServiceType": 2,
+        "Note": "民國115年9月27日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "7000",
+          "StationName": {
+            "Zh_tw": "花蓮",
+            "En": "Hualien"
+          },
+          "ArrivalTime": "11:23",
+          "DepartureTime": "11:23",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "7160",
+          "StationName": {
+            "Zh_tw": "羅東",
+            "En": "Luodong"
+          },
+          "ArrivalTime": "12:19",
+          "DepartureTime": "12:21",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "7190",
+          "StationName": {
+            "Zh_tw": "宜蘭",
+            "En": "Yilan"
+          },
+          "ArrivalTime": "12:27",
+          "DepartureTime": "12:29",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "0990",
+          "StationName": {
+            "Zh_tw": "松山",
+            "En": "Songshan"
+          },
+          "ArrivalTime": "13:32",
+          "DepartureTime": "13:33",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "1000",
+          "StationName": {
+            "Zh_tw": "臺北",
+            "En": "Taipei"
+          },
+          "ArrivalTime": "13:40",
+          "DepartureTime": "13:43",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "1020",
+          "StationName": {
+            "Zh_tw": "板橋",
+            "En": "Banqiao"
+          },
+          "ArrivalTime": "13:50",
+          "DepartureTime": "13:51",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "1040",
+          "StationName": {
+            "Zh_tw": "樹林",
+            "En": "Shulin"
+          },
+          "ArrivalTime": "13:57",
+          "DepartureTime": "14:08",
           "SuspendedFlag": 0
         }
       ]
