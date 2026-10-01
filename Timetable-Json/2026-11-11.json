@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-09-30T07:00:24+08:00",
+  "UpdateTime": "2026-10-01T08:00:14+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-09-29T11:39:07+08:00",
+  "SrcUpdateTime": "2026-09-30T18:11:39+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-11-11",
   "TrainTimetables": [
@@ -219406,21 +219406,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -241302,21 +241302,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "7000",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "0920"
             },
             "EndSection": {
               "StartStationID": "7190",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "7000",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
@@ -264798,7 +264798,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "每日行駛。"
+        "Note": "民國115年11月1、8、14、21日，民國115年12月5日停駛。"
       },
       "StopTimes": [
         {
@@ -264914,7 +264914,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "每日行駛。"
+        "Note": "民國115年11月1、8、14、21日，民國115年12月5日停駛。"
       },
       "StopTimes": [
         {
@@ -265873,6 +265873,172 @@
           },
           "ArrivalTime": "22:59",
           "DepartureTime": "22:59",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6721",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往臺中",
+        "StartingStationID": "0980",
+        "StartingStationName": {
+          "Zh_tw": "南港",
+          "En": "Nangang"
+        },
+        "EndingStationID": "3300",
+        "EndingStationName": {
+          "Zh_tw": "臺中",
+          "En": "Taichung"
+        },
+        "OverNightStationID": "",
+        "TripLine": 3,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年11月11日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "0980",
+          "StationName": {
+            "Zh_tw": "南港",
+            "En": "Nangang"
+          },
+          "ArrivalTime": "10:00",
+          "DepartureTime": "10:00",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1180",
+          "StationName": {
+            "Zh_tw": "竹北",
+            "En": "Zhubei"
+          },
+          "ArrivalTime": "11:28",
+          "DepartureTime": "11:45",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1210",
+          "StationName": {
+            "Zh_tw": "新竹",
+            "En": "Hsinchu"
+          },
+          "ArrivalTime": "11:52",
+          "DepartureTime": "12:10",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "3340",
+          "StationName": {
+            "Zh_tw": "新烏日",
+            "En": "Xinwuri"
+          },
+          "ArrivalTime": "14:01",
+          "DepartureTime": "14:03",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "3300",
+          "StationName": {
+            "Zh_tw": "臺中",
+            "En": "Taichung"
+          },
+          "ArrivalTime": "14:13",
+          "DepartureTime": "14:13",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6722",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1130",
+        "TrainTypeCode": "6",
+        "TrainTypeName": {
+          "Zh_tw": "區間(專開列車)",
+          "En": "Local Train"
+        },
+        "TripHeadSign": "往南港",
+        "StartingStationID": "3300",
+        "StartingStationName": {
+          "Zh_tw": "臺中",
+          "En": "Taichung"
+        },
+        "EndingStationID": "0980",
+        "EndingStationName": {
+          "Zh_tw": "南港",
+          "En": "Nangang"
+        },
+        "OverNightStationID": "",
+        "TripLine": 3,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 0,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年11月11日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "3300",
+          "StationName": {
+            "Zh_tw": "臺中",
+            "En": "Taichung"
+          },
+          "ArrivalTime": "14:26",
+          "DepartureTime": "14:26",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1180",
+          "StationName": {
+            "Zh_tw": "竹北",
+            "En": "Zhubei"
+          },
+          "ArrivalTime": "16:44",
+          "DepartureTime": "16:55",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "0980",
+          "StationName": {
+            "Zh_tw": "南港",
+            "En": "Nangang"
+          },
+          "ArrivalTime": "18:32",
+          "DepartureTime": "18:32",
           "SuspendedFlag": 0
         }
       ]
