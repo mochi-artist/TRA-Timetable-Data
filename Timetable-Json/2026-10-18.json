@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-10-01T08:00:14+08:00",
+  "UpdateTime": "2026-10-02T09:00:26+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-09-30T18:11:39+08:00",
+  "SrcUpdateTime": "2026-10-01T18:06:00+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-10-18",
   "TrainTimetables": [
@@ -220028,21 +220028,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -267612,10 +267612,10 @@
           "En": "Local Train"
         },
         "TripHeadSign": "往新左營",
-        "StartingStationID": "1000",
+        "StartingStationID": "0990",
         "StartingStationName": {
-          "Zh_tw": "臺北",
-          "En": "Taipei"
+          "Zh_tw": "松山",
+          "En": "Songshan"
         },
         "EndingStationID": "4340",
         "EndingStationName": {
@@ -267639,6 +267639,17 @@
       "StopTimes": [
         {
           "StopSequence": 1,
+          "StationID": "0990",
+          "StationName": {
+            "Zh_tw": "松山",
+            "En": "Songshan"
+          },
+          "ArrivalTime": "10:05",
+          "DepartureTime": "10:05",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
           "StationID": "1000",
           "StationName": {
             "Zh_tw": "臺北",
@@ -267649,7 +267660,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 2,
+          "StopSequence": 3,
           "StationID": "1080",
           "StationName": {
             "Zh_tw": "桃園",
@@ -267660,7 +267671,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 3,
+          "StopSequence": 4,
           "StationID": "3300",
           "StationName": {
             "Zh_tw": "臺中",
@@ -267671,7 +267682,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 4,
+          "StopSequence": 5,
           "StationID": "4080",
           "StationName": {
             "Zh_tw": "嘉義",
@@ -267682,7 +267693,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 5,
+          "StopSequence": 6,
           "StationID": "4220",
           "StationName": {
             "Zh_tw": "臺南",
@@ -267693,7 +267704,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 6,
+          "StopSequence": 7,
           "StationID": "4340",
           "StationName": {
             "Zh_tw": "新左營",
