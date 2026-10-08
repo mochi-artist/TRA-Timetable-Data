@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-10-06T08:49:18+08:00",
+  "UpdateTime": "2026-10-08T06:39:25+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-10-05T14:33:52+08:00",
+  "SrcUpdateTime": "2026-10-07T11:03:04+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-10-26",
   "TrainTimetables": [
@@ -4877,6 +4877,10 @@
         {
           "StopSequence": 20,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "06:24",
           "DepartureTime": "06:25",
           "SuspendedFlag": 0
@@ -5281,6 +5285,10 @@
         {
           "StopSequence": 9,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "05:48",
           "DepartureTime": "05:48",
           "SuspendedFlag": 0
@@ -5890,6 +5898,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "05:41",
           "DepartureTime": "05:42",
           "SuspendedFlag": 0
@@ -6420,6 +6432,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "07:15",
           "DepartureTime": "07:16",
           "SuspendedFlag": 0
@@ -7242,6 +7258,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "08:02",
           "DepartureTime": "08:03",
           "SuspendedFlag": 0
@@ -7508,6 +7528,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "06:11",
           "DepartureTime": "06:12",
           "SuspendedFlag": 0
@@ -8038,6 +8062,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "07:27",
           "DepartureTime": "07:28",
           "SuspendedFlag": 0
@@ -8249,6 +8277,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "06:19",
           "DepartureTime": "06:20",
           "SuspendedFlag": 0
@@ -8746,6 +8778,10 @@
         {
           "StopSequence": 20,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "08:22",
           "DepartureTime": "08:23",
           "SuspendedFlag": 0
@@ -9166,6 +9202,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "06:40",
           "DepartureTime": "06:41",
           "SuspendedFlag": 0
@@ -9696,6 +9736,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "08:29",
           "DepartureTime": "08:30",
           "SuspendedFlag": 0
@@ -10254,6 +10298,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "09:04",
           "DepartureTime": "09:05",
           "SuspendedFlag": 0
@@ -10520,6 +10568,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "06:59",
           "DepartureTime": "07:00",
           "SuspendedFlag": 0
@@ -10918,6 +10970,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "07:33",
           "DepartureTime": "07:33",
           "SuspendedFlag": 0
@@ -11261,6 +11317,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "07:59",
           "DepartureTime": "07:59",
           "SuspendedFlag": 0
@@ -11802,6 +11862,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "09:24",
           "DepartureTime": "09:25",
           "SuspendedFlag": 0
@@ -12255,6 +12319,10 @@
         {
           "StopSequence": 21,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "08:17",
           "DepartureTime": "08:18",
           "SuspendedFlag": 0
@@ -12785,6 +12853,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "09:58",
           "DepartureTime": "09:59",
           "SuspendedFlag": 0
@@ -13266,6 +13338,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "08:29",
           "DepartureTime": "08:30",
           "SuspendedFlag": 0
@@ -13796,6 +13872,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "09:34",
           "DepartureTime": "09:35",
           "SuspendedFlag": 0
@@ -14139,6 +14219,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "10:27",
           "DepartureTime": "10:28",
           "SuspendedFlag": 0
@@ -14559,6 +14643,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "08:48",
           "DepartureTime": "08:49",
           "SuspendedFlag": 0
@@ -15458,6 +15546,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "11:06",
           "DepartureTime": "11:07",
           "SuspendedFlag": 0
@@ -15768,6 +15860,10 @@
         {
           "StopSequence": 15,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "09:22",
           "DepartureTime": "09:23",
           "SuspendedFlag": 0
@@ -16111,6 +16207,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "09:10",
           "DepartureTime": "09:11",
           "SuspendedFlag": 0
@@ -16652,6 +16752,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "11:17",
           "DepartureTime": "11:18",
           "SuspendedFlag": 0
@@ -17072,6 +17176,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "09:34",
           "DepartureTime": "09:35",
           "SuspendedFlag": 0
@@ -17740,6 +17848,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "10:48",
           "DepartureTime": "10:49",
           "SuspendedFlag": 0
@@ -18171,6 +18283,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "11:56",
           "DepartureTime": "11:57",
           "SuspendedFlag": 0
@@ -18437,6 +18553,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "10:10",
           "DepartureTime": "10:11",
           "SuspendedFlag": 0
@@ -18967,6 +19087,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "11:44",
           "DepartureTime": "11:45",
           "SuspendedFlag": 0
@@ -19525,6 +19649,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "12:22",
           "DepartureTime": "12:23",
           "SuspendedFlag": 0
@@ -19945,6 +20073,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "10:37",
           "DepartureTime": "10:38",
           "SuspendedFlag": 0
@@ -21015,6 +21147,10 @@
         {
           "StopSequence": 24,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "13:03",
           "DepartureTime": "13:04",
           "SuspendedFlag": 0
@@ -21281,6 +21417,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "11:29",
           "DepartureTime": "11:30",
           "SuspendedFlag": 0
@@ -21624,6 +21764,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "11:04",
           "DepartureTime": "11:05",
           "SuspendedFlag": 0
@@ -22154,6 +22298,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "13:13",
           "DepartureTime": "13:14",
           "SuspendedFlag": 0
@@ -22574,6 +22722,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "11:46",
           "DepartureTime": "11:47",
           "SuspendedFlag": 0
@@ -23231,6 +23383,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "12:22",
           "DepartureTime": "12:23",
           "SuspendedFlag": 0
@@ -23761,6 +23917,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "13:53",
           "DepartureTime": "13:54",
           "SuspendedFlag": 0
@@ -24170,6 +24330,10 @@
         {
           "StopSequence": 24,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "13:31",
           "DepartureTime": "13:32",
           "SuspendedFlag": 0
@@ -24513,6 +24677,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "14:09",
           "DepartureTime": "14:10",
           "SuspendedFlag": 0
@@ -24933,6 +25101,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "12:42",
           "DepartureTime": "12:43",
           "SuspendedFlag": 0
@@ -25463,6 +25635,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "14:56",
           "DepartureTime": "14:57",
           "SuspendedFlag": 0
@@ -25729,6 +25905,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "13:18",
           "DepartureTime": "13:18",
           "SuspendedFlag": 0
@@ -26072,6 +26252,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "12:51",
           "DepartureTime": "12:52",
           "SuspendedFlag": 0
@@ -26613,6 +26797,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "15:24",
           "DepartureTime": "15:25",
           "SuspendedFlag": 0
@@ -27033,6 +27221,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "13:42",
           "DepartureTime": "13:42",
           "SuspendedFlag": 0
@@ -27899,6 +28091,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "15:59",
           "DepartureTime": "16:00",
           "SuspendedFlag": 0
@@ -28165,6 +28361,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "14:19",
           "DepartureTime": "14:20",
           "SuspendedFlag": 0
@@ -28695,6 +28895,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "15:36",
           "DepartureTime": "15:37",
           "SuspendedFlag": 0
@@ -29038,6 +29242,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "16:16",
           "DepartureTime": "16:17",
           "SuspendedFlag": 0
@@ -29458,6 +29666,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "14:41",
           "DepartureTime": "14:42",
           "SuspendedFlag": 0
@@ -30313,6 +30525,10 @@
         {
           "StopSequence": 24,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "16:57",
           "DepartureTime": "16:58",
           "SuspendedFlag": 0
@@ -30579,6 +30795,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "15:16",
           "DepartureTime": "15:17",
           "SuspendedFlag": 0
@@ -30922,6 +31142,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "15:08",
           "DepartureTime": "15:09",
           "SuspendedFlag": 0
@@ -31452,6 +31676,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "17:08",
           "DepartureTime": "17:09",
           "SuspendedFlag": 0
@@ -31872,6 +32100,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "15:45",
           "DepartureTime": "15:46",
           "SuspendedFlag": 0
@@ -32749,6 +32981,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "17:47",
           "DepartureTime": "17:48",
           "SuspendedFlag": 0
@@ -32960,6 +33196,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "16:14",
           "DepartureTime": "16:15",
           "SuspendedFlag": 0
@@ -33501,6 +33741,10 @@
         {
           "StopSequence": 24,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "17:58",
           "DepartureTime": "17:59",
           "SuspendedFlag": 0
@@ -34103,6 +34347,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "18:05",
           "DepartureTime": "18:06",
           "SuspendedFlag": 0
@@ -34523,6 +34771,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "16:35",
           "DepartureTime": "16:36",
           "SuspendedFlag": 0
@@ -35356,6 +35608,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "18:31",
           "DepartureTime": "18:32",
           "SuspendedFlag": 0
@@ -35589,6 +35845,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "17:19",
           "DepartureTime": "17:20",
           "SuspendedFlag": 0
@@ -35987,6 +36247,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "17:08",
           "DepartureTime": "17:09",
           "SuspendedFlag": 0
@@ -36517,6 +36781,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "19:08",
           "DepartureTime": "19:09",
           "SuspendedFlag": 0
@@ -36915,6 +37183,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "19:35",
           "DepartureTime": "19:36",
           "SuspendedFlag": 0
@@ -37335,6 +37607,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "17:46",
           "DepartureTime": "17:47",
           "SuspendedFlag": 0
@@ -37832,6 +38108,10 @@
         {
           "StopSequence": 20,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "19:03",
           "DepartureTime": "19:04",
           "SuspendedFlag": 0
@@ -38335,6 +38615,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "19:59",
           "DepartureTime": "20:00",
           "SuspendedFlag": 0
@@ -38601,6 +38885,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "18:37",
           "DepartureTime": "18:38",
           "SuspendedFlag": 0
@@ -39131,6 +39419,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "19:50",
           "DepartureTime": "19:51",
           "SuspendedFlag": 0
@@ -39474,6 +39766,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "20:25",
           "DepartureTime": "20:26",
           "SuspendedFlag": 0
@@ -39894,6 +40190,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "18:46",
           "DepartureTime": "18:47",
           "SuspendedFlag": 0
@@ -40772,6 +41072,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "20:37",
           "DepartureTime": "20:38",
           "SuspendedFlag": 0
@@ -41082,6 +41386,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "19:12",
           "DepartureTime": "19:13",
           "SuspendedFlag": 0
@@ -41425,6 +41733,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "19:04",
           "DepartureTime": "19:05",
           "SuspendedFlag": 0
@@ -41955,6 +42267,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "21:22",
           "DepartureTime": "21:23",
           "SuspendedFlag": 0
@@ -42408,6 +42724,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "19:30",
           "DepartureTime": "19:31",
           "SuspendedFlag": 0
@@ -42938,6 +43258,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "21:37",
           "DepartureTime": "21:38",
           "SuspendedFlag": 0
@@ -43105,6 +43429,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "19:54",
           "DepartureTime": "19:55",
           "SuspendedFlag": 0
@@ -43635,6 +43963,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "21:55",
           "DepartureTime": "21:56",
           "SuspendedFlag": 0
@@ -44215,6 +44547,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "22:25",
           "DepartureTime": "22:26",
           "SuspendedFlag": 0
@@ -44635,6 +44971,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "20:27",
           "DepartureTime": "20:28",
           "SuspendedFlag": 0
@@ -45165,6 +45505,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "23:07",
           "DepartureTime": "23:08",
           "SuspendedFlag": 0
@@ -45431,6 +45775,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "21:25",
           "DepartureTime": "21:26",
           "SuspendedFlag": 0
@@ -45961,6 +46309,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "22:48",
           "DepartureTime": "22:49",
           "SuspendedFlag": 0
@@ -46172,6 +46524,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "20:47",
           "DepartureTime": "20:48",
           "SuspendedFlag": 0
@@ -46851,6 +47207,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "21:47",
           "DepartureTime": "21:48",
           "SuspendedFlag": 0
@@ -47486,6 +47846,10 @@
         {
           "StopSequence": 2,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "22:01",
           "DepartureTime": "22:01",
           "SuspendedFlag": 0
@@ -48027,6 +48391,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "23:32",
           "DepartureTime": "23:33",
           "SuspendedFlag": 0
@@ -48293,6 +48661,10 @@
         {
           "StopSequence": 11,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "22:38",
           "DepartureTime": "22:39",
           "SuspendedFlag": 0
@@ -48735,6 +49107,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "23:58",
           "DepartureTime": "23:59",
           "SuspendedFlag": 0
@@ -49271,6 +49647,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "22:50",
           "DepartureTime": "22:51",
           "SuspendedFlag": 0
@@ -50347,6 +50727,10 @@
         {
           "StopSequence": 18,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "23:34",
           "DepartureTime": "23:35",
           "SuspendedFlag": 0
@@ -82186,6 +82570,10 @@
         {
           "StopSequence": 37,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "07:42",
           "DepartureTime": "07:43",
           "SuspendedFlag": 0
@@ -85437,6 +85825,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "06:44",
           "DepartureTime": "06:45",
           "SuspendedFlag": 0
@@ -86627,6 +87019,10 @@
         {
           "StopSequence": 53,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "09:48",
           "DepartureTime": "09:49",
           "SuspendedFlag": 0
@@ -88853,6 +89249,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "08:46",
           "DepartureTime": "08:47",
           "SuspendedFlag": 0
@@ -90043,6 +90443,10 @@
         {
           "StopSequence": 53,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "12:01",
           "DepartureTime": "12:02",
           "SuspendedFlag": 0
@@ -91653,6 +92057,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "10:43",
           "DepartureTime": "10:44",
           "SuspendedFlag": 0
@@ -92843,6 +93251,10 @@
         {
           "StopSequence": 53,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "14:05",
           "DepartureTime": "14:06",
           "SuspendedFlag": 0
@@ -95169,6 +95581,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "12:36",
           "DepartureTime": "12:37",
           "SuspendedFlag": 0
@@ -96359,6 +96775,10 @@
         {
           "StopSequence": 53,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "15:57",
           "DepartureTime": "15:58",
           "SuspendedFlag": 0
@@ -98227,6 +98647,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "14:38",
           "DepartureTime": "14:39",
           "SuspendedFlag": 0
@@ -99417,6 +99841,10 @@
         {
           "StopSequence": 53,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "18:12",
           "DepartureTime": "18:13",
           "SuspendedFlag": 0
@@ -101197,6 +101625,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "16:39",
           "DepartureTime": "16:40",
           "SuspendedFlag": 0
@@ -102387,6 +102819,10 @@
         {
           "StopSequence": 53,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "20:08",
           "DepartureTime": "20:08",
           "SuspendedFlag": 0
@@ -104878,6 +105314,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "18:49",
           "DepartureTime": "18:50",
           "SuspendedFlag": 0
@@ -106068,6 +106508,10 @@
         {
           "StopSequence": 53,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "22:14",
           "DepartureTime": "22:15",
           "SuspendedFlag": 0
@@ -109489,6 +109933,10 @@
         {
           "StopSequence": 23,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "21:06",
           "DepartureTime": "21:07",
           "SuspendedFlag": 0
@@ -217312,21 +217760,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
@@ -218412,6 +218860,10 @@
         {
           "StopSequence": 40,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "07:38",
           "DepartureTime": "07:39",
           "SuspendedFlag": 0
@@ -221846,6 +222298,10 @@
         {
           "StopSequence": 24,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "10:12",
           "DepartureTime": "10:12",
           "SuspendedFlag": 0
@@ -227065,6 +227521,10 @@
         {
           "StopSequence": 3,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "06:49",
           "DepartureTime": "06:50",
           "SuspendedFlag": 0
@@ -227485,6 +227945,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "07:13",
           "DepartureTime": "07:14",
           "SuspendedFlag": 0
@@ -232492,6 +232956,10 @@
         {
           "StopSequence": 46,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "17:31",
           "DepartureTime": "17:32",
           "SuspendedFlag": 0
@@ -237369,6 +237837,10 @@
         {
           "StopSequence": 30,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "21:13",
           "DepartureTime": "21:14",
           "SuspendedFlag": 0
@@ -239911,6 +240383,10 @@
         {
           "StopSequence": 46,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "22:08",
           "DepartureTime": "22:09",
           "SuspendedFlag": 0
@@ -240882,6 +241358,10 @@
         {
           "StopSequence": 30,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "22:54",
           "DepartureTime": "22:55",
           "SuspendedFlag": 0
@@ -242053,6 +242533,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "16:44",
           "DepartureTime": "16:45",
           "SuspendedFlag": 0
@@ -243337,6 +243821,10 @@
         {
           "StopSequence": 43,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "23:19",
           "DepartureTime": "23:20",
           "SuspendedFlag": 0
@@ -246363,6 +246851,10 @@
         {
           "StopSequence": 6,
           "StationID": "1105",
+          "StationName": {
+            "Zh_tw": "平鎮",
+            "En": "Pingzhen"
+          },
           "ArrivalTime": "21:07",
           "DepartureTime": "21:08",
           "SuspendedFlag": 0
@@ -263526,7 +264018,7 @@
             "En": "Taipei"
           },
           "ArrivalTime": "19:26",
-          "DepartureTime": "19:29",
+          "DepartureTime": "19:28",
           "SuspendedFlag": 0
         },
         {
