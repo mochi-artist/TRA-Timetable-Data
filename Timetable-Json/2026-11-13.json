@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-10-15T08:45:19+08:00",
+  "UpdateTime": "2026-10-16T09:45:12+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-10-14T18:17:01+08:00",
+  "SrcUpdateTime": "2026-10-15T14:24:59+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-11-13",
   "TrainTimetables": [
@@ -261677,21 +261677,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
@@ -287501,21 +287501,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "0920"
-            },
-            "EndSection": {
-              "StartStationID": "7190",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0920"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
               "EndStationID": "4340"
             }
           }
@@ -317491,6 +317491,168 @@
     },
     {
       "TrainInfo": {
+        "TrainNo": "6615",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1104",
+        "TrainTypeCode": "3",
+        "TrainTypeName": {
+          "Zh_tw": "自強(專開列車)",
+          "En": "Tze-Chiang Express",
+          "Ja": "自強",
+          "Kr": "즈창"
+        },
+        "TripHeadSign": "往臺北",
+        "StartingStationID": "7190",
+        "StartingStationName": {
+          "Zh_tw": "宜蘭",
+          "En": "Yilan",
+          "Ja": "宜蘭",
+          "Kr": "이란"
+        },
+        "EndingStationID": "1000",
+        "EndingStationName": {
+          "Zh_tw": "臺北",
+          "En": "Taipei",
+          "Ja": "台北",
+          "Kr": "타이베이"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年11月6、13、20、27日，民國115年12月4、11、18、24、31日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "7190",
+          "StationName": {
+            "Zh_tw": "宜蘭",
+            "En": "Yilan",
+            "Ja": "宜蘭",
+            "Kr": "이란"
+          },
+          "ArrivalTime": "16:16",
+          "DepartureTime": "16:23",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "7290",
+          "StationName": {
+            "Zh_tw": "福隆",
+            "En": "Fulong",
+            "Ja": "福隆",
+            "Kr": "푸롱"
+          },
+          "ArrivalTime": "16:47",
+          "DepartureTime": "16:49",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "7310",
+          "StationName": {
+            "Zh_tw": "雙溪",
+            "En": "Shuangxi",
+            "Ja": "双渓",
+            "Kr": "쐉시"
+          },
+          "ArrivalTime": "16:57",
+          "DepartureTime": "17:00",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "7360",
+          "StationName": {
+            "Zh_tw": "瑞芳",
+            "En": "Ruifang",
+            "Ja": "瑞芳",
+            "Kr": "뤠이팡"
+          },
+          "ArrivalTime": "17:15",
+          "DepartureTime": "17:21",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "0920",
+          "StationName": {
+            "Zh_tw": "八堵",
+            "En": "Badu",
+            "Ja": "八堵",
+            "Kr": "바두"
+          },
+          "ArrivalTime": "17:30",
+          "DepartureTime": "17:32",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "0960",
+          "StationName": {
+            "Zh_tw": "汐止",
+            "En": "Xizhi",
+            "Ja": "汐止",
+            "Kr": "시즈"
+          },
+          "ArrivalTime": "17:45",
+          "DepartureTime": "17:46",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "0980",
+          "StationName": {
+            "Zh_tw": "南港",
+            "En": "Nangang",
+            "Ja": "南港",
+            "Kr": "난강"
+          },
+          "ArrivalTime": "17:52",
+          "DepartureTime": "17:53",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 8,
+          "StationID": "0990",
+          "StationName": {
+            "Zh_tw": "松山",
+            "En": "Songshan",
+            "Ja": "松山",
+            "Kr": "송산"
+          },
+          "ArrivalTime": "17:57",
+          "DepartureTime": "17:58",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 9,
+          "StationID": "1000",
+          "StationName": {
+            "Zh_tw": "臺北",
+            "En": "Taipei",
+            "Ja": "台北",
+            "Kr": "타이베이"
+          },
+          "ArrivalTime": "18:05",
+          "DepartureTime": "18:08",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
         "TrainNo": "6629",
         "RouteID": "",
         "Direction": 1,
@@ -317737,77 +317899,6 @@
     },
     {
       "TrainInfo": {
-        "TrainNo": "6631",
-        "RouteID": "",
-        "Direction": 1,
-        "TrainTypeID": "1130",
-        "TrainTypeCode": "6",
-        "TrainTypeName": {
-          "Zh_tw": "區間(專開列車)",
-          "En": "Local Train",
-          "Ja": "区間",
-          "Kr": "구간"
-        },
-        "TripHeadSign": "往保安",
-        "StartingStationID": "4220",
-        "StartingStationName": {
-          "Zh_tw": "臺南",
-          "En": "Tainan",
-          "Ja": "台南",
-          "Kr": "타이난"
-        },
-        "EndingStationID": "4250",
-        "EndingStationName": {
-          "Zh_tw": "保安",
-          "En": "Bao'an",
-          "Ja": "保安",
-          "Kr": "바오안"
-        },
-        "OverNightStationID": "",
-        "TripLine": 0,
-        "WheelChairFlag": 0,
-        "PackageServiceFlag": 0,
-        "DiningFlag": 0,
-        "BreastFeedFlag": 0,
-        "BikeFlag": 0,
-        "CarFlag": 0,
-        "DailyFlag": 0,
-        "ExtraTrainFlag": 0,
-        "SuspendedFlag": 0,
-        "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
-      },
-      "StopTimes": [
-        {
-          "StopSequence": 1,
-          "StationID": "4220",
-          "StationName": {
-            "Zh_tw": "臺南",
-            "En": "Tainan",
-            "Ja": "台南",
-            "Kr": "타이난"
-          },
-          "ArrivalTime": "07:12",
-          "DepartureTime": "07:15",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 2,
-          "StationID": "4250",
-          "StationName": {
-            "Zh_tw": "保安",
-            "En": "Bao'an",
-            "Ja": "保安",
-            "Kr": "바오안"
-          },
-          "ArrivalTime": "07:23",
-          "DepartureTime": "07:23",
-          "SuspendedFlag": 0
-        }
-      ]
-    },
-    {
-      "TrainInfo": {
         "TrainNo": "6632",
         "RouteID": "",
         "Direction": 0,
@@ -317912,116 +318003,6 @@
           },
           "ArrivalTime": "12:56",
           "DepartureTime": "12:56",
-          "SuspendedFlag": 0
-        }
-      ]
-    },
-    {
-      "TrainInfo": {
-        "TrainNo": "6633",
-        "RouteID": "",
-        "Direction": 1,
-        "TrainTypeID": "1130",
-        "TrainTypeCode": "6",
-        "TrainTypeName": {
-          "Zh_tw": "區間(專開列車)",
-          "En": "Local Train",
-          "Ja": "区間",
-          "Kr": "구간"
-        },
-        "TripHeadSign": "往保安",
-        "StartingStationID": "3360",
-        "StartingStationName": {
-          "Zh_tw": "彰化",
-          "En": "Changhua",
-          "Ja": "彰化",
-          "Kr": "짱화"
-        },
-        "EndingStationID": "4250",
-        "EndingStationName": {
-          "Zh_tw": "保安",
-          "En": "Bao'an",
-          "Ja": "保安",
-          "Kr": "바오안"
-        },
-        "OverNightStationID": "",
-        "TripLine": 0,
-        "WheelChairFlag": 0,
-        "PackageServiceFlag": 0,
-        "DiningFlag": 0,
-        "BreastFeedFlag": 0,
-        "BikeFlag": 0,
-        "CarFlag": 0,
-        "DailyFlag": 0,
-        "ExtraTrainFlag": 0,
-        "SuspendedFlag": 0,
-        "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
-      },
-      "StopTimes": [
-        {
-          "StopSequence": 1,
-          "StationID": "3360",
-          "StationName": {
-            "Zh_tw": "彰化",
-            "En": "Changhua",
-            "Ja": "彰化",
-            "Kr": "짱화"
-          },
-          "ArrivalTime": "14:29",
-          "DepartureTime": "14:29",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 2,
-          "StationID": "3410",
-          "StationName": {
-            "Zh_tw": "社頭",
-            "En": "Shetou",
-            "Ja": "社頭",
-            "Kr": "서토우"
-          },
-          "ArrivalTime": "14:52",
-          "DepartureTime": "15:27",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 3,
-          "StationID": "3430",
-          "StationName": {
-            "Zh_tw": "二水",
-            "En": "Ershui",
-            "Ja": "二水",
-            "Kr": "얼쉐이"
-          },
-          "ArrivalTime": "15:37",
-          "DepartureTime": "16:32",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 4,
-          "StationID": "4220",
-          "StationName": {
-            "Zh_tw": "臺南",
-            "En": "Tainan",
-            "Ja": "台南",
-            "Kr": "타이난"
-          },
-          "ArrivalTime": "18:06",
-          "DepartureTime": "18:16",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 5,
-          "StationID": "4250",
-          "StationName": {
-            "Zh_tw": "保安",
-            "En": "Bao'an",
-            "Ja": "保安",
-            "Kr": "바오안"
-          },
-          "ArrivalTime": "18:24",
-          "DepartureTime": "18:24",
           "SuspendedFlag": 0
         }
       ]

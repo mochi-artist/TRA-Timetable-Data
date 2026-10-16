@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-10-15T08:45:19+08:00",
+  "UpdateTime": "2026-10-16T09:45:12+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-10-14T18:17:01+08:00",
+  "SrcUpdateTime": "2026-10-15T16:33:22+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-10-24",
   "TrainTimetables": [
@@ -67980,7 +67980,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -68311,7 +68311,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -68615,7 +68615,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -69011,7 +69011,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -69250,7 +69250,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本局公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -69645,7 +69645,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -95010,7 +95010,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -100943,7 +100943,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "逢週五至日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "逢週五至日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -103950,7 +103950,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "逢週六、日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "逢週六、日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -105637,7 +105637,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "逢週六、日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。  第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "逢週六、日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -131828,7 +131828,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "逢週五至日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "逢週五至日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -136500,7 +136500,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -159980,7 +159980,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -160285,7 +160285,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -161135,7 +161135,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -161427,7 +161427,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。  第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -163179,7 +163179,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本局公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -167229,7 +167229,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -169511,7 +169511,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -182023,7 +182023,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -212214,7 +212214,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本局公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -215844,7 +215844,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -226958,7 +226958,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -240686,7 +240686,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本局公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -250527,7 +250527,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -257839,7 +257839,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "逢週五至日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "逢週五至日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -258066,7 +258066,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -258384,7 +258384,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -258702,7 +258702,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -258860,7 +258860,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -260943,7 +260943,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -269388,7 +269388,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -275407,7 +275407,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "逢週一、六行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "逢週一、六行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -278016,7 +278016,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。  第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -282618,7 +282618,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -284483,21 +284483,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "0920"
-            },
-            "EndSection": {
-              "StartStationID": "7190",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0920"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
               "EndStationID": "4340"
             }
           }
@@ -284509,7 +284509,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -287507,7 +287507,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -293959,7 +293959,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -294095,7 +294095,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -294595,7 +294595,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -295016,7 +295016,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -295425,7 +295425,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。花東民眾實名優先購票班次，乘車時須準備登載個人身份證字號之證件。 本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -295846,7 +295846,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "逢週五至日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "逢週五至日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -296008,7 +296008,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -296234,7 +296234,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -296526,7 +296526,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -296869,7 +296869,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -297187,7 +297187,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本班次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -305192,7 +305192,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -306929,7 +306929,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -313220,6 +313220,317 @@
     },
     {
       "TrainInfo": {
+        "TrainNo": "5216",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1101",
+        "TrainTypeCode": "1",
+        "TrainTypeName": {
+          "Zh_tw": "太魯閣(太魯閣)",
+          "En": "Taroko Express",
+          "Ja": "太魯閣",
+          "Kr": "타이루거"
+        },
+        "TripHeadSign": "往花蓮",
+        "StartingStationID": "1040",
+        "StartingStationName": {
+          "Zh_tw": "樹林",
+          "En": "Shulin",
+          "Ja": "樹林",
+          "Kr": "수린"
+        },
+        "EndingStationID": "7000",
+        "EndingStationName": {
+          "Zh_tw": "花蓮",
+          "En": "Hualien",
+          "Ja": "花蓮",
+          "Kr": "화리엔"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 1,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 1,
+        "SuspendedFlag": 0,
+        "ServiceType": 2,
+        "Note": "民國115年10月24日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "1040",
+          "StationName": {
+            "Zh_tw": "樹林",
+            "En": "Shulin",
+            "Ja": "樹林",
+            "Kr": "수린"
+          },
+          "ArrivalTime": "11:54",
+          "DepartureTime": "12:04",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1020",
+          "StationName": {
+            "Zh_tw": "板橋",
+            "En": "Banqiao",
+            "Ja": "板橋",
+            "Kr": "반차오"
+          },
+          "ArrivalTime": "12:11",
+          "DepartureTime": "12:13",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1000",
+          "StationName": {
+            "Zh_tw": "臺北",
+            "En": "Taipei",
+            "Ja": "台北",
+            "Kr": "타이베이"
+          },
+          "ArrivalTime": "12:22",
+          "DepartureTime": "12:25",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "0990",
+          "StationName": {
+            "Zh_tw": "松山",
+            "En": "Songshan",
+            "Ja": "松山",
+            "Kr": "송산"
+          },
+          "ArrivalTime": "12:31",
+          "DepartureTime": "12:32",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "7190",
+          "StationName": {
+            "Zh_tw": "宜蘭",
+            "En": "Yilan",
+            "Ja": "宜蘭",
+            "Kr": "이란"
+          },
+          "ArrivalTime": "13:35",
+          "DepartureTime": "13:37",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "7160",
+          "StationName": {
+            "Zh_tw": "羅東",
+            "En": "Luodong",
+            "Ja": "羅東",
+            "Kr": "뤄동"
+          },
+          "ArrivalTime": "13:44",
+          "DepartureTime": "13:46",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "7000",
+          "StationName": {
+            "Zh_tw": "花蓮",
+            "En": "Hualien",
+            "Ja": "花蓮",
+            "Kr": "화리엔"
+          },
+          "ArrivalTime": "14:50",
+          "DepartureTime": "14:50",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "5230",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "110G",
+        "TrainTypeCode": "11",
+        "TrainTypeName": {
+          "Zh_tw": "自強(3000)(EMU3000 型電車)",
+          "En": "Tze-Chiang 3000 Express ",
+          "Ja": "自強(3000)",
+          "Kr": "즈창(3000)"
+        },
+        "TripHeadSign": "往臺東",
+        "StartingStationID": "1040",
+        "StartingStationName": {
+          "Zh_tw": "樹林",
+          "En": "Shulin",
+          "Ja": "樹林",
+          "Kr": "수린"
+        },
+        "EndingStationID": "6000",
+        "EndingStationName": {
+          "Zh_tw": "臺東",
+          "En": "Taitung",
+          "Ja": "台東",
+          "Kr": "타이동"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 1,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 1,
+        "SuspendedFlag": 0,
+        "ServiceType": 2,
+        "Note": "民國115年10月24日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "1040",
+          "StationName": {
+            "Zh_tw": "樹林",
+            "En": "Shulin",
+            "Ja": "樹林",
+            "Kr": "수린"
+          },
+          "ArrivalTime": "07:55",
+          "DepartureTime": "08:02",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1020",
+          "StationName": {
+            "Zh_tw": "板橋",
+            "En": "Banqiao",
+            "Ja": "板橋",
+            "Kr": "반차오"
+          },
+          "ArrivalTime": "08:09",
+          "DepartureTime": "08:11",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1000",
+          "StationName": {
+            "Zh_tw": "臺北",
+            "En": "Taipei",
+            "Ja": "台北",
+            "Kr": "타이베이"
+          },
+          "ArrivalTime": "08:20",
+          "DepartureTime": "08:25",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "0990",
+          "StationName": {
+            "Zh_tw": "松山",
+            "En": "Songshan",
+            "Ja": "松山",
+            "Kr": "송산"
+          },
+          "ArrivalTime": "08:31",
+          "DepartureTime": "08:32",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "7000",
+          "StationName": {
+            "Zh_tw": "花蓮",
+            "En": "Hualien",
+            "Ja": "花蓮",
+            "Kr": "화리엔"
+          },
+          "ArrivalTime": "10:32",
+          "DepartureTime": "10:37",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "6130",
+          "StationName": {
+            "Zh_tw": "瑞穗",
+            "En": "Ruisui",
+            "Ja": "瑞穂",
+            "Kr": "뤠이쉐이"
+          },
+          "ArrivalTime": "11:19",
+          "DepartureTime": "11:20",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "6110",
+          "StationName": {
+            "Zh_tw": "玉里",
+            "En": "Yuli",
+            "Ja": "玉里",
+            "Kr": "위리"
+          },
+          "ArrivalTime": "11:33",
+          "DepartureTime": "11:35",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 8,
+          "StationID": "6070",
+          "StationName": {
+            "Zh_tw": "池上",
+            "En": "Chishang",
+            "Ja": "池上",
+            "Kr": "츠상"
+          },
+          "ArrivalTime": "11:59",
+          "DepartureTime": "12:01",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 9,
+          "StationID": "6050",
+          "StationName": {
+            "Zh_tw": "關山",
+            "En": "Guanshan",
+            "Ja": "関山",
+            "Kr": "관산"
+          },
+          "ArrivalTime": "12:25",
+          "DepartureTime": "12:26",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 10,
+          "StationID": "6000",
+          "StationName": {
+            "Zh_tw": "臺東",
+            "En": "Taitung",
+            "Ja": "台東",
+            "Kr": "타이동"
+          },
+          "ArrivalTime": "12:50",
+          "DepartureTime": "12:50",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
         "TrainNo": "5233",
         "RouteID": "",
         "Direction": 1,
@@ -313569,7 +313880,7 @@
         "ExtraTrainFlag": 1,
         "SuspendedFlag": 0,
         "ServiceType": 2,
-        "Note": "民國115年10月24日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "民國115年10月24日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -313919,7 +314230,7 @@
         "ExtraTrainFlag": 1,
         "SuspendedFlag": 0,
         "ServiceType": 2,
-        "Note": "民國115年10月24日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。  第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "民國115年10月24日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -314386,7 +314697,7 @@
         "ExtraTrainFlag": 1,
         "SuspendedFlag": 0,
         "ServiceType": 2,
-        "Note": "民國115年10月24日行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "民國115年10月24日行駛。※乘車當日限量發售無座票。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
       "StopTimes": [
         {
@@ -316931,297 +317242,6 @@
           },
           "ArrivalTime": "22:59",
           "DepartureTime": "22:59",
-          "SuspendedFlag": 0
-        }
-      ]
-    },
-    {
-      "TrainInfo": {
-        "TrainNo": "6631",
-        "RouteID": "",
-        "Direction": 1,
-        "TrainTypeID": "1130",
-        "TrainTypeCode": "6",
-        "TrainTypeName": {
-          "Zh_tw": "區間(專開列車)",
-          "En": "Local Train",
-          "Ja": "区間",
-          "Kr": "구간"
-        },
-        "TripHeadSign": "往保安",
-        "StartingStationID": "4220",
-        "StartingStationName": {
-          "Zh_tw": "臺南",
-          "En": "Tainan",
-          "Ja": "台南",
-          "Kr": "타이난"
-        },
-        "EndingStationID": "4250",
-        "EndingStationName": {
-          "Zh_tw": "保安",
-          "En": "Bao'an",
-          "Ja": "保安",
-          "Kr": "바오안"
-        },
-        "OverNightStationID": "",
-        "TripLine": 0,
-        "WheelChairFlag": 0,
-        "PackageServiceFlag": 0,
-        "DiningFlag": 0,
-        "BreastFeedFlag": 0,
-        "BikeFlag": 0,
-        "CarFlag": 0,
-        "DailyFlag": 0,
-        "ExtraTrainFlag": 0,
-        "SuspendedFlag": 0,
-        "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
-      },
-      "StopTimes": [
-        {
-          "StopSequence": 1,
-          "StationID": "4220",
-          "StationName": {
-            "Zh_tw": "臺南",
-            "En": "Tainan",
-            "Ja": "台南",
-            "Kr": "타이난"
-          },
-          "ArrivalTime": "07:12",
-          "DepartureTime": "07:15",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 2,
-          "StationID": "4250",
-          "StationName": {
-            "Zh_tw": "保安",
-            "En": "Bao'an",
-            "Ja": "保安",
-            "Kr": "바오안"
-          },
-          "ArrivalTime": "07:23",
-          "DepartureTime": "07:23",
-          "SuspendedFlag": 0
-        }
-      ]
-    },
-    {
-      "TrainInfo": {
-        "TrainNo": "6632",
-        "RouteID": "",
-        "Direction": 0,
-        "TrainTypeID": "1130",
-        "TrainTypeCode": "6",
-        "TrainTypeName": {
-          "Zh_tw": "區間(專開列車)",
-          "En": "Local Train",
-          "Ja": "区間",
-          "Kr": "구간"
-        },
-        "TripHeadSign": "往彰化",
-        "StartingStationID": "4250",
-        "StartingStationName": {
-          "Zh_tw": "保安",
-          "En": "Bao'an",
-          "Ja": "保安",
-          "Kr": "바오안"
-        },
-        "EndingStationID": "3360",
-        "EndingStationName": {
-          "Zh_tw": "彰化",
-          "En": "Changhua",
-          "Ja": "彰化",
-          "Kr": "짱화"
-        },
-        "OverNightStationID": "",
-        "TripLine": 0,
-        "WheelChairFlag": 0,
-        "PackageServiceFlag": 0,
-        "DiningFlag": 0,
-        "BreastFeedFlag": 0,
-        "BikeFlag": 0,
-        "CarFlag": 0,
-        "DailyFlag": 0,
-        "ExtraTrainFlag": 0,
-        "SuspendedFlag": 0,
-        "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
-      },
-      "StopTimes": [
-        {
-          "StopSequence": 1,
-          "StationID": "4250",
-          "StationName": {
-            "Zh_tw": "保安",
-            "En": "Bao'an",
-            "Ja": "保安",
-            "Kr": "바오안"
-          },
-          "ArrivalTime": "08:40",
-          "DepartureTime": "08:40",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 2,
-          "StationID": "4220",
-          "StationName": {
-            "Zh_tw": "臺南",
-            "En": "Tainan",
-            "Ja": "台南",
-            "Kr": "타이난"
-          },
-          "ArrivalTime": "08:48",
-          "DepartureTime": "09:10",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 3,
-          "StationID": "4110",
-          "StationName": {
-            "Zh_tw": "後壁",
-            "En": "Houbi",
-            "Ja": "後壁",
-            "Kr": "호우비"
-          },
-          "ArrivalTime": "09:50",
-          "DepartureTime": "10:13",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 4,
-          "StationID": "4050",
-          "StationName": {
-            "Zh_tw": "大林",
-            "En": "Dalin",
-            "Ja": "大林",
-            "Kr": "다린"
-          },
-          "ArrivalTime": "10:38",
-          "DepartureTime": "11:48",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 5,
-          "StationID": "3360",
-          "StationName": {
-            "Zh_tw": "彰化",
-            "En": "Changhua",
-            "Ja": "彰化",
-            "Kr": "짱화"
-          },
-          "ArrivalTime": "12:56",
-          "DepartureTime": "12:56",
-          "SuspendedFlag": 0
-        }
-      ]
-    },
-    {
-      "TrainInfo": {
-        "TrainNo": "6633",
-        "RouteID": "",
-        "Direction": 1,
-        "TrainTypeID": "1130",
-        "TrainTypeCode": "6",
-        "TrainTypeName": {
-          "Zh_tw": "區間(專開列車)",
-          "En": "Local Train",
-          "Ja": "区間",
-          "Kr": "구간"
-        },
-        "TripHeadSign": "往保安",
-        "StartingStationID": "3360",
-        "StartingStationName": {
-          "Zh_tw": "彰化",
-          "En": "Changhua",
-          "Ja": "彰化",
-          "Kr": "짱화"
-        },
-        "EndingStationID": "4250",
-        "EndingStationName": {
-          "Zh_tw": "保安",
-          "En": "Bao'an",
-          "Ja": "保安",
-          "Kr": "바오안"
-        },
-        "OverNightStationID": "",
-        "TripLine": 0,
-        "WheelChairFlag": 0,
-        "PackageServiceFlag": 0,
-        "DiningFlag": 0,
-        "BreastFeedFlag": 0,
-        "BikeFlag": 0,
-        "CarFlag": 0,
-        "DailyFlag": 0,
-        "ExtraTrainFlag": 0,
-        "SuspendedFlag": 0,
-        "ServiceType": 4,
-        "Note": "逢週五至日行駛。"
-      },
-      "StopTimes": [
-        {
-          "StopSequence": 1,
-          "StationID": "3360",
-          "StationName": {
-            "Zh_tw": "彰化",
-            "En": "Changhua",
-            "Ja": "彰化",
-            "Kr": "짱화"
-          },
-          "ArrivalTime": "14:29",
-          "DepartureTime": "14:29",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 2,
-          "StationID": "3410",
-          "StationName": {
-            "Zh_tw": "社頭",
-            "En": "Shetou",
-            "Ja": "社頭",
-            "Kr": "서토우"
-          },
-          "ArrivalTime": "14:52",
-          "DepartureTime": "15:27",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 3,
-          "StationID": "3430",
-          "StationName": {
-            "Zh_tw": "二水",
-            "En": "Ershui",
-            "Ja": "二水",
-            "Kr": "얼쉐이"
-          },
-          "ArrivalTime": "15:37",
-          "DepartureTime": "16:32",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 4,
-          "StationID": "4220",
-          "StationName": {
-            "Zh_tw": "臺南",
-            "En": "Tainan",
-            "Ja": "台南",
-            "Kr": "타이난"
-          },
-          "ArrivalTime": "18:06",
-          "DepartureTime": "18:16",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 5,
-          "StationID": "4250",
-          "StationName": {
-            "Zh_tw": "保安",
-            "En": "Bao'an",
-            "Ja": "保安",
-            "Kr": "바오안"
-          },
-          "ArrivalTime": "18:24",
-          "DepartureTime": "18:24",
           "SuspendedFlag": 0
         }
       ]
