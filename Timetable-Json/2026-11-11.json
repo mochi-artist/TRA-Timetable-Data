@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-10-16T09:45:12+08:00",
+  "UpdateTime": "2026-10-17T06:35:12+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-10-15T14:24:59+08:00",
+  "SrcUpdateTime": "2026-10-16T16:18:17+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-11-11",
   "TrainTimetables": [
@@ -61866,21 +61866,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
@@ -313765,6 +313765,142 @@
           },
           "ArrivalTime": "22:59",
           "DepartureTime": "22:59",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6671",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1112",
+        "TrainTypeCode": "4",
+        "TrainTypeName": {
+          "Zh_tw": "莒光(專開列車)",
+          "En": "Chu-Kuang Express",
+          "Ja": "莒光",
+          "Kr": "쥐광"
+        },
+        "TripHeadSign": "往瑞穗",
+        "StartingStationID": "5000",
+        "StartingStationName": {
+          "Zh_tw": "屏東",
+          "En": "Pingtung",
+          "Ja": "屏東",
+          "Kr": "핑동"
+        },
+        "EndingStationID": "6130",
+        "EndingStationName": {
+          "Zh_tw": "瑞穗",
+          "En": "Ruisui",
+          "Ja": "瑞穂",
+          "Kr": "뤠이쉐이"
+        },
+        "OverNightStationID": "",
+        "TripLine": 0,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年11月11日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "5000",
+          "StationName": {
+            "Zh_tw": "屏東",
+            "En": "Pingtung",
+            "Ja": "屏東",
+            "Kr": "핑동"
+          },
+          "ArrivalTime": "11:30",
+          "DepartureTime": "11:30",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "5050",
+          "StationName": {
+            "Zh_tw": "潮州",
+            "En": "Chaozhou",
+            "Ja": "潮州",
+            "Kr": "차오조우"
+          },
+          "ArrivalTime": "11:46",
+          "DepartureTime": "11:50",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "5070",
+          "StationName": {
+            "Zh_tw": "南州",
+            "En": "Nanzhou",
+            "Ja": "南州",
+            "Kr": "난조우"
+          },
+          "ArrivalTime": "11:57",
+          "DepartureTime": "11:58",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "5090",
+          "StationName": {
+            "Zh_tw": "林邊",
+            "En": "Linbian",
+            "Ja": "林辺",
+            "Kr": "린비엔"
+          },
+          "ArrivalTime": "12:06",
+          "DepartureTime": "12:07",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "5120",
+          "StationName": {
+            "Zh_tw": "枋寮",
+            "En": "Fangliao",
+            "Ja": "枋寮",
+            "Kr": "팡랴오"
+          },
+          "ArrivalTime": "12:16",
+          "DepartureTime": "12:18",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "5160",
+          "StationName": {
+            "Zh_tw": "枋山",
+            "En": "Fangshan",
+            "Ja": "枋山",
+            "Kr": "팡산"
+          },
+          "ArrivalTime": "12:32",
+          "DepartureTime": "12:35",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 7,
+          "StationID": "6130",
+          "StationName": {
+            "Zh_tw": "瑞穗",
+            "En": "Ruisui",
+            "Ja": "瑞穂",
+            "Kr": "뤠이쉐이"
+          },
+          "ArrivalTime": "15:27",
+          "DepartureTime": "15:43",
           "SuspendedFlag": 0
         }
       ]

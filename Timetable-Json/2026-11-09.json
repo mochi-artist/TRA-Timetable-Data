@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-10-16T09:45:12+08:00",
+  "UpdateTime": "2026-10-17T06:35:12+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-10-15T14:24:59+08:00",
+  "SrcUpdateTime": "2026-10-16T15:21:17+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-11-09",
   "TrainTimetables": [
@@ -38673,12 +38673,12 @@
           "Kr": "구간"
         },
         "TripHeadSign": "往基隆",
-        "StartingStationID": "1150",
+        "StartingStationID": "1210",
         "StartingStationName": {
-          "Zh_tw": "北湖",
-          "En": "Beihu",
-          "Ja": "北湖",
-          "Kr": "베이후"
+          "Zh_tw": "新竹",
+          "En": "Hsinchu",
+          "Ja": "新竹",
+          "Kr": "신주"
         },
         "EndingStationID": "0900",
         "EndingStationName": {
@@ -38695,15 +38695,80 @@
         "BreastFeedFlag": 0,
         "BikeFlag": 0,
         "CarFlag": 0,
-        "DailyFlag": 1,
+        "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。"
+        "Note": "民國115年11月9日行駛。配合「115年交通事業鐵路人員升資考試」，本次車於11月9日調整行駛區間為【新竹→基隆】。"
       },
       "StopTimes": [
         {
           "StopSequence": 1,
+          "StationID": "1210",
+          "StationName": {
+            "Zh_tw": "新竹",
+            "En": "Hsinchu",
+            "Ja": "新竹",
+            "Kr": "신주"
+          },
+          "ArrivalTime": "14:08",
+          "DepartureTime": "14:08",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1190",
+          "StationName": {
+            "Zh_tw": "北新竹",
+            "En": "North Hsinchu",
+            "Ja": "北新竹",
+            "Kr": "베이신주"
+          },
+          "ArrivalTime": "14:10",
+          "DepartureTime": "14:11",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1180",
+          "StationName": {
+            "Zh_tw": "竹北",
+            "En": "Zhubei",
+            "Ja": "竹北",
+            "Kr": "주베이"
+          },
+          "ArrivalTime": "14:16",
+          "DepartureTime": "14:21",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "1170",
+          "StationName": {
+            "Zh_tw": "新豐",
+            "En": "Xinfeng",
+            "Ja": "新豊",
+            "Kr": "신펑"
+          },
+          "ArrivalTime": "14:27",
+          "DepartureTime": "14:28",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "1160",
+          "StationName": {
+            "Zh_tw": "湖口",
+            "En": "Hukou",
+            "Ja": "湖口",
+            "Kr": "후코우"
+          },
+          "ArrivalTime": "14:33",
+          "DepartureTime": "14:34",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
           "StationID": "1150",
           "StationName": {
             "Zh_tw": "北湖",
@@ -38711,12 +38776,12 @@
             "Ja": "北湖",
             "Kr": "베이후"
           },
-          "ArrivalTime": "14:31",
+          "ArrivalTime": "14:37",
           "DepartureTime": "14:42",
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 2,
+          "StopSequence": 7,
           "StationID": "1140",
           "StationName": {
             "Zh_tw": "新富",
@@ -38729,7 +38794,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 3,
+          "StopSequence": 8,
           "StationID": "1130",
           "StationName": {
             "Zh_tw": "富岡",
@@ -38742,7 +38807,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 4,
+          "StopSequence": 9,
           "StationID": "1120",
           "StationName": {
             "Zh_tw": "楊梅",
@@ -38755,7 +38820,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 5,
+          "StopSequence": 10,
           "StationID": "1110",
           "StationName": {
             "Zh_tw": "埔心",
@@ -38768,7 +38833,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 6,
+          "StopSequence": 11,
           "StationID": "1105",
           "StationName": {
             "Zh_tw": "平鎮",
@@ -38781,7 +38846,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 7,
+          "StopSequence": 12,
           "StationID": "1100",
           "StationName": {
             "Zh_tw": "中壢",
@@ -38794,7 +38859,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 8,
+          "StopSequence": 13,
           "StationID": "1090",
           "StationName": {
             "Zh_tw": "內壢",
@@ -38807,7 +38872,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 9,
+          "StopSequence": 14,
           "StationID": "1080",
           "StationName": {
             "Zh_tw": "桃園",
@@ -38820,7 +38885,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 10,
+          "StopSequence": 15,
           "StationID": "1075",
           "StationName": {
             "Zh_tw": "鳳鳴",
@@ -38833,7 +38898,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 11,
+          "StopSequence": 16,
           "StationID": "1070",
           "StationName": {
             "Zh_tw": "鶯歌",
@@ -38846,7 +38911,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 12,
+          "StopSequence": 17,
           "StationID": "1060",
           "StationName": {
             "Zh_tw": "山佳",
@@ -38859,7 +38924,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 13,
+          "StopSequence": 18,
           "StationID": "1050",
           "StationName": {
             "Zh_tw": "南樹林",
@@ -38872,7 +38937,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 14,
+          "StopSequence": 19,
           "StationID": "1040",
           "StationName": {
             "Zh_tw": "樹林",
@@ -38885,7 +38950,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 15,
+          "StopSequence": 20,
           "StationID": "1030",
           "StationName": {
             "Zh_tw": "浮洲",
@@ -38898,7 +38963,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 16,
+          "StopSequence": 21,
           "StationID": "1020",
           "StationName": {
             "Zh_tw": "板橋",
@@ -38911,7 +38976,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 17,
+          "StopSequence": 22,
           "StationID": "1010",
           "StationName": {
             "Zh_tw": "萬華",
@@ -38924,7 +38989,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 18,
+          "StopSequence": 23,
           "StationID": "1000",
           "StationName": {
             "Zh_tw": "臺北",
@@ -38937,7 +39002,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 19,
+          "StopSequence": 24,
           "StationID": "0990",
           "StationName": {
             "Zh_tw": "松山",
@@ -38950,7 +39015,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 20,
+          "StopSequence": 25,
           "StationID": "0980",
           "StationName": {
             "Zh_tw": "南港",
@@ -38963,7 +39028,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 21,
+          "StopSequence": 26,
           "StationID": "0970",
           "StationName": {
             "Zh_tw": "汐科",
@@ -38976,7 +39041,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 22,
+          "StopSequence": 27,
           "StationID": "0960",
           "StationName": {
             "Zh_tw": "汐止",
@@ -38989,7 +39054,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 23,
+          "StopSequence": 28,
           "StationID": "0950",
           "StationName": {
             "Zh_tw": "五堵",
@@ -39002,7 +39067,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 24,
+          "StopSequence": 29,
           "StationID": "0940",
           "StationName": {
             "Zh_tw": "百福",
@@ -39015,7 +39080,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 25,
+          "StopSequence": 30,
           "StationID": "0930",
           "StationName": {
             "Zh_tw": "七堵",
@@ -39028,7 +39093,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 26,
+          "StopSequence": 31,
           "StationID": "0920",
           "StationName": {
             "Zh_tw": "八堵",
@@ -39041,7 +39106,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 27,
+          "StopSequence": 32,
           "StationID": "0910",
           "StationName": {
             "Zh_tw": "三坑",
@@ -39054,7 +39119,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 28,
+          "StopSequence": 33,
           "StationID": "0900",
           "StationName": {
             "Zh_tw": "基隆",
@@ -259720,21 +259785,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -285745,21 +285810,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "0920"
-            },
-            "EndSection": {
-              "StartStationID": "7190",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0920"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
               "EndStationID": "4340"
             }
           }
