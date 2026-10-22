@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-10-20T09:35:13+08:00",
+  "UpdateTime": "2026-10-22T07:25:05+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-10-19T20:36:26+08:00",
+  "SrcUpdateTime": "2026-10-21T23:16:59+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-11-13",
   "TrainTimetables": [
@@ -317560,19 +317560,6 @@
         },
         {
           "StopSequence": 3,
-          "StationID": "7310",
-          "StationName": {
-            "Zh_tw": "雙溪",
-            "En": "Shuangxi",
-            "Ja": "双渓",
-            "Kr": "쐉시"
-          },
-          "ArrivalTime": "16:57",
-          "DepartureTime": "17:00",
-          "SuspendedFlag": 0
-        },
-        {
-          "StopSequence": 4,
           "StationID": "7360",
           "StationName": {
             "Zh_tw": "瑞芳",
@@ -317585,7 +317572,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 5,
+          "StopSequence": 4,
           "StationID": "0920",
           "StationName": {
             "Zh_tw": "八堵",
@@ -317598,7 +317585,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 6,
+          "StopSequence": 5,
           "StationID": "0960",
           "StationName": {
             "Zh_tw": "汐止",
@@ -317611,7 +317598,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 7,
+          "StopSequence": 6,
           "StationID": "0980",
           "StationName": {
             "Zh_tw": "南港",
@@ -317624,7 +317611,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 8,
+          "StopSequence": 7,
           "StationID": "0990",
           "StationName": {
             "Zh_tw": "松山",
@@ -317637,7 +317624,7 @@
           "SuspendedFlag": 0
         },
         {
-          "StopSequence": 9,
+          "StopSequence": 8,
           "StationID": "1000",
           "StationName": {
             "Zh_tw": "臺北",
