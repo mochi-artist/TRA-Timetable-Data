@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-10-24T09:25:08+08:00",
+  "UpdateTime": "2026-10-25T06:15:00+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-10-24T01:14:49+08:00",
+  "SrcUpdateTime": "2026-10-24T19:08:45+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-10-25",
   "TrainTimetables": [
@@ -83394,7 +83394,7 @@
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
-        "SuspendedFlag": 0,
+        "SuspendedFlag": 1,
         "ServiceType": 1,
         "Note": "每日行駛。"
       },
@@ -83410,7 +83410,7 @@
           },
           "ArrivalTime": "05:13",
           "DepartureTime": "05:13",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 2,
@@ -83423,7 +83423,7 @@
           },
           "ArrivalTime": "05:17",
           "DepartureTime": "05:17",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 3,
@@ -83436,7 +83436,7 @@
           },
           "ArrivalTime": "05:21",
           "DepartureTime": "05:21",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 4,
@@ -83449,7 +83449,7 @@
           },
           "ArrivalTime": "05:25",
           "DepartureTime": "05:26",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 5,
@@ -83462,7 +83462,7 @@
           },
           "ArrivalTime": "05:29",
           "DepartureTime": "05:30",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 6,
@@ -83475,7 +83475,7 @@
           },
           "ArrivalTime": "05:35",
           "DepartureTime": "05:45",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 7,
@@ -83488,7 +83488,7 @@
           },
           "ArrivalTime": "05:48",
           "DepartureTime": "05:49",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 8,
@@ -83501,7 +83501,7 @@
           },
           "ArrivalTime": "05:55",
           "DepartureTime": "05:55",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 9,
@@ -83514,7 +83514,7 @@
           },
           "ArrivalTime": "06:00",
           "DepartureTime": "06:01",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 10,
@@ -83527,7 +83527,7 @@
           },
           "ArrivalTime": "06:03",
           "DepartureTime": "06:04",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 11,
@@ -83540,7 +83540,7 @@
           },
           "ArrivalTime": "06:07",
           "DepartureTime": "06:08",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 12,
@@ -83553,7 +83553,7 @@
           },
           "ArrivalTime": "06:12",
           "DepartureTime": "06:12",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 13,
@@ -83566,7 +83566,7 @@
           },
           "ArrivalTime": "06:17",
           "DepartureTime": "06:17",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         }
       ]
     },
@@ -260442,21 +260442,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
@@ -305898,7 +305898,7 @@
         "CarFlag": 0,
         "DailyFlag": 1,
         "ExtraTrainFlag": 0,
-        "SuspendedFlag": 0,
+        "SuspendedFlag": 1,
         "ServiceType": 1,
         "Note": "每日行駛。"
       },
@@ -305914,7 +305914,7 @@
           },
           "ArrivalTime": "05:11",
           "DepartureTime": "05:11",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 2,
@@ -305927,7 +305927,7 @@
           },
           "ArrivalTime": "05:16",
           "DepartureTime": "05:17",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 3,
@@ -305940,7 +305940,7 @@
           },
           "ArrivalTime": "05:20",
           "DepartureTime": "05:20",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 4,
@@ -305953,7 +305953,7 @@
           },
           "ArrivalTime": "05:25",
           "DepartureTime": "05:26",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 5,
@@ -305966,7 +305966,7 @@
           },
           "ArrivalTime": "05:30",
           "DepartureTime": "05:40",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 6,
@@ -305979,7 +305979,7 @@
           },
           "ArrivalTime": "05:47",
           "DepartureTime": "05:48",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 7,
@@ -305992,7 +305992,7 @@
           },
           "ArrivalTime": "05:55",
           "DepartureTime": "05:56",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 8,
@@ -306005,7 +306005,7 @@
           },
           "ArrivalTime": "06:00",
           "DepartureTime": "06:01",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 9,
@@ -306018,7 +306018,7 @@
           },
           "ArrivalTime": "06:07",
           "DepartureTime": "06:08",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 10,
@@ -306031,7 +306031,7 @@
           },
           "ArrivalTime": "06:13",
           "DepartureTime": "06:14",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 11,
@@ -306044,7 +306044,7 @@
           },
           "ArrivalTime": "06:17",
           "DepartureTime": "06:18",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 12,
@@ -306057,7 +306057,7 @@
           },
           "ArrivalTime": "06:21",
           "DepartureTime": "06:29",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         }
       ]
     },
