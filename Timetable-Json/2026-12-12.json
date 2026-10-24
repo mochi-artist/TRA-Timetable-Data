@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-10-22T07:25:05+08:00",
+  "UpdateTime": "2026-10-24T09:25:08+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-10-21T23:16:59+08:00",
+  "SrcUpdateTime": "2026-10-24T01:14:49+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-12-12",
   "TrainTimetables": [
@@ -258108,21 +258108,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "6000",
-              "EndStationID": "6000"
-            },
-            "EndSection": {
-              "StartStationID": "5120",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "1040",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "6000",
+              "EndStationID": "6000"
+            },
+            "EndSection": {
+              "StartStationID": "5120",
               "EndStationID": "4340"
             }
           }
@@ -283757,21 +283757,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "0920"
-            },
-            "EndSection": {
-              "StartStationID": "7190",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "7000",
               "EndStationID": "7000"
             },
             "EndSection": {
               "StartStationID": "6110",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "0920"
+            },
+            "EndSection": {
+              "StartStationID": "7190",
               "EndStationID": "4340"
             }
           }
@@ -312132,6 +312132,103 @@
           },
           "ArrivalTime": "09:47",
           "DepartureTime": "09:47",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
+        "TrainNo": "6502",
+        "RouteID": "",
+        "Direction": 0,
+        "TrainTypeID": "1104",
+        "TrainTypeCode": "3",
+        "TrainTypeName": {
+          "Zh_tw": "自強(專開列車)",
+          "En": "Tze-Chiang Express",
+          "Ja": "自強",
+          "Kr": "즈창"
+        },
+        "TripHeadSign": "往基隆",
+        "StartingStationID": "3300",
+        "StartingStationName": {
+          "Zh_tw": "臺中",
+          "En": "Taichung",
+          "Ja": "台中",
+          "Kr": "타이종"
+        },
+        "EndingStationID": "0900",
+        "EndingStationName": {
+          "Zh_tw": "基隆",
+          "En": "Keelung",
+          "Ja": "基隆",
+          "Kr": "지롱"
+        },
+        "OverNightStationID": "",
+        "TripLine": 1,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年12月12日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "3300",
+          "StationName": {
+            "Zh_tw": "臺中",
+            "En": "Taichung",
+            "Ja": "台中",
+            "Kr": "타이종"
+          },
+          "ArrivalTime": "08:16",
+          "DepartureTime": "08:20",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "3230",
+          "StationName": {
+            "Zh_tw": "豐原",
+            "En": "Fengyuan",
+            "Ja": "豊原",
+            "Kr": "펑위엔"
+          },
+          "ArrivalTime": "08:29",
+          "DepartureTime": "08:33",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "0930",
+          "StationName": {
+            "Zh_tw": "七堵",
+            "En": "Qidu",
+            "Ja": "七堵",
+            "Kr": "치두"
+          },
+          "ArrivalTime": "10:36",
+          "DepartureTime": "10:40",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "0900",
+          "StationName": {
+            "Zh_tw": "基隆",
+            "En": "Keelung",
+            "Ja": "基隆",
+            "Kr": "지롱"
+          },
+          "ArrivalTime": "10:52",
+          "DepartureTime": "10:52",
           "SuspendedFlag": 0
         }
       ]
