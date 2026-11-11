@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-11-10T09:45:06+08:00",
+  "UpdateTime": "2026-11-11T06:35:06+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-11-09T18:15:29+08:00",
+  "SrcUpdateTime": "2026-11-10T18:28:38+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-11-30",
   "TrainTimetables": [
@@ -62223,21 +62223,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
@@ -259720,21 +259720,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
@@ -314458,6 +314458,129 @@
     },
     {
       "TrainInfo": {
+        "TrainNo": "6517",
+        "RouteID": "",
+        "Direction": 1,
+        "TrainTypeID": "1104",
+        "TrainTypeCode": "3",
+        "TrainTypeName": {
+          "Zh_tw": "自強(專開列車)",
+          "En": "Tze-Chiang Express",
+          "Ja": "自強",
+          "Kr": "즈창"
+        },
+        "TripHeadSign": "往嘉義",
+        "StartingStationID": "1020",
+        "StartingStationName": {
+          "Zh_tw": "板橋",
+          "En": "Banqiao",
+          "Ja": "板橋",
+          "Kr": "반차오"
+        },
+        "EndingStationID": "4080",
+        "EndingStationName": {
+          "Zh_tw": "嘉義",
+          "En": "Chiayi",
+          "Ja": "嘉義",
+          "Kr": "자이"
+        },
+        "OverNightStationID": "",
+        "TripLine": 1,
+        "WheelChairFlag": 0,
+        "PackageServiceFlag": 0,
+        "DiningFlag": 0,
+        "BreastFeedFlag": 1,
+        "BikeFlag": 0,
+        "CarFlag": 0,
+        "DailyFlag": 0,
+        "ExtraTrainFlag": 0,
+        "SuspendedFlag": 0,
+        "ServiceType": 4,
+        "Note": "民國115年11月30日行駛。"
+      },
+      "StopTimes": [
+        {
+          "StopSequence": 1,
+          "StationID": "1020",
+          "StationName": {
+            "Zh_tw": "板橋",
+            "En": "Banqiao",
+            "Ja": "板橋",
+            "Kr": "반차오"
+          },
+          "ArrivalTime": "08:50",
+          "DepartureTime": "08:50",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 2,
+          "StationID": "1080",
+          "StationName": {
+            "Zh_tw": "桃園",
+            "En": "Taoyuan",
+            "Ja": "桃園",
+            "Kr": "타오위엔"
+          },
+          "ArrivalTime": "09:14",
+          "DepartureTime": "09:16",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 3,
+          "StationID": "1210",
+          "StationName": {
+            "Zh_tw": "新竹",
+            "En": "Hsinchu",
+            "Ja": "新竹",
+            "Kr": "신주"
+          },
+          "ArrivalTime": "09:50",
+          "DepartureTime": "09:55",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 4,
+          "StationID": "1250",
+          "StationName": {
+            "Zh_tw": "竹南",
+            "En": "Zhunan",
+            "Ja": "竹南",
+            "Kr": "주난"
+          },
+          "ArrivalTime": "10:11",
+          "DepartureTime": "10:17",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 5,
+          "StationID": "3300",
+          "StationName": {
+            "Zh_tw": "臺中",
+            "En": "Taichung",
+            "Ja": "台中",
+            "Kr": "타이종"
+          },
+          "ArrivalTime": "11:05",
+          "DepartureTime": "12:05",
+          "SuspendedFlag": 0
+        },
+        {
+          "StopSequence": 6,
+          "StationID": "4080",
+          "StationName": {
+            "Zh_tw": "嘉義",
+            "En": "Chiayi",
+            "Ja": "嘉義",
+            "Kr": "자이"
+          },
+          "ArrivalTime": "13:13",
+          "DepartureTime": "13:13",
+          "SuspendedFlag": 0
+        }
+      ]
+    },
+    {
+      "TrainInfo": {
         "TrainNo": "653",
         "RouteID": "",
         "Direction": 1,
@@ -315243,7 +315366,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "民國115年11月30日行駛。"
+        "Note": "民國115年11月6、30日行駛。"
       },
       "StopTimes": [
         {
