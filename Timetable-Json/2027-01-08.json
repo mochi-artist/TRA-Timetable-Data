@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-11-13T08:35:19+08:00",
+  "UpdateTime": "2026-11-15T06:25:01+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-11-12T15:07:13+08:00",
+  "SrcUpdateTime": "2026-11-14T13:08:55+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2027-01-08",
   "TrainTimetables": [
@@ -37586,7 +37586,7 @@
         "TrainNo": "121",
         "RouteID": "",
         "Direction": 1,
-        "TrainTypeID": "110H",
+        "TrainTypeID": "110M",
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
@@ -37621,7 +37621,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本班次第6節為騰雲座艙、9-11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。  第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。本班次第9~11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
         {
@@ -67147,7 +67147,7 @@
         "TrainNo": "146",
         "RouteID": "",
         "Direction": 0,
-        "TrainTypeID": "110G",
+        "TrainTypeID": "110K",
         "TrainTypeCode": "11",
         "TrainTypeName": {
           "Zh_tw": "自強(3000)(EMU3000 型電車)",
@@ -67182,7 +67182,7 @@
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 1,
-        "Note": "每日行駛。本班次第6節為騰雲座艙、9-11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。  第6節騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
+        "Note": "每日行駛。本班次第9~11節車廂為自由座車廂，非持本班次車票旅客，請勿搭乘。"
       },
       "StopTimes": [
         {
@@ -261677,21 +261677,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
