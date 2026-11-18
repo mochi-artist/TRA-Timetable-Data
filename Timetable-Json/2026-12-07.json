@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-11-17T08:25:05+08:00",
+  "UpdateTime": "2026-11-18T09:25:02+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-11-16T18:15:33+08:00",
+  "SrcUpdateTime": "2026-11-17T17:04:01+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-12-07",
   "TrainTimetables": [
@@ -259720,21 +259720,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1040",
-              "EndStationID": "7000"
-            },
-            "EndSection": {
-              "StartStationID": "6110",
-              "EndStationID": "4340"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "6000",
               "EndStationID": "6000"
             },
             "EndSection": {
               "StartStationID": "5120",
+              "EndStationID": "4340"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1040",
+              "EndStationID": "7000"
+            },
+            "EndSection": {
+              "StartStationID": "6110",
               "EndStationID": "4340"
             }
           }
@@ -314783,16 +314783,16 @@
     },
     {
       "TrainInfo": {
-        "TrainNo": "6664",
+        "TrainNo": "6674",
         "RouteID": "",
         "Direction": 0,
-        "TrainTypeID": "1130",
-        "TrainTypeCode": "6",
+        "TrainTypeID": "1112",
+        "TrainTypeCode": "4",
         "TrainTypeName": {
-          "Zh_tw": "區間(專開列車)",
-          "En": "Local Train",
-          "Ja": "区間",
-          "Kr": "구간"
+          "Zh_tw": "莒光(專開列車)",
+          "En": "Chu-Kuang Express",
+          "Ja": "莒光",
+          "Kr": "쥐광"
         },
         "TripHeadSign": "往林邊",
         "StartingStationID": "5210",
@@ -314814,14 +314814,14 @@
         "WheelChairFlag": 0,
         "PackageServiceFlag": 0,
         "DiningFlag": 0,
-        "BreastFeedFlag": 0,
+        "BreastFeedFlag": 1,
         "BikeFlag": 0,
         "CarFlag": 0,
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
         "SuspendedFlag": 0,
         "ServiceType": 4,
-        "Note": "民國115年12月7、14、28日行駛。"
+        "Note": "民國115年12月7日行駛。"
       },
       "StopTimes": [
         {
@@ -314833,7 +314833,7 @@
             "Ja": "金崙",
             "Kr": "진룬"
           },
-          "ArrivalTime": "15:37",
+          "ArrivalTime": "15:28",
           "DepartureTime": "15:37",
           "SuspendedFlag": 0
         },
@@ -314847,7 +314847,7 @@
             "Kr": "린비엔"
           },
           "ArrivalTime": "16:49",
-          "DepartureTime": "17:15",
+          "DepartureTime": "17:13",
           "SuspendedFlag": 0
         }
       ]
