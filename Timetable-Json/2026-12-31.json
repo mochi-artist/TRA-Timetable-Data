@@ -1,7 +1,7 @@
 {
-  "UpdateTime": "2026-11-18T09:25:02+08:00",
+  "UpdateTime": "2026-11-21T07:59:49+08:00",
   "UpdateInterval": 14400,
-  "SrcUpdateTime": "2026-11-17T09:27:01+08:00",
+  "SrcUpdateTime": "2026-11-20T19:37:58+08:00",
   "SrcUpdateInterval": -1,
   "TrainDate": "2026-12-31",
   "TrainTimetables": [
@@ -61866,21 +61866,21 @@
         "DiningFlagSections": [
           {
             "StartSection": {
-              "StartStationID": "1210",
-              "EndStationID": "3300"
-            },
-            "EndSection": {
-              "StartStationID": "4220",
-              "EndStationID": "5050"
-            }
-          },
-          {
-            "StartSection": {
               "StartStationID": "0930",
               "EndStationID": "1020"
             },
             "EndSection": {
               "StartStationID": "3300",
+              "EndStationID": "5050"
+            }
+          },
+          {
+            "StartSection": {
+              "StartStationID": "1210",
+              "EndStationID": "3300"
+            },
+            "EndSection": {
+              "StartStationID": "4220",
               "EndStationID": "5050"
             }
           }
@@ -132808,7 +132808,7 @@
         "CarFlag": 0,
         "DailyFlag": 0,
         "ExtraTrainFlag": 0,
-        "SuspendedFlag": 0,
+        "SuspendedFlag": 1,
         "ServiceType": 1,
         "Note": "逢週一至四行駛。本列次不發售無座票，非持本班次車票旅客，請勿搭乘。 第6節為騰雲座艙，為本公司公告指定不發售無座位車票之車廂，持當日當次騰雲座艙車票旅客始可搭乘。"
       },
@@ -132824,7 +132824,7 @@
           },
           "ArrivalTime": "16:43",
           "DepartureTime": "16:43",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 2,
@@ -132837,7 +132837,7 @@
           },
           "ArrivalTime": "16:47",
           "DepartureTime": "16:48",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 3,
@@ -132850,7 +132850,7 @@
           },
           "ArrivalTime": "16:55",
           "DepartureTime": "16:56",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         },
         {
           "StopSequence": 4,
@@ -132863,7 +132863,7 @@
           },
           "ArrivalTime": "17:01",
           "DepartureTime": "17:01",
-          "SuspendedFlag": 0
+          "SuspendedFlag": 1
         }
       ]
     },
